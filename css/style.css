@@ -18,6 +18,12 @@ html, body {
   background: #fff;
 }
 
+/* ---- Layout Variable ---- */
+
+:root {
+  --header-h: 44px;
+}
+
 /* ---- Header ---- */
 
 #header {
@@ -30,6 +36,7 @@ html, body {
   color: #fff;
   padding: 10px 16px;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+  height: var(--header-h);
 }
 
 .header-content {
@@ -80,7 +87,7 @@ html, body {
 
 #filter-panel {
   position: fixed;
-  top: 44px;
+  top: var(--header-h);
   left: 0;
   right: 0;
   z-index: 999;
@@ -170,7 +177,7 @@ html, body {
 
 #schedule-panel {
   position: fixed;
-  top: 44px;
+  top: var(--header-h);
   left: 0;
   right: 0;
   bottom: 0;
@@ -185,10 +192,11 @@ html, body {
 
 .schedule-header {
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
   border-bottom: 1px solid #ddd;
   padding: 0 12px;
-  gap: 8px;
+  gap: 4px 8px;
   flex-shrink: 0;
 }
 
@@ -196,8 +204,14 @@ html, body {
   display: flex;
   gap: 0;
   overflow-x: auto;
-  flex: 1;
+  width: 100%;
   -webkit-overflow-scrolling: touch;
+}
+
+.schedule-actions {
+  display: flex;
+  gap: 6px;
+  padding: 4px 0 8px;
 }
 
 .day-tab {
@@ -235,7 +249,6 @@ html, body {
 
 #export-ics,
 #subscribe-ics {
-  flex-shrink: 0;
   background: #f0f0f0;
   color: #333;
   border: 1px solid #ddd;
@@ -428,7 +441,7 @@ html, body {
 
 #map {
   position: fixed;
-  top: 44px; /* header height */
+  top: var(--header-h); /* header height */
   bottom: 0;
   left: 0;
   right: 0;
@@ -614,12 +627,25 @@ html, body {
 /* ---- Responsive ---- */
 
 @media (min-width: 768px) {
+  :root {
+    --header-h: 48px;
+  }
+
   #header {
     padding: 12px 24px;
   }
 
   #header h1 {
     font-size: 22px;
+  }
+
+  .schedule-day-tabs {
+    width: auto;
+    flex: 1;
+  }
+
+  .schedule-actions {
+    padding: 0;
   }
 
   .leaflet-popup-content {
