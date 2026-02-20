@@ -682,7 +682,7 @@
     // If deployed, use the actual URL. Otherwise show placeholder.
     const loc = window.location;
     if (loc.hostname === 'localhost' || loc.hostname === '127.0.0.1') {
-      return 'https://YOUR-USERNAME.github.io/hoop-finder/';
+      return 'https://wtennis.github.io/hoop-finder/';
     }
     return loc.origin + loc.pathname.replace(/\/[^/]*$/, '/');
   }
