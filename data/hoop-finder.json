@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-20T22:30:59.072Z",
+  "generated_at": "2026-02-20T22:39:18.252Z",
   "seasons": [
     {
       "name": "Winter 2026",
@@ -1771,6 +1771,25 @@
           "notes": null
         },
         {
+          "program": "Youth Open Gym",
+          "type": "drop-in",
+          "ages": "5 and Under",
+          "code": "85298",
+          "date_range": "1/4-3/30",
+          "cost": "FREE",
+          "sessions": [
+            {
+              "day": "Monday-Friday",
+              "time": "4-5:30pm"
+            },
+            {
+              "day": "Sunday",
+              "time": "3-7pm"
+            }
+          ],
+          "notes": null
+        },
+        {
           "program": "Open Gym - Adult",
           "type": "drop-in",
           "ages": "18 and Older",
@@ -2270,21 +2289,6 @@
             {
               "day": "Monday-Friday",
               "time": "2-3:30pm"
-            }
-          ],
-          "notes": null
-        },
-        {
-          "program": "Basketball - Teen",
-          "type": "drop-in",
-          "ages": "12-17",
-          "code": "84346",
-          "date_range": "1/2-3/31",
-          "cost": "FREE",
-          "sessions": [
-            {
-              "day": "Monday-Thursday",
-              "time": "3:45-5:45pm"
             }
           ],
           "notes": null

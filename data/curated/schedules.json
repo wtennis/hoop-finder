@@ -258,6 +258,24 @@
     },
     {
       "season": "Winter 2026",
+      "center": "High Point Community Center",
+      "address": "6920 34th Ave SW, Seattle, WA 98126",
+      "phone": "206-684-7422",
+      "zone": 1,
+      "center_hours": "Mon-Fri 9am-8pm, Sat 9am-5pm, Sun Noon-7pm",
+      "type": "drop-in",
+      "program": "Youth Open Gym",
+      "ages": "5 and Under",
+      "code": "85298",
+      "date_range": "1/4-3/30",
+      "cost": "FREE",
+      "sessions": [
+        { "day": "Monday-Friday", "time": "4-5:30pm" },
+        { "day": "Sunday", "time": "3-7pm" }
+      ]
+    },
+    {
+      "season": "Winter 2026",
       "center": "International District/Chinatown Community Center",
       "address": "719 8th Ave S, Seattle, WA 98104",
       "phone": "206-233-0042",
@@ -479,23 +497,6 @@
       "cost": "FREE",
       "sessions": [
         { "day": "Monday-Friday", "time": "2-3:30pm" }
-      ]
-    },
-    {
-      "season": "Winter 2026",
-      "center": "Magnuson Community Center",
-      "address": "7110 62nd Ave NE, Seattle, WA 98115",
-      "phone": "206-684-7026",
-      "zone": 3,
-      "center_hours": "Mon/Tue/Fri 2-9pm, Wed/Thu 9am-8pm, Sat 10am-5pm",
-      "type": "drop-in",
-      "program": "Basketball - Teen",
-      "ages": "12-17",
-      "code": "84346",
-      "date_range": "1/2-3/31",
-      "cost": "FREE",
-      "sessions": [
-        { "day": "Monday-Thursday", "time": "3:45-5:45pm" }
       ]
     },
     {
