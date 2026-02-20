@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>HoopFinder - Seattle Pickup Basketball</title>
+  <meta name="description" content="Find basketball courts, open gyms, and pickup runs in Seattle. Every court, every schedule, one map.">
+
+  <!-- Leaflet CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+    crossorigin="">
+
+  <!-- App CSS -->
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <header id="header">
+    <div class="header-content">
+      <h1>HoopFinder</h1>
+      <span class="subtitle">Seattle Basketball Courts</span>
+      <div class="header-buttons">
+        <button id="filter-toggle" aria-label="Toggle filters">Filters</button>
+        <button id="schedule-toggle" aria-label="Toggle schedule">Schedule</button>
+      </div>
+    </div>
+  </header>
+
+  <div id="filter-panel" class="hidden">
+    <div class="filter-group">
+      <div class="filter-label">Location</div>
+      <div class="filter-chips">
+        <button class="chip active" data-filter="location" data-value="outdoor">Outdoor Courts</button>
+        <button class="chip active" data-filter="location" data-value="indoor">Community Centers</button>
+      </div>
+    </div>
+    <div class="filter-group">
+      <div class="filter-label">Age Group</div>
+      <div class="filter-chips">
+        <button class="chip active" data-filter="age" data-value="adult">Adult (18+)</button>
+        <button class="chip active" data-filter="age" data-value="teen">Teen (11-18)</button>
+        <button class="chip active" data-filter="age" data-value="youth">Youth (&lt;11)</button>
+        <button class="chip active" data-filter="age" data-value="all">All Ages</button>
+      </div>
+    </div>
+    <div class="filter-group">
+      <div class="filter-label">Gender</div>
+      <div class="filter-chips">
+        <button class="chip active" data-filter="gender" data-value="open">Open</button>
+        <button class="chip active" data-filter="gender" data-value="womens">Women's</button>
+        <button class="chip active" data-filter="gender" data-value="mens">Men's</button>
+      </div>
+    </div>
+    <div class="filter-group">
+      <div class="filter-label">Cost</div>
+      <div class="filter-chips">
+        <button class="chip active" data-filter="cost" data-value="free">Free</button>
+        <button class="chip active" data-filter="cost" data-value="paid">Paid</button>
+      </div>
+    </div>
+    <div class="filter-group">
+      <div class="filter-label">Has Schedule</div>
+      <div class="filter-chips">
+        <button class="chip" data-filter="schedule" data-value="yes">Only with events</button>
+      </div>
+    </div>
+    <div class="filter-actions">
+      <button id="filter-reset">Reset All</button>
+      <span id="filter-count"></span>
+    </div>
+  </div>
+
+  <div id="schedule-panel" class="hidden">
+    <div class="schedule-header">
+      <div class="schedule-day-tabs" id="day-tabs"></div>
+      <button id="export-ics" title="Download filtered .ics file">Download .ics</button>
+      <button id="subscribe-ics" title="Get subscribe URL for calendar app">Subscribe</button>
+    </div>
+    <div id="schedule-list"></div>
+  </div>
+
+  <div id="map"></div>
+
+  <div id="subscribe-modal" class="modal hidden">
+    <div class="modal-content">
+      <h3>Subscribe to Calendar</h3>
+      <p class="modal-desc">Add this URL to your calendar app to auto-sync events. Updates when the schedule changes.</p>
+      <div class="modal-url-group">
+        <label class="modal-label" id="subscribe-label"></label>
+        <div class="modal-url-row">
+          <input type="text" id="subscribe-url" readonly>
+          <button id="copy-url">Copy</button>
+        </div>
+      </div>
+      <details class="modal-help">
+        <summary>How to subscribe</summary>
+        <div class="modal-help-body">
+          <p><strong>Google Calendar:</strong> Settings → Add calendar → From URL → paste the link</p>
+          <p><strong>Apple Calendar:</strong> File → New Calendar Subscription → paste the link</p>
+          <p><strong>Outlook:</strong> Add calendar → Subscribe from web → paste the link</p>
+        </div>
+      </details>
+      <button id="close-modal" class="modal-close">Done</button>
+    </div>
+  </div>
+
+  <!-- Leaflet JS -->
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+    integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+    crossorigin=""></script>
+
+  <!-- App JS -->
+  <script src="js/app.js"></script>
+
+</body>
+</html>

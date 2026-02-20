@@ -1,0 +1,88 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//HoopFinder//Seattle Basketball//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:HoopFinder — Youth
+X-WR-TIMEZONE:America/Los_Angeles
+BEGIN:VEVENT
+UID:89382-mon-0@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260420T171500
+DTEND;TZID=America/Los_Angeles:20260420T191500
+RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20260615T235900
+SUMMARY:Mini Hoopers League @ Laurelhurst Community Center
+DESCRIPTION:Ages: 6-7\\nCost: $100\\nDates: 4/20-6/15
+LOCATION:Laurelhurst Community Center\, 4554 NE 41st St\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:87574-sat-1@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260404T123000
+DTEND;TZID=America/Los_Angeles:20260404T133000
+RRULE:FREQ=WEEKLY;BYDAY=SA;UNTIL=20260613T235900
+SUMMARY:Basketball Programs - Little Hoopers @ Meadowbrook Community Center
+DESCRIPTION:Ages: 5-7\\nCost: $121\\nDates: 4/4-6/13
+LOCATION:Meadowbrook Community Center\, 10517 35th Ave NE\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:87573-sat-2@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260404T140000
+DTEND;TZID=America/Los_Angeles:20260404T150000
+RRULE:FREQ=WEEKLY;BYDAY=SA;UNTIL=20260613T235900
+SUMMARY:Basketball Programs - Junior Hoopers @ Meadowbrook Community Center
+DESCRIPTION:Ages: 8-10\\nCost: $121\\nDates: 4/4-6/13
+LOCATION:Meadowbrook Community Center\, 10517 35th Ave NE\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:88117-fri-3@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260403T181500
+DTEND;TZID=America/Los_Angeles:20260403T190000
+RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260501T235900
+SUMMARY:Basketball: Little Dribblers @ Northgate Community Center
+DESCRIPTION:Ages: 5-6\\nCost: $60\\nDates: 4/3-5/1
+LOCATION:Northgate Community Center\, 10510 5th Ave NE\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:88119-fri-4@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260403T190500
+DTEND;TZID=America/Los_Angeles:20260403T195000
+RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260501T235900
+SUMMARY:Basketball: Little Dribblers @ Northgate Community Center
+DESCRIPTION:Ages: 7-11\\nCost: $60\\nDates: 4/3-5/1
+LOCATION:Northgate Community Center\, 10510 5th Ave NE\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:88214-fri-5@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260403T163000
+DTEND;TZID=America/Los_Angeles:20260403T171500
+RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260612T235900
+SUMMARY:Basketball: Little Hoopers @ Ravenna-Eckstein Community Center
+DESCRIPTION:Ages: 5-7\\nCost: $86\\nDates: 4/3-6/12
+LOCATION:Ravenna-Eckstein Community Center\, 6535 Ravenna Ave NE\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:88215-fri-6@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260403T173000
+DTEND;TZID=America/Los_Angeles:20260403T181500
+RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260612T235900
+SUMMARY:Basketball: Little Hoopers @ Ravenna-Eckstein Community Center
+DESCRIPTION:Ages: 8-11\\nCost: $86\\nDates: 4/3-6/12
+LOCATION:Ravenna-Eckstein Community Center\, 6535 Ravenna Ave NE\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:87815-thu-7@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260409T161500
+DTEND;TZID=America/Los_Angeles:20260409T170000
+RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20260512T235900
+SUMMARY:Basketball: Little Hoopers @ Green Lake Community Center
+DESCRIPTION:Ages: 5-7\\nCost: $95\\nDates: 4/7-5/12
+LOCATION:Green Lake Community Center\, 7201 E Green Lake Dr N\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:87817-thu-8@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260409T171500
+DTEND;TZID=America/Los_Angeles:20260409T180000
+RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20260512T235900
+SUMMARY:Basketball: Little Hoopers @ Green Lake Community Center
+DESCRIPTION:Ages: 8-12\\nCost: $95\\nDates: 4/7-5/12
+LOCATION:Green Lake Community Center\, 7201 E Green Lake Dr N\, Seattle\, WA
+END:VEVENT
+END:VCALENDAR

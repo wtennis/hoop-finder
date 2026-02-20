@@ -1,0 +1,2255 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "EPSG:4326"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8454,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.313480685151,
+          47.6650482112455
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8454,
+        "PARKNAME": "University Heights",
+        "ADDRESS": "5001 University Way NE",
+        "TYPE": "Half",
+        "NUMBEROFCOURTS": 1,
+        "REGSIZE": null,
+        "POINT_X": null,
+        "POINT_Y": null,
+        "GIS_EDT_DT": 1771266352208,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "PMAID": "4471",
+        "LOCID": null,
+        "AMWO_ID": null,
+        "RES1": null,
+        "RES2": null,
+        "GLOBALID": "17f5d9db-6528-4206-b884-fc050b340c6c",
+        "GIS_CREATOR": "SeattleParks_SeattleCityGIS",
+        "GIS_CRT_DT": 1771266352208,
+        "GIS_EDITOR": "SeattleParks_SeattleCityGIS",
+        "SDQL": "QL-D3"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8455,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.363260607344,
+          47.5613348354807
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8455,
+        "PARKNAME": "Delridge Playfield",
+        "ADDRESS": "4458 Delridge Way SW",
+        "TYPE": "Full",
+        "NUMBEROFCOURTS": 1,
+        "REGSIZE": null,
+        "POINT_X": 1262704.08389939,
+        "POINT_Y": 208512.73398483,
+        "GIS_EDT_DT": 1771266352208,
+        "LATITUDE": 47.56133484,
+        "LONGITUDE": -122.36326061,
+        "PMAID": "450",
+        "LOCID": null,
+        "AMWO_ID": null,
+        "RES1": null,
+        "RES2": null,
+        "GLOBALID": "20400c4f-b7cc-468a-a56a-143ecc66af11",
+        "GIS_CREATOR": "SeattleParks_SeattleCityGIS",
+        "GIS_CRT_DT": 1771266352208,
+        "GIS_EDITOR": "SeattleParks_SeattleCityGIS",
+        "SDQL": "QL-D3"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8456,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.391439581635,
+          47.6402289004025
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8456,
+        "PARKNAME": "Ella Bailey Park",
+        "ADDRESS": "2601 W Smith St",
+        "TYPE": "Half",
+        "NUMBEROFCOURTS": 2,
+        "REGSIZE": null,
+        "POINT_X": null,
+        "POINT_Y": null,
+        "GIS_EDT_DT": 1771266352208,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "PMAID": "318",
+        "LOCID": "1311",
+        "AMWO_ID": null,
+        "RES1": null,
+        "RES2": null,
+        "GLOBALID": "5b214688-a42a-44e9-afbe-2e8507af79c4",
+        "GIS_CREATOR": "SeattleParks_SeattleCityGIS",
+        "GIS_CRT_DT": 1771266352208,
+        "GIS_EDITOR": "SeattleParks_SeattleCityGIS",
+        "SDQL": "QL-D3"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8457,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.304492807605,
+          47.6763730192773
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8457,
+        "PARKNAME": "Ravenna-Eckstein Park",
+        "ADDRESS": "6535 Ravenna Ave NE",
+        "TYPE": "Full",
+        "NUMBEROFCOURTS": 1,
+        "REGSIZE": null,
+        "POINT_X": 1278013.16082922,
+        "POINT_Y": 250184.10665852,
+        "GIS_EDT_DT": 1771266352208,
+        "LATITUDE": 47.67637302,
+        "LONGITUDE": -122.30449281,
+        "PMAID": "488",
+        "LOCID": null,
+        "AMWO_ID": null,
+        "RES1": null,
+        "RES2": null,
+        "GLOBALID": "df7e34bf-b810-484d-aa09-7797970c3109",
+        "GIS_CREATOR": "SeattleParks_SeattleCityGIS",
+        "GIS_CRT_DT": 1771266352208,
+        "GIS_EDITOR": "SeattleParks_SeattleCityGIS",
+        "SDQL": "QL-D3"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8458,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32813628825,
+          47.680011928399
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8458,
+        "PARKNAME": "Green Lake Park",
+        "ADDRESS": "7201 East Green Lake Dr N",
+        "TYPE": "Both",
+        "NUMBEROFCOURTS": 2,
+        "REGSIZE": null,
+        "POINT_X": 1272215.36414114,
+        "POINT_Y": 251623.44279441,
+        "GIS_EDT_DT": 1771266352208,
+        "LATITUDE": 47.68001193,
+        "LONGITUDE": -122.32813629,
+        "PMAID": "307",
+        "LOCID": null,
+        "AMWO_ID": null,
+        "RES1": null,
+        "RES2": null,
+        "GLOBALID": "936db32c-2177-4cc0-b416-1151c8dbb06b",
+        "GIS_CREATOR": "SeattleParks_SeattleCityGIS",
+        "GIS_CRT_DT": 1771266352208,
+        "GIS_EDITOR": "SeattleParks_SeattleCityGIS",
+        "SDQL": "QL-D3"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8459,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.325306470956,
+          47.5284180110623
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8459,
+        "PARKNAME": "South Park Playground",
+        "ADDRESS": "8319 8th Ave S",
+        "TYPE": "Both",
+        "NUMBEROFCOURTS": 3,
+        "REGSIZE": null,
+        "POINT_X": null,
+        "POINT_Y": null,
+        "GIS_EDT_DT": 1771266352208,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "PMAID": "467",
+        "LOCID": "1177",
+        "AMWO_ID": null,
+        "RES1": null,
+        "RES2": null,
+        "GLOBALID": "2269ee5b-d8c6-4e7c-b1d7-e12f78a808a5",
+        "GIS_CREATOR": "SeattleParks_SeattleCityGIS",
+        "GIS_CRT_DT": 1771266352208,
+        "GIS_EDITOR": "SeattleParks_SeattleCityGIS",
+        "SDQL": "QL-D3"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8460,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.295998556646,
+          47.5996655169783
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8460,
+        "PARKNAME": "Flo Ware Park",
+        "ADDRESS": "28th Ave S/S Jackson St",
+        "TYPE": "Half",
+        "NUMBEROFCOURTS": 1,
+        "REGSIZE": null,
+        "POINT_X": 1279573.60027243,
+        "POINT_Y": 222169.025786,
+        "GIS_EDT_DT": 1771266352208,
+        "LATITUDE": 47.59966552,
+        "LONGITUDE": -122.29599856,
+        "PMAID": "363",
+        "LOCID": null,
+        "AMWO_ID": null,
+        "RES1": null,
+        "RES2": null,
+        "GLOBALID": "62ce6f31-21c4-46de-95d6-12787b1e423f",
+        "GIS_CREATOR": "SeattleParks_SeattleCityGIS",
+        "GIS_CRT_DT": 1771266352208,
+        "GIS_EDITOR": "SeattleParks_SeattleCityGIS",
+        "SDQL": "QL-D3"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8461,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.35973317815,
+          47.6290563464514
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8461,
+        "PARKNAME": "Kerry Park and Viewpoint",
+        "ADDRESS": "211 W Highland Dr",
+        "TYPE": "Half",
+        "NUMBEROFCOURTS": 1,
+        "REGSIZE": null,
+        "POINT_X": 1264064.76043192,
+        "POINT_Y": 233193.02603531,
+        "GIS_EDT_DT": 1771266352208,
+        "LATITUDE": 47.62905635,
+        "LONGITUDE": -122.35973318,
+        "PMAID": "342",
+        "LOCID": null,
+        "AMWO_ID": null,
+        "RES1": null,
+        "RES2": null,
+        "GLOBALID": "3a48a99a-de77-4b18-aa64-232af3759204",
+        "GIS_CREATOR": "SeattleParks_SeattleCityGIS",
+        "GIS_CRT_DT": 1771266352208,
+        "GIS_EDITOR": "SeattleParks_SeattleCityGIS",
+        "SDQL": "QL-D3"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8462,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.286096556661,
+          47.5624533215759
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8462,
+        "PARKNAME": "Rainier Playfield",
+        "ADDRESS": "3700 S Alaska St",
+        "TYPE": "Full",
+        "NUMBEROFCOURTS": 2,
+        "REGSIZE": "HS",
+        "POINT_X": 1281759.93159972,
+        "POINT_Y": 208551.46491008,
+        "GIS_EDT_DT": 1771266352208,
+        "LATITUDE": 47.56245332,
+        "LONGITUDE": -122.28609656,
+        "PMAID": "423",
+        "LOCID": null,
+        "AMWO_ID": null,
+        "RES1": null,
+        "RES2": null,
+        "GLOBALID": "aa581ce1-ac60-4d66-bd6b-db53ec4d7b99",
+        "GIS_CREATOR": "SeattleParks_SeattleCityGIS",
+        "GIS_CRT_DT": 1771266352208,
+        "GIS_EDITOR": "SeattleParks_SeattleCityGIS",
+        "SDQL": "QL-D3"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8463,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.298988333319,
+          47.7181479333648
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8463,
+        "PARKNAME": "Virgil Flaim Park",
+        "ADDRESS": "2700 NE 123rd St",
+        "TYPE": "Half",
+        "NUMBEROFCOURTS": 2,
+        "REGSIZE": null,
+        "POINT_X": null,
+        "POINT_Y": null,
+        "GIS_EDT_DT": 1771266352208,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "PMAID": "4002",
+        "LOCID": "1668",
+        "AMWO_ID": null,
+        "RES1": null,
+        "RES2": null,
+        "GLOBALID": "e1adb9a6-56ac-4705-8a24-cd53afe1825b",
+        "GIS_CREATOR": "SeattleParks_SeattleCityGIS",
+        "GIS_CRT_DT": 1771266352208,
+        "GIS_EDITOR": "SeattleParks_SeattleCityGIS",
+        "SDQL": "QL-D3"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8464,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.29642545154,
+          47.5397378900091
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8464,
+        "PARKNAME": "Van Asselt Playground",
+        "ADDRESS": "7200 Beacon Ave S",
+        "TYPE": "Full",
+        "NUMBEROFCOURTS": 2,
+        "REGSIZE": null,
+        "POINT_X": 1279052.73129764,
+        "POINT_Y": 200315.47880572,
+        "GIS_EDT_DT": 1771266352208,
+        "LATITUDE": 47.53973789,
+        "LONGITUDE": -122.29642545,
+        "PMAID": "431",
+        "LOCID": null,
+        "AMWO_ID": null,
+        "RES1": null,
+        "RES2": null,
+        "GLOBALID": "624b415b-0b6a-48d8-9edf-6bc50b96cece",
+        "GIS_CREATOR": "SeattleParks_SeattleCityGIS",
+        "GIS_CRT_DT": 1771266352208,
+        "GIS_EDITOR": "SeattleParks_SeattleCityGIS",
+        "SDQL": "QL-D3"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8465,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.306219590857,
+          47.6214574594519
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8465,
+        "PARKNAME": "Miller Playfield",
+        "ADDRESS": "400 19th Ave E",
+        "TYPE": "Full",
+        "NUMBEROFCOURTS": 1,
+        "REGSIZE": "HS",
+        "POINT_X": 1277204.4799926,
+        "POINT_Y": 230164.6051003,
+        "GIS_EDT_DT": 1771266352208,
+        "LATITUDE": 47.62145746,
+        "LONGITUDE": -122.30621959,
+        "PMAID": "373",
+        "LOCID": null,
+        "AMWO_ID": null,
+        "RES1": null,
+        "RES2": null,
+        "GLOBALID": "855917fb-49b9-4c9e-882a-13cfa786b8b4",
+        "GIS_CREATOR": "SeattleParks_SeattleCityGIS",
+        "GIS_CRT_DT": 1771266352208,
+        "GIS_EDITOR": "SeattleParks_SeattleCityGIS",
+        "SDQL": "QL-D3"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8466,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.349684548282,
+          47.5397791660681
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8466,
+        "PARKNAME": "Riverview Playfield",
+        "ADDRESS": "722612th Ave SW",
+        "TYPE": "Half",
+        "NUMBEROFCOURTS": 2,
+        "REGSIZE": null,
+        "POINT_X": 1265900.42495915,
+        "POINT_Y": 200585.17100188,
+        "GIS_EDT_DT": 1771266352208,
+        "LATITUDE": 47.53977917,
+        "LONGITUDE": -122.34968455,
+        "PMAID": "463",
+        "LOCID": null,
+        "AMWO_ID": null,
+        "RES1": null,
+        "RES2": null,
+        "GLOBALID": "99c0dfba-1604-4a2c-8ee7-75996c821ca6",
+        "GIS_CREATOR": "SeattleParks_SeattleCityGIS",
+        "GIS_CRT_DT": 1771266352208,
+        "GIS_EDITOR": "SeattleParks_SeattleCityGIS",
+        "SDQL": "QL-D3"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8467,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.332550390143,
+          47.6641439457104
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8467,
+        "PARKNAME": "Meridian Playground",
+        "ADDRESS": "4649 Sunnyside Ave N",
+        "TYPE": "Half",
+        "NUMBEROFCOURTS": 2,
+        "REGSIZE": null,
+        "POINT_X": 1271015.46297522,
+        "POINT_Y": 245857.59282942,
+        "GIS_EDT_DT": 1771266352208,
+        "LATITUDE": 47.66414395,
+        "LONGITUDE": -122.33255039,
+        "PMAID": "1104",
+        "LOCID": null,
+        "AMWO_ID": null,
+        "RES1": null,
+        "RES2": null,
+        "GLOBALID": "38f882c0-7a03-43ee-a96b-2870832be707",
+        "GIS_CREATOR": "SeattleParks_SeattleCityGIS",
+        "GIS_CRT_DT": 1771266352208,
+        "GIS_EDITOR": "SeattleParks_SeattleCityGIS",
+        "SDQL": "QL-D3"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8468,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.323765906046,
+          47.7102098138704
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8468,
+        "PARKNAME": "Hubbard Homestead Park",
+        "ADDRESS": "11203 5th Ave NE",
+        "TYPE": "Half",
+        "NUMBEROFCOURTS": 1,
+        "REGSIZE": null,
+        "POINT_X": null,
+        "POINT_Y": null,
+        "GIS_EDT_DT": 1771266352208,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "PMAID": "4456",
+        "LOCID": "1398",
+        "AMWO_ID": null,
+        "RES1": null,
+        "RES2": null,
+        "GLOBALID": "7db34b7c-5cc2-4ea2-b7d5-9c9343e5fd9a",
+        "GIS_CREATOR": "SeattleParks_SeattleCityGIS",
+        "GIS_CRT_DT": 1771266352208,
+        "GIS_EDITOR": "SeattleParks_SeattleCityGIS",
+        "SDQL": "QL-D3"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8469,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.286303874806,
+          47.5378764429362
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8469,
+        "PARKNAME": "John C. Little, Sr. Park",
+        "ADDRESS": "3551 S Holly St",
+        "TYPE": "Full",
+        "NUMBEROFCOURTS": 2,
+        "REGSIZE": "HS",
+        "POINT_X": 1281539.50672749,
+        "POINT_Y": 199589.24592437,
+        "GIS_EDT_DT": 1771266352208,
+        "LATITUDE": 47.53787644,
+        "LONGITUDE": -122.28630387,
+        "PMAID": "429",
+        "LOCID": null,
+        "AMWO_ID": null,
+        "RES1": null,
+        "RES2": null,
+        "GLOBALID": "07ab33dc-6c5a-4770-8e04-0ff95f0d0c39",
+        "GIS_CREATOR": "SeattleParks_SeattleCityGIS",
+        "GIS_CRT_DT": 1771266352208,
+        "GIS_EDITOR": "SeattleParks_SeattleCityGIS",
+        "SDQL": "QL-D3"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8470,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.284579256532,
+          47.5193843097209
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8470,
+        "PARKNAME": "Benefit Playground",
+        "ADDRESS": "9320 38th Ave S",
+        "TYPE": "Both",
+        "NUMBEROFCOURTS": 2,
+        "REGSIZE": "JrHS",
+        "POINT_X": 1281838.23435092,
+        "POINT_Y": 192837.12621357,
+        "GIS_EDT_DT": 1771266352208,
+        "LATITUDE": 47.51938431,
+        "LONGITUDE": -122.28457926,
+        "PMAID": "436",
+        "LOCID": null,
+        "AMWO_ID": null,
+        "RES1": null,
+        "RES2": null,
+        "GLOBALID": "ced52e57-7e0a-47f6-8d33-5f429ba0eb35",
+        "GIS_CREATOR": "SeattleParks_SeattleCityGIS",
+        "GIS_CRT_DT": 1771266352208,
+        "GIS_EDITOR": "SeattleParks_SeattleCityGIS",
+        "SDQL": "QL-D3"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8471,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.358298256694,
+          47.6955828735457
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8471,
+        "PARKNAME": "Sandel Playground",
+        "ADDRESS": "9053 1st Ave NW",
+        "TYPE": "Half",
+        "NUMBEROFCOURTS": 2,
+        "REGSIZE": null,
+        "POINT_X": 1264899.34395786,
+        "POINT_Y": 257447.84779684,
+        "GIS_EDT_DT": 1771266352208,
+        "LATITUDE": 47.69558287,
+        "LONGITUDE": -122.35829826,
+        "PMAID": "250",
+        "LOCID": null,
+        "AMWO_ID": null,
+        "RES1": null,
+        "RES2": null,
+        "GLOBALID": "b4643029-32de-4033-830f-d6b22df2ff93",
+        "GIS_CREATOR": "SeattleParks_SeattleCityGIS",
+        "GIS_CRT_DT": 1771266352208,
+        "GIS_EDITOR": "SeattleParks_SeattleCityGIS",
+        "SDQL": "QL-D3"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8472,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.301694200132,
+          47.5874232432775
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8472,
+        "PARKNAME": "Colman Playground",
+        "ADDRESS": "1740 23rd Ave S",
+        "TYPE": "Both",
+        "NUMBEROFCOURTS": 3,
+        "REGSIZE": "HS",
+        "POINT_X": 1278083.44213079,
+        "POINT_Y": 217731.04312094,
+        "GIS_EDT_DT": 1771266352208,
+        "LATITUDE": 47.58742324,
+        "LONGITUDE": -122.3016942,
+        "PMAID": "406",
+        "LOCID": null,
+        "AMWO_ID": null,
+        "RES1": null,
+        "RES2": null,
+        "GLOBALID": "a658dba3-ce7a-4891-8ef7-b11ac335b082",
+        "GIS_CREATOR": "SeattleParks_SeattleCityGIS",
+        "GIS_CRT_DT": 1771266352208,
+        "GIS_EDITOR": "SeattleParks_SeattleCityGIS",
+        "SDQL": "QL-D3"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8473,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.301726505965,
+          47.6229539160185
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8473,
+        "PARKNAME": "Prentis I. Frazier Park",
+        "ADDRESS": "401 24th Ave E",
+        "TYPE": "Half",
+        "NUMBEROFCOURTS": 1,
+        "REGSIZE": null,
+        "POINT_X": 1278322.75000037,
+        "POINT_Y": 230689.18748705,
+        "GIS_EDT_DT": 1771266352208,
+        "LATITUDE": 47.62295392,
+        "LONGITUDE": -122.30172651,
+        "PMAID": "357",
+        "LOCID": null,
+        "AMWO_ID": null,
+        "RES1": null,
+        "RES2": null,
+        "GLOBALID": "e3f14240-ba0b-4ebf-8cd1-04f83768497d",
+        "GIS_CREATOR": "SeattleParks_SeattleCityGIS",
+        "GIS_CRT_DT": 1771266352208,
+        "GIS_EDITOR": "SeattleParks_SeattleCityGIS",
+        "SDQL": "QL-D3"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8474,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.269637046567,
+          47.5587272711559
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8474,
+        "PARKNAME": "Lakewood Playground",
+        "ADDRESS": "S Angeline St & 50th Ave S",
+        "TYPE": "Half",
+        "NUMBEROFCOURTS": 1,
+        "REGSIZE": null,
+        "POINT_X": null,
+        "POINT_Y": null,
+        "GIS_EDT_DT": 1771266352208,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "PMAID": "414",
+        "LOCID": "2167",
+        "AMWO_ID": null,
+        "RES1": null,
+        "RES2": null,
+        "GLOBALID": "ad4e87a9-409d-4c58-b857-cc33cde12a11",
+        "GIS_CREATOR": "SeattleParks_SeattleCityGIS",
+        "GIS_CRT_DT": 1771266352208,
+        "GIS_EDITOR": "SeattleParks_SeattleCityGIS",
+        "SDQL": "QL-D3"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8475,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.317081046751,
+          47.6907490607142
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8475,
+        "PARKNAME": "Maple Leaf Reservoir Park",
+        "ADDRESS": "1020 NE 82nd St",
+        "TYPE": "Full",
+        "NUMBEROFCOURTS": 1,
+        "REGSIZE": null,
+        "POINT_X": null,
+        "POINT_Y": null,
+        "GIS_EDT_DT": 1771266352208,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "PMAID": "3881",
+        "LOCID": "1105",
+        "AMWO_ID": null,
+        "RES1": null,
+        "RES2": null,
+        "GLOBALID": "26a94dc7-414d-4217-9114-ccce0c3165a8",
+        "GIS_CREATOR": "SeattleParks_SeattleCityGIS",
+        "GIS_CRT_DT": 1771266352208,
+        "GIS_EDITOR": "SeattleParks_SeattleCityGIS",
+        "SDQL": "QL-D3"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8476,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.314169075288,
+          47.7164962297414
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8476,
+        "PARKNAME": "Pinehurst Playground",
+        "ADDRESS": "12029 14th Ave NE",
+        "TYPE": "Half",
+        "NUMBEROFCOURTS": 1,
+        "REGSIZE": null,
+        "POINT_X": 1275911.42252353,
+        "POINT_Y": 264862.70898926,
+        "GIS_EDT_DT": 1771266352208,
+        "LATITUDE": 47.71649623,
+        "LONGITUDE": -122.31416908,
+        "PMAID": "382",
+        "LOCID": null,
+        "AMWO_ID": null,
+        "RES1": null,
+        "RES2": null,
+        "GLOBALID": "acd1215c-54b0-4e83-89be-7810039a7b1a",
+        "GIS_CREATOR": "SeattleParks_SeattleCityGIS",
+        "GIS_CRT_DT": 1771266352208,
+        "GIS_EDITOR": "SeattleParks_SeattleCityGIS",
+        "SDQL": "QL-D3"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8477,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.295706622656,
+          47.5871487703262
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8477,
+        "PARKNAME": "Bradner Gardens Park",
+        "ADDRESS": "1722 Bradner Pl S",
+        "TYPE": "Half",
+        "NUMBEROFCOURTS": 2,
+        "REGSIZE": null,
+        "POINT_X": 1279558.85818042,
+        "POINT_Y": 217602.80935259,
+        "GIS_EDT_DT": 1771266352208,
+        "LATITUDE": 47.58714877,
+        "LONGITUDE": -122.29570662,
+        "PMAID": "401",
+        "LOCID": null,
+        "AMWO_ID": null,
+        "RES1": null,
+        "RES2": null,
+        "GLOBALID": "69dea0f3-2641-4dc0-ac47-5257d0f27a0a",
+        "GIS_CREATOR": "SeattleParks_SeattleCityGIS",
+        "GIS_CRT_DT": 1771266352208,
+        "GIS_EDITOR": "SeattleParks_SeattleCityGIS",
+        "SDQL": "QL-D3"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8478,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.299711964,
+          47.6847613318995
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8478,
+        "PARKNAME": "Dahl Playfield",
+        "ADDRESS": "7700 25th Ave NE",
+        "TYPE": "Half",
+        "NUMBEROFCOURTS": 1,
+        "REGSIZE": null,
+        "POINT_X": 1279249.02405842,
+        "POINT_Y": 253220.84529091,
+        "GIS_EDT_DT": 1771266352208,
+        "LATITUDE": 47.68476133,
+        "LONGITUDE": -122.29971196,
+        "PMAID": "499",
+        "LOCID": null,
+        "AMWO_ID": null,
+        "RES1": null,
+        "RES2": null,
+        "GLOBALID": "fe5b7fe7-9e55-4dfd-a13e-b6a9313bf1ab",
+        "GIS_CREATOR": "SeattleParks_SeattleCityGIS",
+        "GIS_CRT_DT": 1771266352208,
+        "GIS_EDITOR": "SeattleParks_SeattleCityGIS",
+        "SDQL": "QL-D3"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8479,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.368917137851,
+          47.6670565823166
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8479,
+        "PARKNAME": "Gilman Playground",
+        "ADDRESS": "923 NW 54th St",
+        "TYPE": "Half",
+        "NUMBEROFCOURTS": 1,
+        "REGSIZE": null,
+        "POINT_X": 1262077.21234623,
+        "POINT_Y": 247096.49330337,
+        "GIS_EDT_DT": 1771266352208,
+        "LATITUDE": 47.66705658,
+        "LONGITUDE": -122.36891714,
+        "PMAID": "242",
+        "LOCID": null,
+        "AMWO_ID": null,
+        "RES1": null,
+        "RES2": null,
+        "GLOBALID": "29d1dfae-10a8-4e0b-ad7c-248f4eff25c3",
+        "GIS_CREATOR": "SeattleParks_SeattleCityGIS",
+        "GIS_CRT_DT": 1771266352208,
+        "GIS_EDITOR": "SeattleParks_SeattleCityGIS",
+        "SDQL": "QL-D3"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8480,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32019973597,
+          47.644078789837
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8480,
+        "PARKNAME": "Roanoke Park",
+        "ADDRESS": "950 E Roanoke St",
+        "TYPE": "Half",
+        "NUMBEROFCOURTS": 1,
+        "REGSIZE": null,
+        "POINT_X": null,
+        "POINT_Y": null,
+        "GIS_EDT_DT": 1771266352208,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "PMAID": "379",
+        "LOCID": "1591",
+        "AMWO_ID": null,
+        "RES1": null,
+        "RES2": null,
+        "GLOBALID": "18536372-f09a-4d52-826b-6cceb8af9e71",
+        "GIS_CREATOR": "SeattleParks_SeattleCityGIS",
+        "GIS_CRT_DT": 1771266352208,
+        "GIS_EDITOR": "SeattleParks_SeattleCityGIS",
+        "SDQL": "QL-D3"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8481,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.404023953236,
+          47.6920421435128
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8481,
+        "PARKNAME": "Golden Gardens Park",
+        "ADDRESS": "8498 Seaview Pl",
+        "TYPE": "Half",
+        "NUMBEROFCOURTS": 1,
+        "REGSIZE": null,
+        "POINT_X": null,
+        "POINT_Y": null,
+        "GIS_EDT_DT": 1771266352208,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "PMAID": "243",
+        "LOCID": "1361",
+        "AMWO_ID": null,
+        "RES1": null,
+        "RES2": null,
+        "GLOBALID": "4bee0d1b-68d7-4dd7-8559-0349238e6962",
+        "GIS_CREATOR": "SeattleParks_SeattleCityGIS",
+        "GIS_CRT_DT": 1771266352208,
+        "GIS_EDITOR": "SeattleParks_SeattleCityGIS",
+        "SDQL": "QL-D3"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8482,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.310854238913,
+          47.6728939891596
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8482,
+        "PARKNAME": "Cowen/Ravenna Park",
+        "ADDRESS": "5849 15th Ave NE",
+        "TYPE": "Full",
+        "NUMBEROFCOURTS": 1,
+        "REGSIZE": null,
+        "POINT_X": 1276421.92313394,
+        "POINT_Y": 248945.33084774,
+        "GIS_EDT_DT": 1771266352208,
+        "LATITUDE": 47.67289399,
+        "LONGITUDE": -122.31085424,
+        "PMAID": "391",
+        "LOCID": null,
+        "AMWO_ID": null,
+        "RES1": null,
+        "RES2": null,
+        "GLOBALID": "d493fc71-4829-40df-ac35-7fe387cca6d9",
+        "GIS_CREATOR": "SeattleParks_SeattleCityGIS",
+        "GIS_CRT_DT": 1771266352208,
+        "GIS_EDITOR": "SeattleParks_SeattleCityGIS",
+        "SDQL": "QL-D3"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8483,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.247074328591,
+          47.5101570121596
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8483,
+        "PARKNAME": "Lakeridge Playground",
+        "ADDRESS": "10145 Rainier Ave S",
+        "TYPE": "Full",
+        "NUMBEROFCOURTS": 1,
+        "REGSIZE": null,
+        "POINT_X": 1291115.48481527,
+        "POINT_Y": 189327.68140614,
+        "GIS_EDT_DT": 1771266352208,
+        "LATITUDE": 47.51023821,
+        "LONGITUDE": -122.24677989,
+        "PMAID": "3972",
+        "LOCID": null,
+        "AMWO_ID": null,
+        "RES1": null,
+        "RES2": null,
+        "GLOBALID": "b50caf3d-76c0-4579-90a6-4bc957740bf5",
+        "GIS_CREATOR": "SeattleParks_SeattleCityGIS",
+        "GIS_CRT_DT": 1771266352208,
+        "GIS_EDITOR": "SeattleParks_SeattleCityGIS",
+        "SDQL": "QL-D3"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8484,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.40524588964,
+          47.6568417780793
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8484,
+        "PARKNAME": "Discovery Park",
+        "ADDRESS": "3801 W Government Way",
+        "TYPE": "Full",
+        "NUMBEROFCOURTS": 1,
+        "REGSIZE": "HS",
+        "POINT_X": 1253051.60810485,
+        "POINT_Y": 243551.97412044,
+        "GIS_EDT_DT": 1771266352208,
+        "LATITUDE": 47.65684178,
+        "LONGITUDE": -122.40524589,
+        "PMAID": "310",
+        "LOCID": null,
+        "AMWO_ID": null,
+        "RES1": null,
+        "RES2": null,
+        "GLOBALID": "5e45d123-43f3-4493-bd18-afe36c19e0a6",
+        "GIS_CREATOR": "SeattleParks_SeattleCityGIS",
+        "GIS_CRT_DT": 1771266352208,
+        "GIS_EDITOR": "SeattleParks_SeattleCityGIS",
+        "SDQL": "QL-D3"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8485,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.289676972156,
+          47.5703601509763
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8485,
+        "PARKNAME": "Cheryl Chow Park",
+        "ADDRESS": "3640 35th Ave S",
+        "TYPE": "Half",
+        "NUMBEROFCOURTS": 1,
+        "REGSIZE": null,
+        "POINT_X": null,
+        "POINT_Y": null,
+        "GIS_EDT_DT": 1771266352208,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "PMAID": "4483",
+        "LOCID": null,
+        "AMWO_ID": "SPCT-CCHOW-BB",
+        "RES1": null,
+        "RES2": null,
+        "GLOBALID": "d5447705-4749-431e-bce5-b8f6403365f3",
+        "GIS_CREATOR": "SeattleParks_SeattleCityGIS",
+        "GIS_CRT_DT": 1771266352208,
+        "GIS_EDITOR": "SeattleParks_SeattleCityGIS",
+        "SDQL": "QL-D3"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8486,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.280067081819,
+          47.680038492654
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8486,
+        "PARKNAME": "View Ridge Playfield",
+        "ADDRESS": "4408 NE 70th St",
+        "TYPE": "Half",
+        "NUMBEROFCOURTS": 1,
+        "REGSIZE": null,
+        "POINT_X": 1284054.58140789,
+        "POINT_Y": 251406.83976194,
+        "GIS_EDT_DT": 1771266352208,
+        "LATITUDE": 47.68003849,
+        "LONGITUDE": -122.28006708,
+        "PMAID": "444",
+        "LOCID": null,
+        "AMWO_ID": null,
+        "RES1": null,
+        "RES2": null,
+        "GLOBALID": "8aa26aad-46a2-4ac0-9306-743b6333d743",
+        "GIS_CREATOR": "SeattleParks_SeattleCityGIS",
+        "GIS_CRT_DT": 1771266352208,
+        "GIS_EDITOR": "SeattleParks_SeattleCityGIS",
+        "SDQL": "QL-D3"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8487,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.321917877038,
+          47.5521524965819
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8487,
+        "PARKNAME": "Georgetown Playfield",
+        "ADDRESS": "750 S Homer St",
+        "TYPE": "Half",
+        "NUMBEROFCOURTS": 2,
+        "REGSIZE": null,
+        "POINT_X": 1272844.81441425,
+        "POINT_Y": 204963.79154292,
+        "GIS_EDT_DT": 1771266352208,
+        "LATITUDE": 47.5521525,
+        "LONGITUDE": -122.32191788,
+        "PMAID": "410",
+        "LOCID": null,
+        "AMWO_ID": null,
+        "RES1": null,
+        "RES2": null,
+        "GLOBALID": "736eba74-e42d-4170-836c-021acf34dd18",
+        "GIS_CREATOR": "SeattleParks_SeattleCityGIS",
+        "GIS_CRT_DT": 1771266352208,
+        "GIS_EDITOR": "SeattleParks_SeattleCityGIS",
+        "SDQL": "QL-D3"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8488,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.303313843025,
+          47.5914747807734
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8488,
+        "PARKNAME": "Judkins Park and Playfield",
+        "ADDRESS": "2150 S Norman St",
+        "TYPE": "Both",
+        "NUMBEROFCOURTS": 5,
+        "REGSIZE": "JrHS",
+        "POINT_X": 1277712.05456871,
+        "POINT_Y": 219216.2627317,
+        "GIS_EDT_DT": 1771266352208,
+        "LATITUDE": 47.59147478,
+        "LONGITUDE": -122.30331384,
+        "PMAID": "397",
+        "LOCID": null,
+        "AMWO_ID": null,
+        "RES1": null,
+        "RES2": null,
+        "GLOBALID": "b4034c7c-db58-4f86-8ea3-364fe35f9e95",
+        "GIS_CREATOR": "SeattleParks_SeattleCityGIS",
+        "GIS_CRT_DT": 1771266352208,
+        "GIS_EDITOR": "SeattleParks_SeattleCityGIS",
+        "SDQL": "QL-D3"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8489,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.353433232037,
+          47.6364131274087
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8489,
+        "PARKNAME": "East Queen Anne Playground",
+        "ADDRESS": "1912 Warren Ave N",
+        "TYPE": "Half",
+        "NUMBEROFCOURTS": 1,
+        "REGSIZE": null,
+        "POINT_X": null,
+        "POINT_Y": null,
+        "GIS_EDT_DT": 1771266352208,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "PMAID": "329",
+        "LOCID": "2535",
+        "AMWO_ID": null,
+        "RES1": null,
+        "RES2": null,
+        "GLOBALID": "bd28b4bf-e410-48e2-8dff-431c32292a2b",
+        "GIS_CREATOR": "SeattleParks_SeattleCityGIS",
+        "GIS_CRT_DT": 1771266352208,
+        "GIS_EDITOR": "SeattleParks_SeattleCityGIS",
+        "SDQL": "QL-D3"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8490,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.318070301706,
+          47.5597886416233
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8490,
+        "PARKNAME": "Maple Wood Playfield",
+        "ADDRESS": "4801 Corson Ave S",
+        "TYPE": "Half",
+        "NUMBEROFCOURTS": 1,
+        "REGSIZE": null,
+        "POINT_X": 1273848.5027681,
+        "POINT_Y": 207730.31739143,
+        "GIS_EDT_DT": 1771266352208,
+        "LATITUDE": 47.55978864,
+        "LONGITUDE": -122.3180703,
+        "PMAID": "418",
+        "LOCID": null,
+        "AMWO_ID": null,
+        "RES1": null,
+        "RES2": null,
+        "GLOBALID": "94193761-5aeb-422a-bfb0-0643c3adf086",
+        "GIS_CREATOR": "SeattleParks_SeattleCityGIS",
+        "GIS_CRT_DT": 1771266352208,
+        "GIS_EDITOR": "SeattleParks_SeattleCityGIS",
+        "SDQL": "QL-D3"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8491,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.383424762716,
+          47.6846080869589
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8491,
+        "PARKNAME": "Loyal Heights Playfield",
+        "ADDRESS": "2101 NW 77th St",
+        "TYPE": "Half",
+        "NUMBEROFCOURTS": 1,
+        "REGSIZE": null,
+        "POINT_X": 1258632.22977987,
+        "POINT_Y": 253569.04609755,
+        "GIS_EDT_DT": 1771266352208,
+        "LATITUDE": 47.68460809,
+        "LONGITUDE": -122.38342476,
+        "PMAID": "289",
+        "LOCID": null,
+        "AMWO_ID": null,
+        "RES1": null,
+        "RES2": null,
+        "GLOBALID": "166b4cb0-5078-4963-a918-4d360b26fb85",
+        "GIS_CREATOR": "SeattleParks_SeattleCityGIS",
+        "GIS_CRT_DT": 1771266352208,
+        "GIS_EDITOR": "SeattleParks_SeattleCityGIS",
+        "SDQL": "QL-D3"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8492,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.308495921094,
+          47.5694375656068
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8492,
+        "PARKNAME": "Jefferson Park",
+        "ADDRESS": "4165 16th Ave S",
+        "TYPE": "Full",
+        "NUMBEROFCOURTS": 1,
+        "REGSIZE": "HS",
+        "POINT_X": 1276279.50250064,
+        "POINT_Y": 211203.80130622,
+        "GIS_EDT_DT": 1771266352208,
+        "LATITUDE": 47.56943757,
+        "LONGITUDE": -122.30849592,
+        "PMAID": "114",
+        "LOCID": null,
+        "AMWO_ID": null,
+        "RES1": null,
+        "RES2": null,
+        "GLOBALID": "9619a819-490b-4456-8ea6-4d01e2fbd116",
+        "GIS_CREATOR": "SeattleParks_SeattleCityGIS",
+        "GIS_CRT_DT": 1771266352208,
+        "GIS_EDITOR": "SeattleParks_SeattleCityGIS",
+        "SDQL": "QL-D3"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8493,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.349408012016,
+          47.6556475348033
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8493,
+        "PARKNAME": "B.F. Day Playground",
+        "ADDRESS": "4020 Fremont Ave",
+        "TYPE": "Full",
+        "NUMBEROFCOURTS": 1,
+        "REGSIZE": null,
+        "POINT_X": 1266801.29398267,
+        "POINT_Y": 242840.36828248,
+        "GIS_EDT_DT": 1771266352208,
+        "LATITUDE": 47.65564754,
+        "LONGITUDE": -122.34940801,
+        "PMAID": "241",
+        "LOCID": null,
+        "AMWO_ID": null,
+        "RES1": null,
+        "RES2": null,
+        "GLOBALID": "637c9c9f-b8a1-4eea-bd61-561f854d18be",
+        "GIS_CREATOR": "SeattleParks_SeattleCityGIS",
+        "GIS_CRT_DT": 1771266352208,
+        "GIS_EDITOR": "SeattleParks_SeattleCityGIS",
+        "SDQL": "QL-D3"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8494,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.307769322526,
+          47.7060292436647
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8494,
+        "PARKNAME": "Victory Heights Playground",
+        "ADDRESS": "1747 NE 106th St",
+        "TYPE": "Half",
+        "NUMBEROFCOURTS": 1,
+        "REGSIZE": null,
+        "POINT_X": null,
+        "POINT_Y": null,
+        "GIS_EDT_DT": 1771266352208,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "PMAID": "438",
+        "LOCID": "1875",
+        "AMWO_ID": null,
+        "RES1": null,
+        "RES2": null,
+        "GLOBALID": "a2fb92b8-8ece-4783-b168-3364a40a8262",
+        "GIS_CREATOR": "SeattleParks_SeattleCityGIS",
+        "GIS_CRT_DT": 1771266352208,
+        "GIS_EDITOR": "SeattleParks_SeattleCityGIS",
+        "SDQL": "QL-D3"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8495,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.369789218937,
+          47.5332947504883
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8495,
+        "PARKNAME": "E.C. Hughes Playground",
+        "ADDRESS": "2805 SW Holden St.",
+        "TYPE": "Both",
+        "NUMBEROFCOURTS": 2,
+        "REGSIZE": null,
+        "POINT_X": 1260888.30487557,
+        "POINT_Y": 198318.84485492,
+        "GIS_EDT_DT": 1771266352208,
+        "LATITUDE": 47.53329475,
+        "LONGITUDE": -122.36978922,
+        "PMAID": "458",
+        "LOCID": null,
+        "AMWO_ID": null,
+        "RES1": null,
+        "RES2": null,
+        "GLOBALID": "fe8cd291-0ef9-45a6-8760-9a8beff40dcb",
+        "GIS_CREATOR": "SeattleParks_SeattleCityGIS",
+        "GIS_CRT_DT": 1771266352208,
+        "GIS_EDITOR": "SeattleParks_SeattleCityGIS",
+        "SDQL": "QL-D3"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8496,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.384208341601,
+          47.5784596034738
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8496,
+        "PARKNAME": "Hiawatha Playfield",
+        "ADDRESS": "2700 California Ave SW",
+        "TYPE": "Half",
+        "NUMBEROFCOURTS": 1,
+        "REGSIZE": null,
+        "POINT_X": 1257659.02091958,
+        "POINT_Y": 214861.49874201,
+        "GIS_EDT_DT": 1771266352208,
+        "LATITUDE": 47.5784596,
+        "LONGITUDE": -122.38420834,
+        "PMAID": "456",
+        "LOCID": null,
+        "AMWO_ID": null,
+        "RES1": null,
+        "RES2": null,
+        "GLOBALID": "764a9031-43fd-4c1b-a37b-0f862c7f9b68",
+        "GIS_CREATOR": "SeattleParks_SeattleCityGIS",
+        "GIS_CRT_DT": 1771266352208,
+        "GIS_EDITOR": "SeattleParks_SeattleCityGIS",
+        "SDQL": "QL-D3"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8497,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.350216101814,
+          47.6926990878995
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8497,
+        "PARKNAME": "Greenwood Park",
+        "ADDRESS": "8905 Fremont Ave N",
+        "TYPE": "Half",
+        "NUMBEROFCOURTS": 2,
+        "REGSIZE": null,
+        "POINT_X": null,
+        "POINT_Y": null,
+        "GIS_EDT_DT": 1771266352208,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "PMAID": "4408",
+        "LOCID": "1369",
+        "AMWO_ID": null,
+        "RES1": null,
+        "RES2": null,
+        "GLOBALID": "24726416-bd87-45df-b298-acf76861050e",
+        "GIS_CREATOR": "SeattleParks_SeattleCityGIS",
+        "GIS_CRT_DT": 1771266352208,
+        "GIS_EDITOR": "SeattleParks_SeattleCityGIS",
+        "SDQL": "QL-D3"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8498,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.289675056081,
+          47.611013566177
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8498,
+        "PARKNAME": "Madrona Playground",
+        "ADDRESS": "3211 E Spring St",
+        "TYPE": "Full",
+        "NUMBEROFCOURTS": 1,
+        "REGSIZE": null,
+        "POINT_X": 1281211.76618752,
+        "POINT_Y": 226278.07125208,
+        "GIS_EDT_DT": 1771266352208,
+        "LATITUDE": 47.61101357,
+        "LONGITUDE": -122.28967506,
+        "PMAID": "371",
+        "LOCID": null,
+        "AMWO_ID": null,
+        "RES1": null,
+        "RES2": null,
+        "GLOBALID": "e7f9c8de-32e0-470d-bd3f-b8de2e9d0c27",
+        "GIS_CREATOR": "SeattleParks_SeattleCityGIS",
+        "GIS_CRT_DT": 1771266352208,
+        "GIS_EDITOR": "SeattleParks_SeattleCityGIS",
+        "SDQL": "QL-D3"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8499,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.277032996852,
+          47.5359021124706
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8499,
+        "PARKNAME": "Othello Playground",
+        "ADDRESS": "4351 S Othello St",
+        "TYPE": "Both",
+        "NUMBEROFCOURTS": 3,
+        "REGSIZE": null,
+        "POINT_X": 1283815.59273821,
+        "POINT_Y": 198826.11057495,
+        "GIS_EDT_DT": 1771266352208,
+        "LATITUDE": 47.53590211,
+        "LONGITUDE": -122.277033,
+        "PMAID": "403",
+        "LOCID": null,
+        "AMWO_ID": null,
+        "RES1": null,
+        "RES2": null,
+        "GLOBALID": "e6c67d7d-c643-48d0-a3ef-db622fe866a3",
+        "GIS_CREATOR": "SeattleParks_SeattleCityGIS",
+        "GIS_CRT_DT": 1771266352208,
+        "GIS_EDITOR": "SeattleParks_SeattleCityGIS",
+        "SDQL": "QL-D3"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8500,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.309190537824,
+          47.6419196087401
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8500,
+        "PARKNAME": "Montlake Playfield",
+        "ADDRESS": "1618 E Calhoun St",
+        "TYPE": "Full",
+        "NUMBEROFCOURTS": 1,
+        "REGSIZE": null,
+        "POINT_X": null,
+        "POINT_Y": null,
+        "GIS_EDT_DT": 1771266352208,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "PMAID": "376",
+        "LOCID": "1152",
+        "AMWO_ID": null,
+        "RES1": null,
+        "RES2": null,
+        "GLOBALID": "205d8cc9-b092-4ab0-8a7b-8da3f343fc1a",
+        "GIS_CREATOR": "SeattleParks_SeattleCityGIS",
+        "GIS_CRT_DT": 1771266352208,
+        "GIS_EDITOR": "SeattleParks_SeattleCityGIS",
+        "SDQL": "QL-D3"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8501,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.332131997958,
+          47.6218373144662
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8501,
+        "PARKNAME": "Cascade Playground",
+        "ADDRESS": "333 Pontius Ave N",
+        "TYPE": "Half",
+        "NUMBEROFCOURTS": 1,
+        "REGSIZE": null,
+        "POINT_X": 1270818.00725441,
+        "POINT_Y": 230426.51118311,
+        "GIS_EDT_DT": 1771266352208,
+        "LATITUDE": 47.62183732,
+        "LONGITUDE": -122.332132,
+        "PMAID": "350",
+        "LOCID": null,
+        "AMWO_ID": null,
+        "RES1": null,
+        "RES2": null,
+        "GLOBALID": "3e0e5c05-744e-4746-8daf-96ac04b0a6d9",
+        "GIS_CREATOR": "SeattleParks_SeattleCityGIS",
+        "GIS_CRT_DT": 1771266352208,
+        "GIS_EDITOR": "SeattleParks_SeattleCityGIS",
+        "SDQL": "QL-D3"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8502,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.361548140208,
+          47.6601975519275
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8502,
+        "PARKNAME": "Ross Playground",
+        "ADDRESS": "4320 4th Ave NW",
+        "TYPE": "Half",
+        "NUMBEROFCOURTS": 1,
+        "REGSIZE": null,
+        "POINT_X": 1263842.87729225,
+        "POINT_Y": 244558.9060389,
+        "GIS_EDT_DT": 1771266352208,
+        "LATITUDE": 47.66019755,
+        "LONGITUDE": -122.36154814,
+        "PMAID": "248",
+        "LOCID": null,
+        "AMWO_ID": null,
+        "RES1": null,
+        "RES2": null,
+        "GLOBALID": "8e704f4c-8f2e-4e83-a115-d61db5a73d29",
+        "GIS_CREATOR": "SeattleParks_SeattleCityGIS",
+        "GIS_CRT_DT": 1771266352208,
+        "GIS_EDITOR": "SeattleParks_SeattleCityGIS",
+        "SDQL": "QL-D3"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8503,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.307908443389,
+          47.6003541161764
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8503,
+        "PARKNAME": "Pratt Park",
+        "ADDRESS": "Yesler Way/20th Ave S",
+        "TYPE": "Both",
+        "NUMBEROFCOURTS": 3,
+        "REGSIZE": null,
+        "POINT_X": 1276640.57293768,
+        "POINT_Y": 222476.22841348,
+        "GIS_EDT_DT": 1771266352208,
+        "LATITUDE": 47.60035412,
+        "LONGITUDE": -122.30790844,
+        "PMAID": "390",
+        "LOCID": null,
+        "AMWO_ID": null,
+        "RES1": null,
+        "RES2": null,
+        "GLOBALID": "2f1b2563-4c3c-4620-878c-2b8bd8991a1d",
+        "GIS_CREATOR": "SeattleParks_SeattleCityGIS",
+        "GIS_CRT_DT": 1771266352208,
+        "GIS_EDITOR": "SeattleParks_SeattleCityGIS",
+        "SDQL": "QL-D3"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8504,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.283045478377,
+          47.5473474000059
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8504,
+        "PARKNAME": "Brighton Playfield",
+        "ADDRESS": "6000 39th Ave S",
+        "TYPE": "Both",
+        "NUMBEROFCOURTS": 3,
+        "REGSIZE": "HS",
+        "POINT_X": 1282409.29602805,
+        "POINT_Y": 203028.1276523,
+        "GIS_EDT_DT": 1771266352208,
+        "LATITUDE": 47.5473474,
+        "LONGITUDE": -122.28304548,
+        "PMAID": "402",
+        "LOCID": null,
+        "AMWO_ID": null,
+        "RES1": null,
+        "RES2": null,
+        "GLOBALID": "92d2b0f5-100a-4a84-912a-4f5cc2c01252",
+        "GIS_CREATOR": "SeattleParks_SeattleCityGIS",
+        "GIS_CRT_DT": 1771266352208,
+        "GIS_EDITOR": "SeattleParks_SeattleCityGIS",
+        "SDQL": "QL-D3"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8505,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.287793338843,
+          47.7260476372709
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8505,
+        "PARKNAME": "Cedar Park",
+        "ADDRESS": "3707 NE 135th St",
+        "TYPE": "Half",
+        "NUMBEROFCOURTS": 2,
+        "REGSIZE": null,
+        "POINT_X": null,
+        "POINT_Y": null,
+        "GIS_EDT_DT": 1771266352208,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "PMAID": "4167",
+        "LOCID": "1237",
+        "AMWO_ID": null,
+        "RES1": null,
+        "RES2": null,
+        "GLOBALID": "c7e2449c-f44b-454b-8266-c4cce8ff5fb9",
+        "GIS_CREATOR": "SeattleParks_SeattleCityGIS",
+        "GIS_CRT_DT": 1771266352208,
+        "GIS_EDITOR": "SeattleParks_SeattleCityGIS",
+        "SDQL": "QL-D3"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8506,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.315621308901,
+          47.586547573697
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8506,
+        "PARKNAME": "Beacon Hill Playfield",
+        "ADDRESS": "1902 13th Ave S",
+        "TYPE": "Half",
+        "NUMBEROFCOURTS": 1,
+        "REGSIZE": null,
+        "POINT_X": 1274641.05511467,
+        "POINT_Y": 217477.57235567,
+        "GIS_EDT_DT": 1771266352208,
+        "LATITUDE": 47.58654757,
+        "LONGITUDE": -122.31562131,
+        "PMAID": "400",
+        "LOCID": null,
+        "AMWO_ID": null,
+        "RES1": null,
+        "RES2": null,
+        "GLOBALID": "af9b4c17-344f-42c1-947f-b5e51897740e",
+        "GIS_CREATOR": "SeattleParks_SeattleCityGIS",
+        "GIS_CRT_DT": 1771266352208,
+        "GIS_EDITOR": "SeattleParks_SeattleCityGIS",
+        "SDQL": "QL-D3"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8507,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.283845833899,
+          47.6674680714423
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8507,
+        "PARKNAME": "Burke-Gilman Playground Park",
+        "ADDRESS": "5201 Sand Point Way NE",
+        "TYPE": "Half",
+        "NUMBEROFCOURTS": 2,
+        "REGSIZE": null,
+        "POINT_X": 1283037.48251288,
+        "POINT_Y": 246839.91407645,
+        "GIS_EDT_DT": 1771266352208,
+        "LATITUDE": 47.66746807,
+        "LONGITUDE": -122.28384583,
+        "PMAID": "496",
+        "LOCID": null,
+        "AMWO_ID": null,
+        "RES1": null,
+        "RES2": null,
+        "GLOBALID": "122c3310-6ce8-4f1b-9d7d-627e63fdfd87",
+        "GIS_CREATOR": "SeattleParks_SeattleCityGIS",
+        "GIS_CRT_DT": 1771266352208,
+        "GIS_EDITOR": "SeattleParks_SeattleCityGIS",
+        "SDQL": "QL-D3"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8508,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.259911187271,
+          47.5149160423048
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8508,
+        "PARKNAME": "Hutchinson Playground",
+        "ADDRESS": "S Norfolk/59th Ave S",
+        "TYPE": "Full",
+        "NUMBEROFCOURTS": 2,
+        "REGSIZE": null,
+        "POINT_X": 1287902.38289155,
+        "POINT_Y": 191093.57522115,
+        "GIS_EDT_DT": 1771266352208,
+        "LATITUDE": 47.51491604,
+        "LONGITUDE": -122.25991119,
+        "PMAID": "439",
+        "LOCID": null,
+        "AMWO_ID": null,
+        "RES1": null,
+        "RES2": null,
+        "GLOBALID": "f64ebec4-ae1e-4a81-a19b-f1c169896dfc",
+        "GIS_CREATOR": "SeattleParks_SeattleCityGIS",
+        "GIS_CRT_DT": 1771266352208,
+        "GIS_EDITOR": "SeattleParks_SeattleCityGIS",
+        "SDQL": "QL-D3"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8509,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.283987377992,
+          47.6753200976865
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8509,
+        "PARKNAME": "Bryant Neighborhood Playground",
+        "ADDRESS": "4103 NE 65th St",
+        "TYPE": "Half",
+        "NUMBEROFCOURTS": 2,
+        "REGSIZE": null,
+        "POINT_X": 1283056.59967586,
+        "POINT_Y": 249704.21385108,
+        "GIS_EDT_DT": 1771266352208,
+        "LATITUDE": 47.6753201,
+        "LONGITUDE": -122.28398738,
+        "PMAID": "482",
+        "LOCID": null,
+        "AMWO_ID": null,
+        "RES1": null,
+        "RES2": null,
+        "GLOBALID": "59bd1653-0d87-46f0-8a57-1714ce49a2f8",
+        "GIS_CREATOR": "SeattleParks_SeattleCityGIS",
+        "GIS_CRT_DT": 1771266352208,
+        "GIS_EDITOR": "SeattleParks_SeattleCityGIS",
+        "SDQL": "QL-D3"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8510,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.387390114127,
+          47.643647900575
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8510,
+        "PARKNAME": "Bay View Playground",
+        "ADDRESS": "2614 24th Ave W",
+        "TYPE": "Half",
+        "NUMBEROFCOURTS": 1,
+        "REGSIZE": null,
+        "POINT_X": 1257354.00976169,
+        "POINT_Y": 238650.91524188,
+        "GIS_EDT_DT": 1771266352208,
+        "LATITUDE": 47.6436479,
+        "LONGITUDE": -122.38739011,
+        "PMAID": "303",
+        "LOCID": null,
+        "AMWO_ID": null,
+        "RES1": null,
+        "RES2": null,
+        "GLOBALID": "cfc019e6-817b-4b7e-86fc-76ce255dc3bd",
+        "GIS_CREATOR": "SeattleParks_SeattleCityGIS",
+        "GIS_CRT_DT": 1771266352208,
+        "GIS_EDITOR": "SeattleParks_SeattleCityGIS",
+        "SDQL": "QL-D3"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8511,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.407436794075,
+          47.5778734755519
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8511,
+        "PARKNAME": "Alki Playground",
+        "ADDRESS": "5817 SW Lander St",
+        "TYPE": "Half",
+        "NUMBEROFCOURTS": 2,
+        "REGSIZE": null,
+        "POINT_X": 1251922.63427824,
+        "POINT_Y": 214764.14046854,
+        "GIS_EDT_DT": 1771266352208,
+        "LATITUDE": 47.57787348,
+        "LONGITUDE": -122.40743679,
+        "PMAID": "446",
+        "LOCID": null,
+        "AMWO_ID": null,
+        "RES1": null,
+        "RES2": null,
+        "GLOBALID": "6b8bec3a-cc70-461f-965c-3c0b8ba7b488",
+        "GIS_CREATOR": "SeattleParks_SeattleCityGIS",
+        "GIS_CRT_DT": 1771266352208,
+        "GIS_EDITOR": "SeattleParks_SeattleCityGIS",
+        "SDQL": "QL-D3"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8512,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.274429775764,
+          47.6972247404002
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8512,
+        "PARKNAME": "Matthews Beach Park",
+        "ADDRESS": "9098 51st Ave NE",
+        "TYPE": "Half",
+        "NUMBEROFCOURTS": 1,
+        "REGSIZE": null,
+        "POINT_X": 1285560.39648421,
+        "POINT_Y": 257648.6483327,
+        "GIS_EDT_DT": 1771266352208,
+        "LATITUDE": 47.69722474,
+        "LONGITUDE": -122.27442978,
+        "PMAID": "347",
+        "LOCID": null,
+        "AMWO_ID": null,
+        "RES1": null,
+        "RES2": null,
+        "GLOBALID": "05381237-eda1-474c-997f-9f6093574158",
+        "GIS_CREATOR": "SeattleParks_SeattleCityGIS",
+        "GIS_CRT_DT": 1771266352208,
+        "GIS_EDITOR": "SeattleParks_SeattleCityGIS",
+        "SDQL": "QL-D3"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8513,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.39743129327,
+          47.6774977514873
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8513,
+        "PARKNAME": "Webster Park",
+        "ADDRESS": "3014 NW 67th St",
+        "TYPE": "Half",
+        "NUMBEROFCOURTS": 4,
+        "REGSIZE": null,
+        "POINT_X": 1255130.21212263,
+        "POINT_Y": 251045.77370039,
+        "GIS_EDT_DT": 1771266352208,
+        "LATITUDE": 47.67749775,
+        "LONGITUDE": -122.39743129,
+        "PMAID": "3894",
+        "LOCID": null,
+        "AMWO_ID": null,
+        "RES1": null,
+        "RES2": null,
+        "GLOBALID": "a3a7e73c-4297-4374-9996-0d69ba95609e",
+        "GIS_CREATOR": "SeattleParks_SeattleCityGIS",
+        "GIS_CRT_DT": 1771266352208,
+        "GIS_EDITOR": "SeattleParks_SeattleCityGIS",
+        "SDQL": "QL-D3"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8514,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.295925241527,
+          47.6049909953808
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8514,
+        "PARKNAME": "Powell Barnett Park",
+        "ADDRESS": "352 Martin Luther King Jr",
+        "TYPE": "Both",
+        "NUMBEROFCOURTS": 4,
+        "REGSIZE": null,
+        "POINT_X": 1279628.60181449,
+        "POINT_Y": 224110.88003992,
+        "GIS_EDT_DT": 1771266352208,
+        "LATITUDE": 47.604991,
+        "LONGITUDE": -122.29592524,
+        "PMAID": "345",
+        "LOCID": null,
+        "AMWO_ID": null,
+        "RES1": null,
+        "RES2": null,
+        "GLOBALID": "2e4e8f68-6ca3-403f-8406-189ccd2240b5",
+        "GIS_CREATOR": "SeattleParks_SeattleCityGIS",
+        "GIS_CRT_DT": 1771266352208,
+        "GIS_EDITOR": "SeattleParks_SeattleCityGIS",
+        "SDQL": "QL-D3"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8515,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.257628703592,
+          47.6816770231819
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8515,
+        "PARKNAME": "Magnuson Park",
+        "ADDRESS": "7400 Sand Point Way NE",
+        "TYPE": "Half",
+        "NUMBEROFCOURTS": 5,
+        "REGSIZE": null,
+        "POINT_X": null,
+        "POINT_Y": null,
+        "GIS_EDT_DT": 1771266352208,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "PMAID": "398",
+        "LOCID": "2394",
+        "AMWO_ID": null,
+        "RES1": null,
+        "RES2": null,
+        "GLOBALID": "94b8bead-dd8f-4e28-ae7b-eb23d8ffcf5e",
+        "GIS_CREATOR": "SeattleParks_SeattleCityGIS",
+        "GIS_CRT_DT": 1771266352208,
+        "GIS_EDITOR": "SeattleParks_SeattleCityGIS",
+        "SDQL": "QL-D3"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8516,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.263415612217,
+          47.5243850089561
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8516,
+        "PARKNAME": "Beer Sheva Park",
+        "ADDRESS": "8650 55th Ave S, Seward Park Ave S",
+        "TYPE": "Full",
+        "NUMBEROFCOURTS": 1,
+        "REGSIZE": null,
+        "POINT_X": null,
+        "POINT_Y": null,
+        "GIS_EDT_DT": 1771266352208,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "PMAID": "440",
+        "LOCID": "1925",
+        "AMWO_ID": "SPCT-BSPK-MISC",
+        "RES1": null,
+        "RES2": null,
+        "GLOBALID": "74c97a8d-5c1d-467c-b572-4087e85f04c2",
+        "GIS_CREATOR": "SeattleParks_SeattleCityGIS",
+        "GIS_CRT_DT": 1771266352208,
+        "GIS_EDITOR": "SeattleParks_SeattleCityGIS",
+        "SDQL": "QL-D3"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8517,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.292437804465,
+          47.7196763256329
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8517,
+        "PARKNAME": "Lake City Urban Hub Village",
+        "ADDRESS": "12510 33rd Ave NE",
+        "TYPE": "Half",
+        "NUMBEROFCOURTS": 1,
+        "REGSIZE": null,
+        "POINT_X": null,
+        "POINT_Y": null,
+        "GIS_EDT_DT": 1771266352208,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "PMAID": "4476",
+        "LOCID": "1455",
+        "AMWO_ID": "SPCT-LKCYHB-BB",
+        "RES1": null,
+        "RES2": null,
+        "GLOBALID": "44a8a588-6d52-4551-a039-fc65ec44e981",
+        "GIS_CREATOR": "SeattleParks_SeattleCityGIS",
+        "GIS_CRT_DT": 1771266352208,
+        "GIS_EDITOR": "SeattleParks_SeattleCityGIS",
+        "SDQL": "QL-D3"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8518,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.319868708633,
+          47.6162034596848
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8518,
+        "PARKNAME": "Cal Anderson Park",
+        "ADDRESS": "1635 11th Ave",
+        "TYPE": "Full",
+        "NUMBEROFCOURTS": 1,
+        "REGSIZE": null,
+        "POINT_X": null,
+        "POINT_Y": null,
+        "GIS_EDT_DT": 1771266352208,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "PMAID": "3102",
+        "LOCID": "1211",
+        "AMWO_ID": "SPCT-CALANDPK-BB",
+        "RES1": null,
+        "RES2": null,
+        "GLOBALID": "b54f0a8a-bd88-4513-8dca-c31705cbfdee",
+        "GIS_CREATOR": "SeattleParks_SeattleCityGIS",
+        "GIS_CRT_DT": 1771266352208,
+        "GIS_EDITOR": "SeattleParks_SeattleCityGIS",
+        "SDQL": "QL-D3"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8519,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.320298462693,
+          47.6009930356894
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8519,
+        "PARKNAME": "Yesler Terrace",
+        "ADDRESS": null,
+        "TYPE": "Full",
+        "NUMBEROFCOURTS": 1,
+        "REGSIZE": null,
+        "POINT_X": null,
+        "POINT_Y": null,
+        "GIS_EDT_DT": 1771266352208,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "PMAID": "4263",
+        "LOCID": null,
+        "AMWO_ID": "SPCT-YESCCLGR",
+        "RES1": null,
+        "RES2": null,
+        "GLOBALID": "ff7c2608-d022-472b-95af-a6f5bad2e08e",
+        "GIS_CREATOR": "SeattleParks_SeattleCityGIS",
+        "GIS_CRT_DT": 1771266352208,
+        "GIS_EDITOR": "SeattleParks_SeattleCityGIS",
+        "SDQL": "QL-D3"
+      }
+    }
+  ]
+}

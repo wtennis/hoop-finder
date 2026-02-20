@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//HoopFinder//Seattle Basketball//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:HoopFinder — Men's
+X-WR-TIMEZONE:America/Los_Angeles
+BEGIN:VEVENT
+UID:88388-tue-0@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260317T180000
+DTEND;TZID=America/Los_Angeles:20260317T200000
+RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20260630T235900
+SUMMARY:Basketball - Men's @ Magnolia Community Center
+DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 3/17-6/30
+LOCATION:Magnolia Community Center\, 2550  34th Ave W\, Seattle\, WA
+END:VEVENT
+END:VCALENDAR

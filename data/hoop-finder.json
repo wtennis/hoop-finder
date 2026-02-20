@@ -1,0 +1,2335 @@
+{
+  "generated_at": "2026-02-20T20:10:18.397Z",
+  "season": "Spring 2026",
+  "schedule_source": "Seattle Parks & Recreation Spring 2026 Brochure",
+  "locations": [
+    {
+      "id": "court-4471",
+      "type": "outdoor_court",
+      "name": "University Heights",
+      "address": "5001 University Way NE",
+      "lat": 47.6650482112455,
+      "lng": -122.313480685151,
+      "court_type": "half",
+      "court_count": 1,
+      "indoor": false,
+      "cost": "free",
+      "events": []
+    },
+    {
+      "id": "court-450",
+      "type": "outdoor_court",
+      "name": "Delridge Playfield",
+      "address": "4458 Delridge Way SW",
+      "lat": 47.5613348354807,
+      "lng": -122.363260607344,
+      "court_type": "full",
+      "court_count": 1,
+      "indoor": false,
+      "cost": "free",
+      "events": []
+    },
+    {
+      "id": "court-318",
+      "type": "outdoor_court",
+      "name": "Ella Bailey Park",
+      "address": "2601 W Smith St",
+      "lat": 47.6402289004025,
+      "lng": -122.391439581635,
+      "court_type": "half",
+      "court_count": 2,
+      "indoor": false,
+      "cost": "free",
+      "events": []
+    },
+    {
+      "id": "court-488",
+      "type": "outdoor_court",
+      "name": "Ravenna-Eckstein Park",
+      "address": "6535 Ravenna Ave NE",
+      "lat": 47.6763730192773,
+      "lng": -122.304492807605,
+      "court_type": "full",
+      "court_count": 1,
+      "indoor": false,
+      "cost": "free",
+      "events": []
+    },
+    {
+      "id": "court-307",
+      "type": "outdoor_court",
+      "name": "Green Lake Park",
+      "address": "7201 East Green Lake Dr N",
+      "lat": 47.680011928399,
+      "lng": -122.32813628825,
+      "court_type": "both",
+      "court_count": 2,
+      "indoor": false,
+      "cost": "free",
+      "events": []
+    },
+    {
+      "id": "court-467",
+      "type": "outdoor_court",
+      "name": "South Park Playground",
+      "address": "8319 8th Ave S",
+      "lat": 47.5284180110623,
+      "lng": -122.325306470956,
+      "court_type": "both",
+      "court_count": 3,
+      "indoor": false,
+      "cost": "free",
+      "events": []
+    },
+    {
+      "id": "court-363",
+      "type": "outdoor_court",
+      "name": "Flo Ware Park",
+      "address": "28th Ave S/S Jackson St",
+      "lat": 47.5996655169783,
+      "lng": -122.295998556646,
+      "court_type": "half",
+      "court_count": 1,
+      "indoor": false,
+      "cost": "free",
+      "events": []
+    },
+    {
+      "id": "court-342",
+      "type": "outdoor_court",
+      "name": "Kerry Park and Viewpoint",
+      "address": "211 W Highland Dr",
+      "lat": 47.6290563464514,
+      "lng": -122.35973317815,
+      "court_type": "half",
+      "court_count": 1,
+      "indoor": false,
+      "cost": "free",
+      "events": []
+    },
+    {
+      "id": "court-423",
+      "type": "outdoor_court",
+      "name": "Rainier Playfield",
+      "address": "3700 S Alaska St",
+      "lat": 47.5624533215759,
+      "lng": -122.286096556661,
+      "court_type": "full",
+      "court_count": 2,
+      "indoor": false,
+      "cost": "free",
+      "events": []
+    },
+    {
+      "id": "court-4002",
+      "type": "outdoor_court",
+      "name": "Virgil Flaim Park",
+      "address": "2700 NE 123rd St",
+      "lat": 47.7181479333648,
+      "lng": -122.298988333319,
+      "court_type": "half",
+      "court_count": 2,
+      "indoor": false,
+      "cost": "free",
+      "events": []
+    },
+    {
+      "id": "court-431",
+      "type": "outdoor_court",
+      "name": "Van Asselt Playground",
+      "address": "7200 Beacon Ave S",
+      "lat": 47.5397378900091,
+      "lng": -122.29642545154,
+      "court_type": "full",
+      "court_count": 2,
+      "indoor": false,
+      "cost": "free",
+      "events": []
+    },
+    {
+      "id": "court-373",
+      "type": "outdoor_court",
+      "name": "Miller Playfield",
+      "address": "400 19th Ave E",
+      "lat": 47.6214574594519,
+      "lng": -122.306219590857,
+      "court_type": "full",
+      "court_count": 1,
+      "indoor": false,
+      "cost": "free",
+      "events": []
+    },
+    {
+      "id": "court-463",
+      "type": "outdoor_court",
+      "name": "Riverview Playfield",
+      "address": "722612th Ave SW",
+      "lat": 47.5397791660681,
+      "lng": -122.349684548282,
+      "court_type": "half",
+      "court_count": 2,
+      "indoor": false,
+      "cost": "free",
+      "events": []
+    },
+    {
+      "id": "court-1104",
+      "type": "outdoor_court",
+      "name": "Meridian Playground",
+      "address": "4649 Sunnyside Ave N",
+      "lat": 47.6641439457104,
+      "lng": -122.332550390143,
+      "court_type": "half",
+      "court_count": 2,
+      "indoor": false,
+      "cost": "free",
+      "events": []
+    },
+    {
+      "id": "court-4456",
+      "type": "outdoor_court",
+      "name": "Hubbard Homestead Park",
+      "address": "11203 5th Ave NE",
+      "lat": 47.7102098138704,
+      "lng": -122.323765906046,
+      "court_type": "half",
+      "court_count": 1,
+      "indoor": false,
+      "cost": "free",
+      "events": []
+    },
+    {
+      "id": "court-429",
+      "type": "outdoor_court",
+      "name": "John C. Little, Sr. Park",
+      "address": "3551 S Holly St",
+      "lat": 47.5378764429362,
+      "lng": -122.286303874806,
+      "court_type": "full",
+      "court_count": 2,
+      "indoor": false,
+      "cost": "free",
+      "events": []
+    },
+    {
+      "id": "court-436",
+      "type": "outdoor_court",
+      "name": "Benefit Playground",
+      "address": "9320 38th Ave S",
+      "lat": 47.5193843097209,
+      "lng": -122.284579256532,
+      "court_type": "both",
+      "court_count": 2,
+      "indoor": false,
+      "cost": "free",
+      "events": []
+    },
+    {
+      "id": "court-250",
+      "type": "outdoor_court",
+      "name": "Sandel Playground",
+      "address": "9053 1st Ave NW",
+      "lat": 47.6955828735457,
+      "lng": -122.358298256694,
+      "court_type": "half",
+      "court_count": 2,
+      "indoor": false,
+      "cost": "free",
+      "events": []
+    },
+    {
+      "id": "court-406",
+      "type": "outdoor_court",
+      "name": "Colman Playground",
+      "address": "1740 23rd Ave S",
+      "lat": 47.5874232432775,
+      "lng": -122.301694200132,
+      "court_type": "both",
+      "court_count": 3,
+      "indoor": false,
+      "cost": "free",
+      "events": []
+    },
+    {
+      "id": "court-357",
+      "type": "outdoor_court",
+      "name": "Prentis I. Frazier Park",
+      "address": "401 24th Ave E",
+      "lat": 47.6229539160185,
+      "lng": -122.301726505965,
+      "court_type": "half",
+      "court_count": 1,
+      "indoor": false,
+      "cost": "free",
+      "events": []
+    },
+    {
+      "id": "court-414",
+      "type": "outdoor_court",
+      "name": "Lakewood Playground",
+      "address": "S Angeline St & 50th Ave S",
+      "lat": 47.5587272711559,
+      "lng": -122.269637046567,
+      "court_type": "half",
+      "court_count": 1,
+      "indoor": false,
+      "cost": "free",
+      "events": []
+    },
+    {
+      "id": "court-3881",
+      "type": "outdoor_court",
+      "name": "Maple Leaf Reservoir Park",
+      "address": "1020 NE 82nd St",
+      "lat": 47.6907490607142,
+      "lng": -122.317081046751,
+      "court_type": "full",
+      "court_count": 1,
+      "indoor": false,
+      "cost": "free",
+      "events": []
+    },
+    {
+      "id": "court-382",
+      "type": "outdoor_court",
+      "name": "Pinehurst Playground",
+      "address": "12029 14th Ave NE",
+      "lat": 47.7164962297414,
+      "lng": -122.314169075288,
+      "court_type": "half",
+      "court_count": 1,
+      "indoor": false,
+      "cost": "free",
+      "events": []
+    },
+    {
+      "id": "court-401",
+      "type": "outdoor_court",
+      "name": "Bradner Gardens Park",
+      "address": "1722 Bradner Pl S",
+      "lat": 47.5871487703262,
+      "lng": -122.295706622656,
+      "court_type": "half",
+      "court_count": 2,
+      "indoor": false,
+      "cost": "free",
+      "events": []
+    },
+    {
+      "id": "court-499",
+      "type": "outdoor_court",
+      "name": "Dahl Playfield",
+      "address": "7700 25th Ave NE",
+      "lat": 47.6847613318995,
+      "lng": -122.299711964,
+      "court_type": "half",
+      "court_count": 1,
+      "indoor": false,
+      "cost": "free",
+      "events": []
+    },
+    {
+      "id": "court-242",
+      "type": "outdoor_court",
+      "name": "Gilman Playground",
+      "address": "923 NW 54th St",
+      "lat": 47.6670565823166,
+      "lng": -122.368917137851,
+      "court_type": "half",
+      "court_count": 1,
+      "indoor": false,
+      "cost": "free",
+      "events": []
+    },
+    {
+      "id": "court-379",
+      "type": "outdoor_court",
+      "name": "Roanoke Park",
+      "address": "950 E Roanoke St",
+      "lat": 47.644078789837,
+      "lng": -122.32019973597,
+      "court_type": "half",
+      "court_count": 1,
+      "indoor": false,
+      "cost": "free",
+      "events": []
+    },
+    {
+      "id": "court-243",
+      "type": "outdoor_court",
+      "name": "Golden Gardens Park",
+      "address": "8498 Seaview Pl",
+      "lat": 47.6920421435128,
+      "lng": -122.404023953236,
+      "court_type": "half",
+      "court_count": 1,
+      "indoor": false,
+      "cost": "free",
+      "events": []
+    },
+    {
+      "id": "court-391",
+      "type": "outdoor_court",
+      "name": "Cowen/Ravenna Park",
+      "address": "5849 15th Ave NE",
+      "lat": 47.6728939891596,
+      "lng": -122.310854238913,
+      "court_type": "full",
+      "court_count": 1,
+      "indoor": false,
+      "cost": "free",
+      "events": []
+    },
+    {
+      "id": "court-3972",
+      "type": "outdoor_court",
+      "name": "Lakeridge Playground",
+      "address": "10145 Rainier Ave S",
+      "lat": 47.5101570121596,
+      "lng": -122.247074328591,
+      "court_type": "full",
+      "court_count": 1,
+      "indoor": false,
+      "cost": "free",
+      "events": []
+    },
+    {
+      "id": "court-310",
+      "type": "outdoor_court",
+      "name": "Discovery Park",
+      "address": "3801 W Government Way",
+      "lat": 47.6568417780793,
+      "lng": -122.40524588964,
+      "court_type": "full",
+      "court_count": 1,
+      "indoor": false,
+      "cost": "free",
+      "events": []
+    },
+    {
+      "id": "court-4483",
+      "type": "outdoor_court",
+      "name": "Cheryl Chow Park",
+      "address": "3640 35th Ave S",
+      "lat": 47.5703601509763,
+      "lng": -122.289676972156,
+      "court_type": "half",
+      "court_count": 1,
+      "indoor": false,
+      "cost": "free",
+      "events": []
+    },
+    {
+      "id": "court-444",
+      "type": "outdoor_court",
+      "name": "View Ridge Playfield",
+      "address": "4408 NE 70th St",
+      "lat": 47.680038492654,
+      "lng": -122.280067081819,
+      "court_type": "half",
+      "court_count": 1,
+      "indoor": false,
+      "cost": "free",
+      "events": []
+    },
+    {
+      "id": "court-410",
+      "type": "outdoor_court",
+      "name": "Georgetown Playfield",
+      "address": "750 S Homer St",
+      "lat": 47.5521524965819,
+      "lng": -122.321917877038,
+      "court_type": "half",
+      "court_count": 2,
+      "indoor": false,
+      "cost": "free",
+      "events": []
+    },
+    {
+      "id": "court-397",
+      "type": "outdoor_court",
+      "name": "Judkins Park and Playfield",
+      "address": "2150 S Norman St",
+      "lat": 47.5914747807734,
+      "lng": -122.303313843025,
+      "court_type": "both",
+      "court_count": 5,
+      "indoor": false,
+      "cost": "free",
+      "events": []
+    },
+    {
+      "id": "court-329",
+      "type": "outdoor_court",
+      "name": "East Queen Anne Playground",
+      "address": "1912 Warren Ave N",
+      "lat": 47.6364131274087,
+      "lng": -122.353433232037,
+      "court_type": "half",
+      "court_count": 1,
+      "indoor": false,
+      "cost": "free",
+      "events": []
+    },
+    {
+      "id": "court-418",
+      "type": "outdoor_court",
+      "name": "Maple Wood Playfield",
+      "address": "4801 Corson Ave S",
+      "lat": 47.5597886416233,
+      "lng": -122.318070301706,
+      "court_type": "half",
+      "court_count": 1,
+      "indoor": false,
+      "cost": "free",
+      "events": []
+    },
+    {
+      "id": "court-289",
+      "type": "outdoor_court",
+      "name": "Loyal Heights Playfield",
+      "address": "2101 NW 77th St",
+      "lat": 47.6846080869589,
+      "lng": -122.383424762716,
+      "court_type": "half",
+      "court_count": 1,
+      "indoor": false,
+      "cost": "free",
+      "events": []
+    },
+    {
+      "id": "court-114",
+      "type": "outdoor_court",
+      "name": "Jefferson Park",
+      "address": "4165 16th Ave S",
+      "lat": 47.5694375656068,
+      "lng": -122.308495921094,
+      "court_type": "full",
+      "court_count": 1,
+      "indoor": false,
+      "cost": "free",
+      "events": []
+    },
+    {
+      "id": "court-241",
+      "type": "outdoor_court",
+      "name": "B.F. Day Playground",
+      "address": "4020 Fremont Ave",
+      "lat": 47.6556475348033,
+      "lng": -122.349408012016,
+      "court_type": "full",
+      "court_count": 1,
+      "indoor": false,
+      "cost": "free",
+      "events": []
+    },
+    {
+      "id": "court-438",
+      "type": "outdoor_court",
+      "name": "Victory Heights Playground",
+      "address": "1747 NE 106th St",
+      "lat": 47.7060292436647,
+      "lng": -122.307769322526,
+      "court_type": "half",
+      "court_count": 1,
+      "indoor": false,
+      "cost": "free",
+      "events": []
+    },
+    {
+      "id": "court-458",
+      "type": "outdoor_court",
+      "name": "E.C. Hughes Playground",
+      "address": "2805 SW Holden St.",
+      "lat": 47.5332947504883,
+      "lng": -122.369789218937,
+      "court_type": "both",
+      "court_count": 2,
+      "indoor": false,
+      "cost": "free",
+      "events": []
+    },
+    {
+      "id": "court-456",
+      "type": "outdoor_court",
+      "name": "Hiawatha Playfield",
+      "address": "2700 California Ave SW",
+      "lat": 47.5784596034738,
+      "lng": -122.384208341601,
+      "court_type": "half",
+      "court_count": 1,
+      "indoor": false,
+      "cost": "free",
+      "events": []
+    },
+    {
+      "id": "court-4408",
+      "type": "outdoor_court",
+      "name": "Greenwood Park",
+      "address": "8905 Fremont Ave N",
+      "lat": 47.6926990878995,
+      "lng": -122.350216101814,
+      "court_type": "half",
+      "court_count": 2,
+      "indoor": false,
+      "cost": "free",
+      "events": []
+    },
+    {
+      "id": "court-371",
+      "type": "outdoor_court",
+      "name": "Madrona Playground",
+      "address": "3211 E Spring St",
+      "lat": 47.611013566177,
+      "lng": -122.289675056081,
+      "court_type": "full",
+      "court_count": 1,
+      "indoor": false,
+      "cost": "free",
+      "events": []
+    },
+    {
+      "id": "court-403",
+      "type": "outdoor_court",
+      "name": "Othello Playground",
+      "address": "4351 S Othello St",
+      "lat": 47.5359021124706,
+      "lng": -122.277032996852,
+      "court_type": "both",
+      "court_count": 3,
+      "indoor": false,
+      "cost": "free",
+      "events": []
+    },
+    {
+      "id": "court-376",
+      "type": "outdoor_court",
+      "name": "Montlake Playfield",
+      "address": "1618 E Calhoun St",
+      "lat": 47.6419196087401,
+      "lng": -122.309190537824,
+      "court_type": "full",
+      "court_count": 1,
+      "indoor": false,
+      "cost": "free",
+      "events": []
+    },
+    {
+      "id": "court-350",
+      "type": "outdoor_court",
+      "name": "Cascade Playground",
+      "address": "333 Pontius Ave N",
+      "lat": 47.6218373144662,
+      "lng": -122.332131997958,
+      "court_type": "half",
+      "court_count": 1,
+      "indoor": false,
+      "cost": "free",
+      "events": []
+    },
+    {
+      "id": "court-248",
+      "type": "outdoor_court",
+      "name": "Ross Playground",
+      "address": "4320 4th Ave NW",
+      "lat": 47.6601975519275,
+      "lng": -122.361548140208,
+      "court_type": "half",
+      "court_count": 1,
+      "indoor": false,
+      "cost": "free",
+      "events": []
+    },
+    {
+      "id": "court-390",
+      "type": "outdoor_court",
+      "name": "Pratt Park",
+      "address": "Yesler Way/20th Ave S",
+      "lat": 47.6003541161764,
+      "lng": -122.307908443389,
+      "court_type": "both",
+      "court_count": 3,
+      "indoor": false,
+      "cost": "free",
+      "events": []
+    },
+    {
+      "id": "court-402",
+      "type": "outdoor_court",
+      "name": "Brighton Playfield",
+      "address": "6000 39th Ave S",
+      "lat": 47.5473474000059,
+      "lng": -122.283045478377,
+      "court_type": "both",
+      "court_count": 3,
+      "indoor": false,
+      "cost": "free",
+      "events": []
+    },
+    {
+      "id": "court-4167",
+      "type": "outdoor_court",
+      "name": "Cedar Park",
+      "address": "3707 NE 135th St",
+      "lat": 47.7260476372709,
+      "lng": -122.287793338843,
+      "court_type": "half",
+      "court_count": 2,
+      "indoor": false,
+      "cost": "free",
+      "events": []
+    },
+    {
+      "id": "court-400",
+      "type": "outdoor_court",
+      "name": "Beacon Hill Playfield",
+      "address": "1902 13th Ave S",
+      "lat": 47.586547573697,
+      "lng": -122.315621308901,
+      "court_type": "half",
+      "court_count": 1,
+      "indoor": false,
+      "cost": "free",
+      "events": []
+    },
+    {
+      "id": "court-496",
+      "type": "outdoor_court",
+      "name": "Burke-Gilman Playground Park",
+      "address": "5201 Sand Point Way NE",
+      "lat": 47.6674680714423,
+      "lng": -122.283845833899,
+      "court_type": "half",
+      "court_count": 2,
+      "indoor": false,
+      "cost": "free",
+      "events": []
+    },
+    {
+      "id": "court-439",
+      "type": "outdoor_court",
+      "name": "Hutchinson Playground",
+      "address": "S Norfolk/59th Ave S",
+      "lat": 47.5149160423048,
+      "lng": -122.259911187271,
+      "court_type": "full",
+      "court_count": 2,
+      "indoor": false,
+      "cost": "free",
+      "events": []
+    },
+    {
+      "id": "court-482",
+      "type": "outdoor_court",
+      "name": "Bryant Neighborhood Playground",
+      "address": "4103 NE 65th St",
+      "lat": 47.6753200976865,
+      "lng": -122.283987377992,
+      "court_type": "half",
+      "court_count": 2,
+      "indoor": false,
+      "cost": "free",
+      "events": []
+    },
+    {
+      "id": "court-303",
+      "type": "outdoor_court",
+      "name": "Bay View Playground",
+      "address": "2614 24th Ave W",
+      "lat": 47.643647900575,
+      "lng": -122.387390114127,
+      "court_type": "half",
+      "court_count": 1,
+      "indoor": false,
+      "cost": "free",
+      "events": []
+    },
+    {
+      "id": "court-446",
+      "type": "outdoor_court",
+      "name": "Alki Playground",
+      "address": "5817 SW Lander St",
+      "lat": 47.5778734755519,
+      "lng": -122.407436794075,
+      "court_type": "half",
+      "court_count": 2,
+      "indoor": false,
+      "cost": "free",
+      "events": []
+    },
+    {
+      "id": "court-347",
+      "type": "outdoor_court",
+      "name": "Matthews Beach Park",
+      "address": "9098 51st Ave NE",
+      "lat": 47.6972247404002,
+      "lng": -122.274429775764,
+      "court_type": "half",
+      "court_count": 1,
+      "indoor": false,
+      "cost": "free",
+      "events": []
+    },
+    {
+      "id": "court-3894",
+      "type": "outdoor_court",
+      "name": "Webster Park",
+      "address": "3014 NW 67th St",
+      "lat": 47.6774977514873,
+      "lng": -122.39743129327,
+      "court_type": "half",
+      "court_count": 4,
+      "indoor": false,
+      "cost": "free",
+      "events": []
+    },
+    {
+      "id": "court-345",
+      "type": "outdoor_court",
+      "name": "Powell Barnett Park",
+      "address": "352 Martin Luther King Jr",
+      "lat": 47.6049909953808,
+      "lng": -122.295925241527,
+      "court_type": "both",
+      "court_count": 4,
+      "indoor": false,
+      "cost": "free",
+      "events": []
+    },
+    {
+      "id": "court-398",
+      "type": "outdoor_court",
+      "name": "Magnuson Park",
+      "address": "7400 Sand Point Way NE",
+      "lat": 47.6816770231819,
+      "lng": -122.257628703592,
+      "court_type": "half",
+      "court_count": 5,
+      "indoor": false,
+      "cost": "free",
+      "events": []
+    },
+    {
+      "id": "court-440",
+      "type": "outdoor_court",
+      "name": "Beer Sheva Park",
+      "address": "8650 55th Ave S, Seward Park Ave S",
+      "lat": 47.5243850089561,
+      "lng": -122.263415612217,
+      "court_type": "full",
+      "court_count": 1,
+      "indoor": false,
+      "cost": "free",
+      "events": []
+    },
+    {
+      "id": "court-4476",
+      "type": "outdoor_court",
+      "name": "Lake City Urban Hub Village",
+      "address": "12510 33rd Ave NE",
+      "lat": 47.7196763256329,
+      "lng": -122.292437804465,
+      "court_type": "half",
+      "court_count": 1,
+      "indoor": false,
+      "cost": "free",
+      "events": []
+    },
+    {
+      "id": "court-3102",
+      "type": "outdoor_court",
+      "name": "Cal Anderson Park",
+      "address": "1635 11th Ave",
+      "lat": 47.6162034596848,
+      "lng": -122.319868708633,
+      "court_type": "full",
+      "court_count": 1,
+      "indoor": false,
+      "cost": "free",
+      "events": []
+    },
+    {
+      "id": "court-4263",
+      "type": "outdoor_court",
+      "name": "Yesler Terrace",
+      "address": "",
+      "lat": 47.6009930356894,
+      "lng": -122.320298462693,
+      "court_type": "full",
+      "court_count": 1,
+      "indoor": false,
+      "cost": "free",
+      "events": []
+    },
+    {
+      "id": "center-laurelhurst-community-center",
+      "type": "community_center",
+      "name": "Laurelhurst Community Center",
+      "address": "4554 NE 41st St",
+      "lat": 47.6591753089379,
+      "lng": -122.277861340818,
+      "phone": "206-684-7529",
+      "indoor": true,
+      "cost": "varies",
+      "center_hours": {
+        "monday": "2-7pm",
+        "tuesday": "9am-2pm",
+        "wednesday": "2-7pm",
+        "thursday": "9am-2pm",
+        "friday": "2-7pm",
+        "saturday": "closed"
+      },
+      "website": "https://www.seattle.gov/parks/all-community-centers/laurelhurst-community-center",
+      "basketball_link": null,
+      "events": [
+        {
+          "program": "Mini Hoopers League",
+          "type": "program",
+          "ages": "6-7",
+          "code": "89382",
+          "date_range": "4/20-6/15",
+          "cost": "$100",
+          "sessions": [
+            {
+              "day": "Monday",
+              "time": "5:15-7:15pm"
+            }
+          ],
+          "notes": null
+        }
+      ]
+    },
+    {
+      "id": "center-jefferson-park-community-center",
+      "type": "community_center",
+      "name": "Jefferson Park Community Center",
+      "address": "3801 Beacon Ave S",
+      "lat": 47.5697787045713,
+      "lng": -122.308117143925,
+      "phone": "206-684-7481",
+      "indoor": true,
+      "cost": "varies",
+      "center_hours": {
+        "sunday": "closed",
+        "monday": "9:00 AM - 9:00 PM",
+        "tuesday": "9:00 AM - 9:00 PM",
+        "wednesday": "9:00 AM - 9:00 PM",
+        "thursday": "9:00 AM - 9:00 PM",
+        "friday": "9:00 AM - 9:00 PM",
+        "saturday": "9:00 AM - 5:00 PM"
+      },
+      "website": "https://www.seattle.gov/parks/all-community-centers/jefferson-community-center",
+      "basketball_link": null,
+      "events": [
+        {
+          "program": "Basketball",
+          "type": "drop-in",
+          "ages": "18 and Older",
+          "code": "87360",
+          "date_range": "4/6-6/20",
+          "cost": "FREE",
+          "sessions": [
+            {
+              "day": "Monday",
+              "time": "6-8:30pm"
+            },
+            {
+              "day": "Saturday",
+              "time": "1-4pm"
+            }
+          ],
+          "notes": null
+        }
+      ]
+    },
+    {
+      "id": "center-langston-hughes-cultural-arts-center",
+      "type": "community_center",
+      "name": "Langston Hughes Cultural Arts Center",
+      "address": "104  17th Ave S",
+      "lat": 47.6013970458634,
+      "lng": -122.310087470694,
+      "phone": "206-684-4757",
+      "indoor": true,
+      "cost": "varies",
+      "center_hours": {
+        "sunday": "closed"
+      },
+      "website": null,
+      "basketball_link": null,
+      "events": []
+    },
+    {
+      "id": "center-alki-community-center",
+      "type": "community_center",
+      "name": "Alki Community Center",
+      "address": "5817 SW Stevens St",
+      "lat": 47.5775996271701,
+      "lng": -122.406986845623,
+      "phone": "206-684-4730",
+      "indoor": true,
+      "cost": "varies",
+      "center_hours": {
+        "sunday": "closed",
+        "monday": "closed",
+        "tuesday": "closed",
+        "wednesday": "closed",
+        "thursday": "closed",
+        "friday": "closed",
+        "saturday": "closed"
+      },
+      "website": "https://www.seattle.gov/parks/all-community-centers/alki-community-center",
+      "basketball_link": null,
+      "events": []
+    },
+    {
+      "id": "center-garfield-community-center",
+      "type": "community_center",
+      "name": "Garfield Community Center",
+      "address": "2323 E Cherry St",
+      "lat": 47.6077011607179,
+      "lng": -122.302394893332,
+      "phone": "206-684-4788",
+      "indoor": true,
+      "cost": "varies",
+      "center_hours": {
+        "sunday": "closed",
+        "monday": "9am-8pm",
+        "tuesday": "9am-8pm",
+        "wednesday": "9am-8pm",
+        "thursday": "9am-8pm",
+        "friday": "9am-8pm",
+        "saturday": "10am-5pm"
+      },
+      "website": "https://www.seattle.gov/parks/all-community-centers/garfield-community-center",
+      "basketball_link": null,
+      "events": [
+        {
+          "program": "Basketball - Teen",
+          "type": "drop-in",
+          "ages": "11-18",
+          "code": "88561",
+          "date_range": "4/1-6/17",
+          "cost": "FREE",
+          "sessions": [
+            {
+              "day": "Wednesday",
+              "time": "2:30-5:30pm"
+            }
+          ],
+          "notes": null
+        },
+        {
+          "program": "Basketball - Teen",
+          "type": "drop-in",
+          "ages": "11-18",
+          "code": "88561",
+          "date_range": "4/3-6/15",
+          "cost": "FREE",
+          "sessions": [
+            {
+              "day": "Mon/Fri",
+              "time": "3:45-5:30pm"
+            }
+          ],
+          "notes": null
+        },
+        {
+          "program": "Basketball - Adult",
+          "type": "drop-in",
+          "ages": "18 and Older",
+          "code": "88539",
+          "date_range": "4/2-6/18",
+          "cost": "FREE",
+          "sessions": [
+            {
+              "day": "Tue/Thu",
+              "time": "12:30-3:30pm"
+            }
+          ],
+          "notes": null
+        }
+      ]
+    },
+    {
+      "id": "center-miller-community-center",
+      "type": "community_center",
+      "name": "Miller Community Center",
+      "address": "330 19th Ave E",
+      "lat": 47.6218793856184,
+      "lng": -122.306852484078,
+      "phone": "206-684-4753",
+      "indoor": true,
+      "cost": "varies",
+      "center_hours": {
+        "sunday": "closed",
+        "monday": "10am-830pm",
+        "tuesday": "10am-830pm",
+        "wednesday": "10am-830pm",
+        "thursday": "10am-830pm",
+        "friday": "10am-800pm",
+        "saturday": "closed"
+      },
+      "website": "https://www.seattle.gov/parks/all-community-centers/miller-community-center",
+      "basketball_link": null,
+      "events": [
+        {
+          "program": "Basketball - Adult",
+          "type": "drop-in",
+          "ages": "18 and Older",
+          "code": "87446",
+          "date_range": "4/1-6/17",
+          "cost": "FREE",
+          "sessions": [
+            {
+              "day": "Wednesday",
+              "time": "6-8:30pm"
+            },
+            {
+              "day": "Friday",
+              "time": "6-8pm"
+            }
+          ],
+          "notes": null
+        },
+        {
+          "program": "Basketball - Youth",
+          "type": "drop-in",
+          "ages": "11-17",
+          "code": "87456",
+          "date_range": "4/1-6/18",
+          "cost": "FREE",
+          "sessions": [
+            {
+              "day": "Mon/Tue/Thu/Fri",
+              "time": "4-6pm"
+            },
+            {
+              "day": "Wednesday",
+              "time": "2:30-6pm"
+            }
+          ],
+          "notes": null
+        },
+        {
+          "program": "Open Gym",
+          "type": "drop-in",
+          "ages": "18 and Older",
+          "code": "87447",
+          "date_range": "4/7-6/9",
+          "cost": "FREE",
+          "sessions": [
+            {
+              "day": "Tuesday",
+              "time": "1:30-3:30pm"
+            }
+          ],
+          "notes": null
+        }
+      ]
+    },
+    {
+      "id": "center-meadowbrook-community-center",
+      "type": "community_center",
+      "name": "Meadowbrook Community Center",
+      "address": "10517 35th Ave NE",
+      "lat": 47.7059524524005,
+      "lng": -122.291539443862,
+      "phone": "206-684-7522",
+      "indoor": true,
+      "cost": "varies",
+      "center_hours": {
+        "sunday": "closed",
+        "monday": "8:30am-8:30pm",
+        "tuesday": "8:30am-8:30pm",
+        "wednesday": "8:30am-8:30pm",
+        "thursday": "8:30am-8:30pm",
+        "friday": "8:30am-8:30pm",
+        "saturday": "9am-5pm"
+      },
+      "website": "https://www.seattle.gov/parks/all-community-centers/meadowbrook-community-center",
+      "basketball_link": null,
+      "events": [
+        {
+          "program": "Basketball - Teen",
+          "type": "drop-in",
+          "ages": "11-18",
+          "code": "87583",
+          "date_range": "4/6-5/18",
+          "cost": "FREE",
+          "sessions": [
+            {
+              "day": "Monday",
+              "time": "5-6:30pm"
+            }
+          ],
+          "notes": null
+        },
+        {
+          "program": "Basketball - Adult",
+          "type": "drop-in",
+          "ages": "18 and Older",
+          "code": "87576",
+          "date_range": "4/6-5/18",
+          "cost": "FREE",
+          "sessions": [
+            {
+              "day": "Monday",
+              "time": "6:45-8:15pm"
+            }
+          ],
+          "notes": null
+        },
+        {
+          "program": "Basketball Programs - Little Hoopers",
+          "type": "program",
+          "ages": "5-7",
+          "code": "87574",
+          "date_range": "4/4-6/13",
+          "cost": "$121",
+          "sessions": [
+            {
+              "day": "Saturday",
+              "time": "12:30-1:30pm"
+            }
+          ],
+          "notes": null
+        },
+        {
+          "program": "Basketball Programs - Junior Hoopers",
+          "type": "program",
+          "ages": "8-10",
+          "code": "87573",
+          "date_range": "4/4-6/13",
+          "cost": "$121",
+          "sessions": [
+            {
+              "day": "Saturday",
+              "time": "2-3pm"
+            }
+          ],
+          "notes": null
+        }
+      ]
+    },
+    {
+      "id": "center-lake-city-community-center",
+      "type": "community_center",
+      "name": "Lake City Community Center",
+      "address": "12531 28th Ave NE",
+      "lat": 47.7203515864961,
+      "lng": -122.298153759586,
+      "phone": "206-(206) 256-5645",
+      "indoor": true,
+      "cost": "varies",
+      "center_hours": {
+        "sunday": "closed",
+        "monday": "closed",
+        "tuesday": "closed",
+        "wednesday": "closed",
+        "thursday": "closed",
+        "friday": "closed",
+        "saturday": "closed"
+      },
+      "website": "https://www.seattle.gov/parks/all-community-centers/lake-city-community-center",
+      "basketball_link": null,
+      "events": []
+    },
+    {
+      "id": "center-magnolia-community-center",
+      "type": "community_center",
+      "name": "Magnolia Community Center",
+      "address": "2550  34th Ave W",
+      "lat": 47.641954012298,
+      "lng": -122.399827554808,
+      "phone": "206-386-4235",
+      "indoor": true,
+      "cost": "varies",
+      "center_hours": {
+        "sunday": "closed",
+        "monday": "closed",
+        "tuesday": "closed",
+        "wednesday": "closed",
+        "thursday": "closed",
+        "friday": "closed",
+        "saturday": "closed"
+      },
+      "website": "https://www.seattle.gov/parks/all-community-centers/magnolia-community-center",
+      "basketball_link": null,
+      "events": [
+        {
+          "program": "Basketball Skills & Drills",
+          "type": "program",
+          "ages": "11-13",
+          "code": "89490",
+          "date_range": "4/2-5/7",
+          "cost": "$90",
+          "sessions": [
+            {
+              "day": "Thursday",
+              "time": "4-5pm"
+            }
+          ],
+          "notes": null
+        },
+        {
+          "program": "Basketball - Men's",
+          "type": "drop-in",
+          "ages": "18 and Older",
+          "code": "88388",
+          "date_range": "3/17-6/30",
+          "cost": "FREE",
+          "sessions": [
+            {
+              "day": "Tuesday",
+              "time": "6-8pm"
+            }
+          ],
+          "notes": null
+        },
+        {
+          "program": "Basketball - Women's",
+          "type": "drop-in",
+          "ages": "18 and Older",
+          "code": "88389",
+          "date_range": "3/19-6/25",
+          "cost": "FREE",
+          "sessions": [
+            {
+              "day": "Thursday",
+              "time": "6-8pm"
+            }
+          ],
+          "notes": null
+        }
+      ]
+    },
+    {
+      "id": "center-northgate-community-center",
+      "type": "community_center",
+      "name": "Northgate Community Center",
+      "address": "10510 5th Ave NE",
+      "lat": 47.7061835155449,
+      "lng": -122.322722905513,
+      "phone": "206-684-7068",
+      "indoor": true,
+      "cost": "varies",
+      "center_hours": {
+        "sunday": "closed",
+        "monday": "9am-8pm",
+        "tuesday": "9am-8pm",
+        "wednesday": "9am-8pm",
+        "thursday": "9am-8pm",
+        "friday": "9am-8pm"
+      },
+      "website": "https://www.seattle.gov/parks/all-community-centers/northgate-community-center",
+      "basketball_link": null,
+      "events": [
+        {
+          "program": "Basketball: Little Dribblers",
+          "type": "program",
+          "ages": "5-6",
+          "code": "88117",
+          "date_range": "4/3-5/1",
+          "cost": "$60",
+          "sessions": [
+            {
+              "day": "Friday",
+              "time": "6:15-7pm"
+            }
+          ],
+          "notes": null
+        },
+        {
+          "program": "Basketball: Little Dribblers",
+          "type": "program",
+          "ages": "7-11",
+          "code": "88119",
+          "date_range": "4/3-5/1",
+          "cost": "$60",
+          "sessions": [
+            {
+              "day": "Friday",
+              "time": "7:05-7:50pm"
+            }
+          ],
+          "notes": null
+        }
+      ]
+    },
+    {
+      "id": "center-queen-anne-community-center",
+      "type": "community_center",
+      "name": "Queen Anne Community Center",
+      "address": "1901 1st Ave W",
+      "lat": 47.636143355941,
+      "lng": -122.359233803884,
+      "phone": "206-386-4240",
+      "indoor": true,
+      "cost": "varies",
+      "center_hours": {
+        "sunday": "closed",
+        "monday": "8am-7pm",
+        "tuesday": "8am-7pm",
+        "wednesday": "8am-7pm",
+        "thursday": "8am-7pm",
+        "friday": "8am-6pm",
+        "saturday": "8am-5pm"
+      },
+      "website": "https://www.seattle.gov/parks/all-community-centers/queen-anne-community-center",
+      "basketball_link": null,
+      "events": [
+        {
+          "program": "Basketball",
+          "type": "drop-in",
+          "ages": "All Ages",
+          "code": "88146",
+          "date_range": "4/7-6/16",
+          "cost": "FREE",
+          "sessions": [
+            {
+              "day": "Tuesday",
+              "time": "6-8pm"
+            }
+          ],
+          "notes": null
+        },
+        {
+          "program": "Basketball",
+          "type": "drop-in",
+          "ages": "All Ages",
+          "code": "88148",
+          "date_range": "4/11-6/20",
+          "cost": "FREE",
+          "sessions": [
+            {
+              "day": "Saturday",
+              "time": "11am-2pm"
+            }
+          ],
+          "notes": null
+        }
+      ]
+    },
+    {
+      "id": "center-delridge-community-center",
+      "type": "community_center",
+      "name": "Delridge Community Center",
+      "address": "4501 Delridge Way SW",
+      "lat": 47.5633303719038,
+      "lng": -122.364000674945,
+      "phone": "206-684-7423",
+      "indoor": true,
+      "cost": "varies",
+      "center_hours": {
+        "sunday": "closed",
+        "monday": "8:30 AM - 8:00 PM",
+        "tuesday": "8:30 AM - 8:00 PM",
+        "wednesday": "8:30 AM - 8:00 PM",
+        "thursday": "8:30 AM - 8:00 PM",
+        "friday": "8:30 AM - 8:00 PM",
+        "saturday": "9:30 AM - 6:00 PM"
+      },
+      "website": "https://www.seattle.gov/parks/all-community-centers/delridge-community-center",
+      "basketball_link": null,
+      "events": [
+        {
+          "program": "Open Gym (Basketball)",
+          "type": "drop-in",
+          "ages": "10 and Older",
+          "code": "86881",
+          "date_range": "4/6-6/12",
+          "cost": "FREE",
+          "sessions": [
+            {
+              "day": "Monday",
+              "time": "4:15-7:45pm"
+            },
+            {
+              "day": "Tuesday",
+              "time": "12:30-4:45pm"
+            },
+            {
+              "day": "Thursday",
+              "time": "12:30-4:30pm"
+            },
+            {
+              "day": "Friday",
+              "time": "1:15-4:45pm"
+            },
+            {
+              "day": "Saturday",
+              "time": "3-5:30pm"
+            }
+          ],
+          "notes": "No drop-in programs 4/13-17, 5/25, or 6/4"
+        }
+      ]
+    },
+    {
+      "id": "center-high-point-community-center",
+      "type": "community_center",
+      "name": "High Point Community Center",
+      "address": "6920  34th Ave SW",
+      "lat": 47.5406500993304,
+      "lng": -122.374799865504,
+      "phone": "206-684-7422",
+      "indoor": true,
+      "cost": "varies",
+      "center_hours": {
+        "sunday": "12:00 PM - 7:00 PM",
+        "monday": "9:00 AM - 8:00 PM",
+        "tuesday": "9:00 AM - 8:00 PM",
+        "wednesday": "9:00 AM - 8:00 PM",
+        "thursday": "9:00 AM - 8:00 PM",
+        "friday": "9:00 AM - 8:00 PM",
+        "saturday": "9:00 AM - 5:00 PM"
+      },
+      "website": "https://www.seattle.gov/parks/all-community-centers/high-point-community-center",
+      "basketball_link": null,
+      "events": [
+        {
+          "program": "Open Gym - Adult",
+          "type": "drop-in",
+          "ages": "18 and Older",
+          "code": "87438",
+          "date_range": "4/6-6/12",
+          "cost": "FREE",
+          "sessions": [
+            {
+              "day": "Mon/Tue/Thu/Fri",
+              "time": "1-3pm"
+            },
+            {
+              "day": "Saturday",
+              "time": "9-11:15am"
+            }
+          ],
+          "notes": null
+        },
+        {
+          "program": "Open Gym - Family",
+          "type": "drop-in",
+          "ages": "All Ages",
+          "code": "87439",
+          "date_range": "4/12-6/14",
+          "cost": "FREE",
+          "sessions": [
+            {
+              "day": "Sunday",
+              "time": "Noon-1:30pm"
+            }
+          ],
+          "notes": null
+        },
+        {
+          "program": "Open Gym - Youth",
+          "type": "drop-in",
+          "ages": "10-18",
+          "code": "87440",
+          "date_range": "4/5-6/14",
+          "cost": "FREE",
+          "sessions": [
+            {
+              "day": "Mon/Fri",
+              "time": "3:45-7:45pm"
+            },
+            {
+              "day": "Tue/Thu",
+              "time": "5:45-7:45pm"
+            },
+            {
+              "day": "Wednesday",
+              "time": "3:45-5:45pm"
+            },
+            {
+              "day": "Saturday",
+              "time": "1:15-5pm"
+            },
+            {
+              "day": "Sunday",
+              "time": "3-7pm"
+            }
+          ],
+          "notes": null
+        }
+      ]
+    },
+    {
+      "id": "center-loyal-heights-community-center",
+      "type": "community_center",
+      "name": "Loyal Heights Community Center",
+      "address": "2101 NW 77th St",
+      "lat": 47.6847698859958,
+      "lng": -122.382944762906,
+      "phone": "206-684-4052",
+      "indoor": true,
+      "cost": "varies",
+      "center_hours": {
+        "sunday": "closed",
+        "monday": "9am-9pm",
+        "tuesday": "9am-7:30pm",
+        "wednesday": "9am-9pm",
+        "thursday": "9am-7:30pm",
+        "friday": "9am-9pm",
+        "saturday": "closed"
+      },
+      "website": "https://www.seattle.gov/parks/all-community-centers/loyal-heights-community-center",
+      "basketball_link": null,
+      "events": [
+        {
+          "program": "Basketball for Adults/Youth",
+          "type": "drop-in",
+          "ages": "All Ages",
+          "code": "87631",
+          "date_range": "4/3-6/26",
+          "cost": "FREE",
+          "sessions": [
+            {
+              "day": "Mon/Fri",
+              "time": "2-4:30pm"
+            }
+          ],
+          "notes": null
+        },
+        {
+          "program": "Women's Basketball",
+          "type": "drop-in",
+          "ages": "18 and Older",
+          "code": "87167",
+          "date_range": "4/3-6/26",
+          "cost": "FREE",
+          "sessions": [
+            {
+              "day": "Tue/Fri",
+              "time": "9-10am"
+            }
+          ],
+          "notes": null
+        }
+      ]
+    },
+    {
+      "id": "center-yesler-community-center",
+      "type": "community_center",
+      "name": "Yesler Community Center",
+      "address": "917  E Yesler Way",
+      "lat": 47.6014873298723,
+      "lng": -122.32011644172,
+      "phone": "206-386-1245",
+      "indoor": true,
+      "cost": "varies",
+      "center_hours": {
+        "sunday": "closed",
+        "monday": "715am-645pm",
+        "tuesday": "715am-645pm",
+        "wednesday": "715am-645pm",
+        "thursday": "715am-645pm",
+        "friday": "715am-645pm",
+        "saturday": "830am-5pm"
+      },
+      "website": "https://www.seattle.gov/parks/all-community-centers/yesler-community-center",
+      "basketball_link": null,
+      "events": [
+        {
+          "program": "Open Gym - Youth",
+          "type": "drop-in",
+          "ages": "12-18",
+          "code": "88035",
+          "date_range": "4/1-6/17",
+          "cost": "FREE",
+          "sessions": [
+            {
+              "day": "Wednesday",
+              "time": "2-3:50pm"
+            }
+          ],
+          "notes": null
+        },
+        {
+          "program": "Open Gym - All Ages",
+          "type": "drop-in",
+          "ages": "All Ages",
+          "code": "88031",
+          "date_range": "4/3-6/12",
+          "cost": "FREE",
+          "sessions": [
+            {
+              "day": "Friday",
+              "time": "Noon-4pm"
+            }
+          ],
+          "notes": null
+        }
+      ]
+    },
+    {
+      "id": "center-ravenna-eckstein-community-center",
+      "type": "community_center",
+      "name": "Ravenna-Eckstein Community Center",
+      "address": "6535 Ravenna Ave NE",
+      "lat": 47.6766513814632,
+      "lng": -122.304141018,
+      "phone": "206-684-7534",
+      "indoor": true,
+      "cost": "varies",
+      "center_hours": {
+        "sunday": "closed",
+        "monday": "12:30-8pm",
+        "tuesday": "12:30-8pm",
+        "wednesday": "12:30-8pm",
+        "thursday": "12:30-8pm",
+        "friday": "12:30-7:30pm",
+        "saturday": "9am-5pm"
+      },
+      "website": "https://www.seattle.gov/parks/all-community-centers/ravenna-eckstein-community-center",
+      "basketball_link": null,
+      "events": [
+        {
+          "program": "Open Gym",
+          "type": "drop-in",
+          "ages": "12 and Older",
+          "code": "88321",
+          "date_range": "4/6-6/25",
+          "cost": "FREE",
+          "sessions": [
+            {
+              "day": "Monday",
+              "time": "12:45-3:15pm"
+            },
+            {
+              "day": "Tuesday",
+              "time": "2:15-4:45pm"
+            },
+            {
+              "day": "Saturday",
+              "time": "11:45am-4:45pm"
+            }
+          ],
+          "notes": "Drop-in times subject to change — call 206-684-7534 or check Ravenna-Eckstein CC Facebook page"
+        },
+        {
+          "program": "Basketball: Little Hoopers",
+          "type": "program",
+          "ages": "5-7",
+          "code": "88214",
+          "date_range": "4/3-6/12",
+          "cost": "$86",
+          "sessions": [
+            {
+              "day": "Friday",
+              "time": "4:30-5:15pm"
+            }
+          ],
+          "notes": null
+        },
+        {
+          "program": "Basketball: Little Hoopers",
+          "type": "program",
+          "ages": "8-11",
+          "code": "88215",
+          "date_range": "4/3-6/12",
+          "cost": "$86",
+          "sessions": [
+            {
+              "day": "Friday",
+              "time": "5:30-6:15pm"
+            }
+          ],
+          "notes": null
+        }
+      ]
+    },
+    {
+      "id": "center-magnuson-community-center",
+      "type": "community_center",
+      "name": "Magnuson Community Center",
+      "address": "7110 62nd Ave NE",
+      "lat": 47.6805405350131,
+      "lng": -122.261607306857,
+      "phone": "206-684-7026",
+      "indoor": true,
+      "cost": "varies",
+      "center_hours": {
+        "sunday": "closed",
+        "monday": "2-9pm",
+        "tuesday": "2-9pm",
+        "wednesday": "9am-8pm",
+        "thursday": "9am-8pm",
+        "friday": "2-9pm",
+        "saturday": "10am-5pm"
+      },
+      "website": "https://www.seattle.gov/parks/all-community-centers/magnuson-community-center",
+      "basketball_link": null,
+      "events": [
+        {
+          "program": "Basketball - Adult",
+          "type": "drop-in",
+          "ages": "18 and Older",
+          "code": "86764",
+          "date_range": "3/30-6/18",
+          "cost": "FREE",
+          "sessions": [
+            {
+              "day": "Mon/Tue/Wed/Fri",
+              "time": "2-3:30pm"
+            },
+            {
+              "day": "Saturday",
+              "time": "10am-Noon"
+            }
+          ],
+          "notes": null
+        },
+        {
+          "program": "Basketball - Teen",
+          "type": "drop-in",
+          "ages": "12-17",
+          "code": "86766",
+          "date_range": "4/6-6/18",
+          "cost": "FREE",
+          "sessions": [
+            {
+              "day": "Monday-Friday",
+              "time": "3:45-5:15pm"
+            }
+          ],
+          "notes": null
+        },
+        {
+          "program": "Family Open Gym",
+          "type": "drop-in",
+          "ages": "All Ages",
+          "code": "86770",
+          "date_range": null,
+          "cost": "FREE",
+          "sessions": [
+            {
+              "day": "Saturday",
+              "time": "5:15-6:15pm"
+            },
+            {
+              "day": "Tuesday",
+              "time": "12:30-2:15pm"
+            }
+          ],
+          "notes": null
+        }
+      ]
+    },
+    {
+      "id": "center-hiawatha-community-center",
+      "type": "community_center",
+      "name": "Hiawatha Community Center",
+      "address": "2700 California Ave SW",
+      "lat": 47.5781429831001,
+      "lng": -122.384601193458,
+      "phone": "206-684-7441",
+      "indoor": true,
+      "cost": "varies",
+      "center_hours": {
+        "sunday": "closed"
+      },
+      "website": "https://www.seattle.gov/parks/all-community-centers/hiawatha-community-center",
+      "basketball_link": null,
+      "events": [
+        {
+          "program": "Basketball",
+          "type": "drop-in",
+          "ages": "10 and Older",
+          "code": "89557",
+          "date_range": "4/6-6/12",
+          "cost": "FREE",
+          "sessions": [
+            {
+              "day": "Monday-Friday",
+              "time": "3:30-5:30pm"
+            }
+          ],
+          "notes": "Hiawatha reopening with limited drop-in programming for Spring 2026"
+        }
+      ]
+    },
+    {
+      "id": "center-ballard-community-center",
+      "type": "community_center",
+      "name": "Ballard Community Center",
+      "address": "6020 - 28th Ave NW",
+      "lat": 47.6728499101712,
+      "lng": -122.39240533258,
+      "phone": "206-684-4093",
+      "indoor": true,
+      "cost": "varies",
+      "center_hours": {
+        "sunday": "9am-2pm",
+        "monday": "9am-8pm",
+        "tuesday": "9am-8pm",
+        "wednesday": "9am-8pm",
+        "thursday": "9am-8pm",
+        "friday": "9am-8pm",
+        "saturday": "9am-5pm"
+      },
+      "website": "https://www.seattle.gov/parks/all-community-centers/ballard-community-center",
+      "basketball_link": null,
+      "events": [
+        {
+          "program": "Basketball",
+          "type": "drop-in",
+          "ages": "15 and Older",
+          "code": "87657",
+          "date_range": "4/6-6/15",
+          "cost": "FREE",
+          "sessions": [
+            {
+              "day": "Monday",
+              "time": "6:15-8:45pm"
+            }
+          ],
+          "notes": null
+        }
+      ]
+    },
+    {
+      "id": "center-hutchinson-community-center",
+      "type": "community_center",
+      "name": "Hutchinson Community Center",
+      "address": "3801 S Pilgrim St",
+      "lat": 47.5147734880616,
+      "lng": -122.259824348688,
+      "phone": "",
+      "indoor": true,
+      "cost": "varies",
+      "center_hours": {
+        "sunday": "closed"
+      },
+      "website": null,
+      "basketball_link": null,
+      "events": []
+    },
+    {
+      "id": "center-montlake-community-center",
+      "type": "community_center",
+      "name": "Montlake Community Center",
+      "address": "1618 E Calhoun St",
+      "lat": 47.641612730741,
+      "lng": -122.310039708584,
+      "phone": "206-684-4736",
+      "indoor": true,
+      "cost": "varies",
+      "center_hours": {
+        "sunday": "closed",
+        "monday": "8am-430pm",
+        "tuesday": "8am-430pm",
+        "wednesday": "8am-430pm",
+        "thursday": "8am-430pm",
+        "friday": "8am-4pm",
+        "saturday": "closed"
+      },
+      "website": "https://www.seattle.gov/parks/all-community-centers/montlake-community-center",
+      "basketball_link": null,
+      "events": [
+        {
+          "program": "Basketball - Adult",
+          "type": "drop-in",
+          "ages": "18 and Older",
+          "code": "88174",
+          "date_range": "4/1-6/17",
+          "cost": "FREE",
+          "sessions": [
+            {
+              "day": "Wednesday",
+              "time": "5-8pm"
+            },
+            {
+              "day": "Thursday",
+              "time": "1:30-5pm"
+            }
+          ],
+          "notes": null
+        },
+        {
+          "program": "Basketball - Youth",
+          "type": "drop-in",
+          "ages": "13-17",
+          "code": "88473",
+          "date_range": "4/1-6/17",
+          "cost": "FREE",
+          "sessions": [
+            {
+              "day": "Wednesday",
+              "time": "1:30-5pm"
+            },
+            {
+              "day": "Friday",
+              "time": "2:30-5:30pm"
+            }
+          ],
+          "notes": null
+        },
+        {
+          "program": "Family Open Gym",
+          "type": "drop-in",
+          "ages": "All Ages",
+          "code": "88314",
+          "date_range": "4/4-6/20",
+          "cost": "FREE",
+          "sessions": [
+            {
+              "day": "Saturday",
+              "time": "1:30-3pm"
+            }
+          ],
+          "notes": null
+        }
+      ]
+    },
+    {
+      "id": "center-international-district-community-center",
+      "type": "community_center",
+      "name": "International District Community Center",
+      "address": "718 8th Ave S",
+      "lat": 47.59605368225,
+      "lng": -122.322643540833,
+      "phone": "206-233-0042",
+      "indoor": true,
+      "cost": "varies",
+      "center_hours": {
+        "sunday": "closed",
+        "monday": "11:00 AM - 9:00 PM",
+        "tuesday": "10:30 AM - 7:00 PM",
+        "wednesday": "11:00 AM - 9:00 PM",
+        "thursday": "10:30 AM - 7:00 PM",
+        "friday": "11:00 AM - 9:00 PM",
+        "saturday": "9:00 AM - 5:00 PM"
+      },
+      "website": "https://www.seattle.gov/parks/all-community-centers/international-district/chinatown-community-center",
+      "basketball_link": null,
+      "events": [
+        {
+          "program": "Basketball - Open",
+          "type": "drop-in",
+          "ages": "5 and Older",
+          "code": "87896",
+          "date_range": "4/2-6/25",
+          "cost": "FREE",
+          "sessions": [
+            {
+              "day": "Thursday",
+              "time": "3-5:45pm"
+            }
+          ],
+          "notes": null
+        },
+        {
+          "program": "Basketball - Adult",
+          "type": "drop-in",
+          "ages": "18 and Older",
+          "code": "87889",
+          "date_range": "4/1-6/29",
+          "cost": "FREE",
+          "sessions": [
+            {
+              "day": "Mon/Wed/Fri",
+              "time": "11:30am-1:30pm"
+            }
+          ],
+          "notes": null
+        }
+      ]
+    },
+    {
+      "id": "center-green-lake-community-center",
+      "type": "community_center",
+      "name": "Green Lake Community Center",
+      "address": "7201 E Green Lake Dr N",
+      "lat": 47.6803781992544,
+      "lng": -122.328706591705,
+      "phone": "206-684-0780",
+      "indoor": true,
+      "cost": "varies",
+      "center_hours": {
+        "sunday": "closed",
+        "monday": "10am-9pm",
+        "tuesday": "10am-9pm",
+        "wednesday": "10am-9pm",
+        "thursday": "10am-9pm",
+        "friday": "10am-9pm",
+        "saturday": "8:30am-5pm"
+      },
+      "website": "https://www.seattle.gov/parks/all-community-centers/green-lake-community-center",
+      "basketball_link": null,
+      "events": [
+        {
+          "program": "Basketball",
+          "type": "drop-in",
+          "ages": "18 and Older",
+          "code": "87778",
+          "date_range": "4/6-6/15",
+          "cost": "FREE",
+          "sessions": [
+            {
+              "day": "Monday",
+              "time": "Noon-3:30pm"
+            },
+            {
+              "day": "Wednesday",
+              "time": "1:30-2:15pm"
+            },
+            {
+              "day": "Friday",
+              "time": "12:30-2:15pm"
+            },
+            {
+              "day": "Saturday",
+              "time": "3:15-4:45pm"
+            }
+          ],
+          "notes": null
+        },
+        {
+          "program": "Teen Open Gym",
+          "type": "drop-in",
+          "ages": "11-18",
+          "code": "87784",
+          "date_range": "4/6-6/15",
+          "cost": "FREE",
+          "sessions": [
+            {
+              "day": "Monday",
+              "time": "3:45-5:30pm"
+            },
+            {
+              "day": "Tuesday",
+              "time": "3:45-5:45pm"
+            },
+            {
+              "day": "Wednesday",
+              "time": "2:30-3:45pm"
+            },
+            {
+              "day": "Wednesday",
+              "time": "5-6:45pm"
+            }
+          ],
+          "notes": null
+        },
+        {
+          "program": "Friday Teen Night: Swim and Gym Time",
+          "type": "drop-in",
+          "ages": "11-18",
+          "code": "87782",
+          "date_range": "4/3-6/12",
+          "cost": "FREE",
+          "sessions": [
+            {
+              "day": "Friday",
+              "time": "6-9pm"
+            }
+          ],
+          "notes": null
+        },
+        {
+          "program": "Basketball: Little Hoopers",
+          "type": "program",
+          "ages": "5-7",
+          "code": "87815",
+          "date_range": "4/7-5/12",
+          "cost": "$95",
+          "sessions": [
+            {
+              "day": "Thursday",
+              "time": "4:15-5pm"
+            }
+          ],
+          "notes": null
+        },
+        {
+          "program": "Basketball: Little Hoopers",
+          "type": "program",
+          "ages": "8-12",
+          "code": "87817",
+          "date_range": "4/7-5/12",
+          "cost": "$95",
+          "sessions": [
+            {
+              "day": "Thursday",
+              "time": "5:15-6pm"
+            }
+          ],
+          "notes": null
+        }
+      ]
+    },
+    {
+      "id": "center-van-asselt-community-center",
+      "type": "community_center",
+      "name": "Van Asselt Community Center",
+      "address": "2820 S Myrtle St",
+      "lat": 47.5394052630516,
+      "lng": -122.295240736401,
+      "phone": "206-386-1921",
+      "indoor": true,
+      "cost": "varies",
+      "center_hours": {
+        "sunday": "closed",
+        "monday": "12:00 PM - 8:00 PM",
+        "tuesday": "11:00 AM - 8:00 PM",
+        "wednesday": "12:00 PM - 8:00 PM",
+        "thursday": "11:00 AM - 8:00 PM",
+        "friday": "12:00 PM - 7:00 PM",
+        "saturday": "9:00 AM - 5:00 PM"
+      },
+      "website": "https://www.seattle.gov/parks/all-community-centers/van-asselt-community-center",
+      "basketball_link": null,
+      "events": [
+        {
+          "program": "Youth Basketball",
+          "type": "drop-in",
+          "ages": "11-17",
+          "code": "88729",
+          "date_range": "4/1-6/18",
+          "cost": "FREE",
+          "sessions": [
+            {
+              "day": "Monday-Thursday",
+              "time": "2:45-3:45pm"
+            }
+          ],
+          "notes": null
+        }
+      ]
+    },
+    {
+      "id": "center-rainier-beach-community-center",
+      "type": "community_center",
+      "name": "Rainier Beach Community Center",
+      "address": "8825 Rainier Ave S",
+      "lat": 47.5240417216873,
+      "lng": -122.270747132149,
+      "phone": "206-386-1925",
+      "indoor": true,
+      "cost": "varies",
+      "center_hours": {
+        "sunday": "9:00 AM - 7:00 PM",
+        "monday": "8:30 AM - 9:00 PM",
+        "tuesday": "8:30 AM - 9:00 PM",
+        "wednesday": "8:30 AM - 9:00 PM",
+        "thursday": "8:30 AM - 9:00 PM",
+        "friday": "8:30 AM - 7:00 PM",
+        "saturday": "8:30 AM 7:00 PM"
+      },
+      "website": "https://www.seattle.gov/parks/all-community-centers/rainier-beach-community-center",
+      "basketball_link": null,
+      "events": []
+    },
+    {
+      "id": "center-south-park-community-center",
+      "type": "community_center",
+      "name": "South Park Community Center",
+      "address": "8319  8th Ave S",
+      "lat": 47.5283456613703,
+      "lng": -122.324018411275,
+      "phone": "206-684-7451",
+      "indoor": true,
+      "cost": "varies",
+      "center_hours": {
+        "sunday": "closed"
+      },
+      "website": "https://www.seattle.gov/parks/all-community-centers/south-park-community-center",
+      "basketball_link": null,
+      "events": []
+    },
+    {
+      "id": "center-bitter-lake-community-center",
+      "type": "community_center",
+      "name": "Bitter Lake Community Center",
+      "address": "13035 Linden Ave N",
+      "lat": 47.7243141081744,
+      "lng": -122.348408138013,
+      "phone": "206-684-7524",
+      "indoor": true,
+      "cost": "varies",
+      "center_hours": {
+        "sunday": "10am-5pm",
+        "monday": "8am-9pm",
+        "tuesday": "8am-9pm",
+        "wednesday": "8am-9pm",
+        "thursday": "8am-9pm",
+        "friday": "8am-7pm",
+        "saturday": "8am-7pm"
+      },
+      "website": "https://www.seattle.gov/parks/all-community-centers/bitter-lake-community-center",
+      "basketball_link": null,
+      "events": [
+        {
+          "program": "Open Gym",
+          "type": "drop-in",
+          "ages": "5 and Older",
+          "code": "88478",
+          "date_range": "4/1-6/20",
+          "cost": "FREE",
+          "sessions": [
+            {
+              "day": "Monday-Saturday",
+              "time": "2-5pm"
+            }
+          ],
+          "notes": null
+        },
+        {
+          "program": "Open Gym",
+          "type": "drop-in",
+          "ages": "5 and Older",
+          "code": "88341",
+          "date_range": "4/5-6/21",
+          "cost": "FREE",
+          "sessions": [
+            {
+              "day": "Sunday",
+              "time": "12:45-2:45pm"
+            }
+          ],
+          "notes": null
+        },
+        {
+          "program": "Bitter Lake Late Night",
+          "type": "drop-in",
+          "ages": "12-19",
+          "code": "88339",
+          "date_range": "4/3-6/20",
+          "cost": "FREE",
+          "sessions": [
+            {
+              "day": "Friday-Saturday",
+              "time": "7pm-Midnight"
+            }
+          ],
+          "notes": "Late night recreation program — likely includes basketball among other activities"
+        }
+      ]
+    },
+    {
+      "id": "center-rainier-community-center",
+      "type": "community_center",
+      "name": "Rainier Community Center",
+      "address": "4600 38th Ave S",
+      "lat": 47.5613191781723,
+      "lng": -122.284536927122,
+      "phone": "206-386-1919",
+      "indoor": true,
+      "cost": "varies",
+      "center_hours": {
+        "sunday": "closed",
+        "monday": "9:00 AM - 8:00 PM",
+        "tuesday": "9:00 AM - 8:00 PM",
+        "wednesday": "9:00 AM - 8:00 PM",
+        "thursday": "9:00 AM - 8:00 PM",
+        "friday": "9:00 AM - 7:00 PM",
+        "saturday": "9:00 AM - 6:00 PM"
+      },
+      "website": "https://www.seattle.gov/parks/all-community-centers/rainier-community-center",
+      "basketball_link": null,
+      "events": []
+    }
+  ]
+}
