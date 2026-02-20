@@ -575,12 +575,16 @@
     scheduleToggle.addEventListener('click', () => {
       const isHidden = schedulePanel.classList.toggle('hidden');
       scheduleToggle.classList.toggle('active', !isHidden);
+      const legend = document.getElementById('legend');
       // Close filter panel when opening schedule
       if (!isHidden) {
         filterPanel.classList.add('hidden');
         filterToggle.classList.remove('active');
+        if (legend) legend.style.display = 'none';
         buildDayTabs();
         renderScheduleList();
+      } else {
+        if (legend) legend.style.display = '';
       }
       setTimeout(() => map.invalidateSize(), 250);
     });
