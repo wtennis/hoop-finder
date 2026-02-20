@@ -99,9 +99,15 @@
         </div>`;
     }
 
-    if (location.events && location.events.length > 0) {
+    const activeEvents = (location.events || []).filter(evt => {
+      if (!evt.date_range) return true;
+      const parsed = parseDateRange(evt.date_range);
+      return !parsed || TODAY <= parsed.end;
+    });
+
+    if (activeEvents.length > 0) {
       html += `<div class="popup-events"><h4>Basketball Schedule</h4>`;
-      for (const evt of location.events) {
+      for (const evt of activeEvents) {
         const costStr = formatCost(evt.cost);
         const costClass = (!evt.cost || evt.cost === 'FREE' || evt.cost === '$0') ? 'free' : 'paid';
 
@@ -229,6 +235,22 @@
     return hour * 60 + min;
   }
 
+  // ---- Date Filtering ----
+
+  const TODAY = new Date();
+  TODAY.setHours(0, 0, 0, 0);
+
+  function isEventActive(evt) {
+    if (!evt.date_range) return true; // no date range = always show
+    const parsed = parseDateRange(evt.date_range);
+    if (!parsed) return true;
+    return TODAY <= parsed.end;
+  }
+
+  function isSeasonExpired() {
+    return allEvents.length > 0 && allEvents.every(evt => !isEventActive(evt));
+  }
+
   // ---- Filtering (shared) ----
 
   function classifyAge(agesStr) {
@@ -273,9 +295,10 @@
   function locationPassesFilter(loc) {
     if (loc.type === 'outdoor_court' && !filters.location.has('outdoor')) return false;
     if (loc.type === 'community_center' && !filters.location.has('indoor')) return false;
-    if (filters.schedule.has('yes') && (!loc.events || loc.events.length === 0)) return false;
-    if (!loc.events || loc.events.length === 0) return true;
-    return loc.events.some(evt =>
+    const activeEvts = (loc.events || []).filter(isEventActive);
+    if (filters.schedule.has('yes') && activeEvts.length === 0) return false;
+    if (activeEvts.length === 0) return true;
+    return activeEvts.some(evt =>
       eventMatchesAgeFilter(evt, filters.age) &&
       eventMatchesGenderFilter(evt, filters.gender) &&
       eventMatchesCostFilter(evt, filters.cost)
@@ -303,6 +326,7 @@
   function getEventsForDay(day) {
     return allEvents.filter(evt => {
       if (evt.day !== day) return false;
+      if (!isEventActive(evt)) return false;
       if (!eventMatchesAgeFilter(evt, filters.age)) return false;
       if (!eventMatchesGenderFilter(evt, filters.gender)) return false;
       if (!eventMatchesCostFilter(evt, filters.cost)) return false;
@@ -361,6 +385,7 @@
 
   function getFilteredEvents() {
     return allEvents.filter(evt => {
+      if (!isEventActive(evt)) return false;
       if (!eventMatchesAgeFilter(evt, filters.age)) return false;
       if (!eventMatchesGenderFilter(evt, filters.gender)) return false;
       if (!eventMatchesCostFilter(evt, filters.cost)) return false;
@@ -698,6 +723,10 @@
       allEvents = flattenEvents(allLocations);
       markersLayer.addTo(map);
       applyFilters();
+
+      if (isSeasonExpired()) {
+        showSeasonBanner(data.season || 'Spring 2026');
+      }
     } catch (err) {
       console.error('Failed to load HoopFinder data:', err);
       L.popup()
@@ -722,6 +751,17 @@
       <div class="legend-item"><span class="legend-dot blue"></span> Community Center</div>
     `;
     document.body.appendChild(legend);
+  }
+
+  // ---- Season Banner ----
+
+  function showSeasonBanner(season) {
+    const banner = document.createElement('div');
+    banner.id = 'season-banner';
+    banner.innerHTML =
+      `<strong>${esc(season)} schedule has ended.</strong> ` +
+      'Courts are still shown on the map. Check back for updated programming.';
+    document.body.appendChild(banner);
   }
 
   // ---- Init ----

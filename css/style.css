@@ -588,6 +588,23 @@ html, body {
   background: #f0f7ff;
 }
 
+/* ---- Season Banner ---- */
+
+#season-banner {
+  position: fixed;
+  top: var(--header-h);
+  left: 0;
+  right: 0;
+  z-index: 997;
+  background: #fef3c7;
+  color: #92400e;
+  text-align: center;
+  padding: 10px 16px;
+  font-size: 14px;
+  line-height: 1.4;
+  border-bottom: 1px solid #fcd34d;
+}
+
 /* ---- Legend ---- */
 
 #legend {
