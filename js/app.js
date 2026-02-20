@@ -102,7 +102,7 @@
     const activeEvents = (location.events || []).filter(evt => {
       if (!evt.date_range) return true;
       const parsed = parseDateRange(evt.date_range);
-      return !parsed || TODAY <= parsed.end;
+      return !parsed || (TODAY >= parsed.start && TODAY <= parsed.end);
     });
 
     if (activeEvents.length > 0) {
@@ -244,7 +244,7 @@
     if (!evt.date_range) return true; // no date range = always show
     const parsed = parseDateRange(evt.date_range);
     if (!parsed) return true;
-    return TODAY <= parsed.end;
+    return TODAY >= parsed.start && TODAY <= parsed.end;
   }
 
   function isSeasonExpired() {
