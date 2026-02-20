@@ -14,7 +14,25 @@ DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 3/19-6/25
 LOCATION:Magnolia Community Center\, 2550  34th Ave W\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:87167-tue-1@hoopfinder
+UID:85303-tue-1@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260106T090000
+DTEND;TZID=America/Los_Angeles:20260106T095500
+RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20260331T235900
+SUMMARY:Women's Basketball @ Loyal Heights Community Center
+DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 1/6-3/31
+LOCATION:Loyal Heights Community Center\, 2101 NW 77th St\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:83957-fri-2@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260109T090000
+DTEND;TZID=America/Los_Angeles:20260109T100000
+RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260327T235900
+SUMMARY:Women's Basketball @ Loyal Heights Community Center
+DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 1/9-3/27
+LOCATION:Loyal Heights Community Center\, 2101 NW 77th St\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:87167-tue-3@hoopfinder
 DTSTART;TZID=America/Los_Angeles:20260407T090000
 DTEND;TZID=America/Los_Angeles:20260407T100000
 RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20260626T235900
@@ -23,7 +41,7 @@ DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 4/3-6/26
 LOCATION:Loyal Heights Community Center\, 2101 NW 77th St\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:87167-fri-2@hoopfinder
+UID:87167-fri-4@hoopfinder
 DTSTART;TZID=America/Los_Angeles:20260403T090000
 DTEND;TZID=America/Los_Angeles:20260403T100000
 RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260626T235900

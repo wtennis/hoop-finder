@@ -1,11 +1,1002 @@
 {
-  "season": "Spring 2026",
-  "source": "Seattle Parks & Recreation Spring 2026 Brochure",
-  "source_url": "https://www.seattle.gov/documents/Departments/ParksAndRecreation/Programs/2026%20Spring%20Recreation%20Brochure%20ADA.pdf",
-  "registration_opens": "2026-03-03",
-  "extracted_date": "2026-02-20",
+  "seasons": [
+    {
+      "name": "Winter 2026",
+      "source": "Seattle Parks & Recreation Winter 2026 Brochure",
+      "extracted_date": "2026-02-20"
+    },
+    {
+      "name": "Spring 2026",
+      "source": "Seattle Parks & Recreation Spring 2026 Brochure",
+      "registration_opens": "2026-03-03",
+      "extracted_date": "2026-02-20"
+    }
+  ],
   "events": [
     {
+      "season": "Winter 2026",
+      "center": "Ballard Community Center",
+      "address": "6020 28th Ave NW, Seattle, WA 98107",
+      "phone": "206-684-4093",
+      "zone": 3,
+      "center_hours": "Mon-Fri 10am-9pm, Sat 10am-6pm, Sun 10am-3pm",
+      "type": "drop-in",
+      "program": "Basketball",
+      "ages": "15 and Older",
+      "code": "85080",
+      "date_range": "1/5-3/30",
+      "cost": "FREE",
+      "sessions": [
+        { "day": "Monday", "time": "6:15-8:45pm" }
+      ]
+    },
+    {
+      "season": "Winter 2026",
+      "center": "Ballard Community Center",
+      "address": "6020 28th Ave NW, Seattle, WA 98107",
+      "phone": "206-684-4093",
+      "zone": 3,
+      "center_hours": "Mon-Fri 10am-9pm, Sat 10am-6pm, Sun 10am-3pm",
+      "type": "drop-in",
+      "program": "Youth Open Gym",
+      "ages": "12-16",
+      "code": "85091",
+      "date_range": "1/4-3/29",
+      "cost": "FREE",
+      "sessions": [
+        { "day": "Sunday", "time": "1-2:45pm" }
+      ]
+    },
+    {
+      "season": "Winter 2026",
+      "center": "Bitter Lake Community Center",
+      "address": "13035 Linden Ave N, Seattle, WA 98133",
+      "phone": "206-684-7524",
+      "zone": 3,
+      "center_hours": "Mon-Thu 8am-9pm, Fri/Sat 8am-7pm, Sun 10am-5pm",
+      "type": "program",
+      "program": "Little Hoopers B-Ball",
+      "ages": "5-7",
+      "code": "84405",
+      "date_range": "1/6-2/10",
+      "cost": "$66",
+      "sessions": [
+        { "day": "Tuesday", "time": "5:15-6pm" }
+      ]
+    },
+    {
+      "season": "Winter 2026",
+      "center": "Bitter Lake Community Center",
+      "address": "13035 Linden Ave N, Seattle, WA 98133",
+      "phone": "206-684-7524",
+      "zone": 3,
+      "center_hours": "Mon-Thu 8am-9pm, Fri/Sat 8am-7pm, Sun 10am-5pm",
+      "type": "program",
+      "program": "Little Hoopers B-Ball",
+      "ages": "5-7",
+      "code": "84406",
+      "date_range": "2/24-3/31",
+      "cost": "$66",
+      "sessions": [
+        { "day": "Tuesday", "time": "5:15-6pm" }
+      ]
+    },
+    {
+      "season": "Winter 2026",
+      "center": "Bitter Lake Community Center",
+      "address": "13035 Linden Ave N, Seattle, WA 98133",
+      "phone": "206-684-7524",
+      "zone": 3,
+      "center_hours": "Mon-Thu 8am-9pm, Fri/Sat 8am-7pm, Sun 10am-5pm",
+      "type": "program",
+      "program": "Little Hoopers Scrimmage",
+      "ages": "6-7",
+      "code": "86097",
+      "date_range": "1/11-3/29",
+      "cost": "$80",
+      "sessions": [
+        { "day": "Sunday", "time": "11-11:45am" }
+      ]
+    },
+    {
+      "season": "Winter 2026",
+      "center": "Bitter Lake Community Center",
+      "address": "13035 Linden Ave N, Seattle, WA 98133",
+      "phone": "206-684-7524",
+      "zone": 3,
+      "center_hours": "Mon-Thu 8am-9pm, Fri/Sat 8am-7pm, Sun 10am-5pm",
+      "type": "drop-in",
+      "program": "Open Gym",
+      "ages": "5 and Older",
+      "code": "84397",
+      "date_range": "1/2-3/31",
+      "cost": "FREE",
+      "sessions": [
+        { "day": "Monday-Friday", "time": "2-5pm" }
+      ]
+    },
+    {
+      "season": "Winter 2026",
+      "center": "Delridge Community Center",
+      "address": "4501 Delridge Way SW, Seattle, WA 98106",
+      "phone": "206-684-7423",
+      "zone": 1,
+      "center_hours": "Mon-Fri 8:30am-8pm, Sat 9:30am-6pm",
+      "type": "drop-in",
+      "program": "Open Gym (Basketball)",
+      "ages": "10 and Older",
+      "code": "84782",
+      "date_range": "1/6-3/27",
+      "cost": "FREE",
+      "sessions": [
+        { "day": "Tuesday", "time": "12:30-4:45pm" },
+        { "day": "Thursday", "time": "12:30-5pm" },
+        { "day": "Friday", "time": "1:15-3:45pm" }
+      ],
+      "notes": "No programs 1/20-23, 2/17-20 or 3/5"
+    },
+    {
+      "season": "Winter 2026",
+      "center": "Garfield Community Center",
+      "address": "2323 E Cherry St, Seattle, WA 98122",
+      "phone": "206-684-4788",
+      "zone": 2,
+      "center_hours": "Mon-Fri 9am-9pm, Sat 9am-5pm",
+      "type": "drop-in",
+      "program": "Basketball - Adult",
+      "ages": "18 and Older",
+      "code": "85651",
+      "date_range": "1/6-3/31",
+      "cost": "FREE",
+      "sessions": [
+        { "day": "Tue/Thu", "time": "12:30-3:30pm" }
+      ]
+    },
+    {
+      "season": "Winter 2026",
+      "center": "Garfield Community Center",
+      "address": "2323 E Cherry St, Seattle, WA 98122",
+      "phone": "206-684-4788",
+      "zone": 2,
+      "center_hours": "Mon-Fri 9am-9pm, Sat 9am-5pm",
+      "type": "drop-in",
+      "program": "Basketball - Teen",
+      "ages": "11-18",
+      "code": "84707",
+      "date_range": "1/7-3/25",
+      "cost": "FREE",
+      "sessions": [
+        { "day": "Wednesday", "time": "2:30-5:30pm" }
+      ]
+    },
+    {
+      "season": "Winter 2026",
+      "center": "Garfield Community Center",
+      "address": "2323 E Cherry St, Seattle, WA 98122",
+      "phone": "206-684-4788",
+      "zone": 2,
+      "center_hours": "Mon-Fri 9am-9pm, Sat 9am-5pm",
+      "type": "drop-in",
+      "program": "Basketball - Teen",
+      "ages": "11-18",
+      "code": "84707",
+      "date_range": "1/9-3/30",
+      "cost": "FREE",
+      "sessions": [
+        { "day": "Mon/Fri", "time": "3:45-5:30pm" }
+      ]
+    },
+    {
+      "season": "Winter 2026",
+      "center": "Green Lake Community Center",
+      "address": "7201 E Green Lake Dr N, Seattle, WA 98115",
+      "phone": "206-684-0780",
+      "zone": 3,
+      "center_hours": "Mon-Fri 10am-9pm, Sat 8:30am-5pm",
+      "type": "drop-in",
+      "program": "Basketball",
+      "ages": "18 and Older",
+      "code": "85488",
+      "date_range": "1/2-3/30",
+      "cost": "FREE",
+      "sessions": [
+        { "day": "Monday", "time": "12:15-2:30pm" },
+        { "day": "Wednesday", "time": "1:30-2:30pm" },
+        { "day": "Friday", "time": "10am-1:15pm" }
+      ]
+    },
+    {
+      "season": "Winter 2026",
+      "center": "Green Lake Community Center",
+      "address": "7201 E Green Lake Dr N, Seattle, WA 98115",
+      "phone": "206-684-0780",
+      "zone": 3,
+      "center_hours": "Mon-Fri 10am-9pm, Sat 8:30am-5pm",
+      "type": "program",
+      "program": "Basketball: Little Dribblers",
+      "ages": "5-7",
+      "code": "86751",
+      "date_range": "1/6-2/10",
+      "cost": "$75",
+      "sessions": [
+        { "day": "Tuesday", "time": "4:15-5pm" }
+      ]
+    },
+    {
+      "season": "Winter 2026",
+      "center": "Green Lake Community Center",
+      "address": "7201 E Green Lake Dr N, Seattle, WA 98115",
+      "phone": "206-684-0780",
+      "zone": 3,
+      "center_hours": "Mon-Fri 10am-9pm, Sat 8:30am-5pm",
+      "type": "program",
+      "program": "Basketball: Little Dribblers",
+      "ages": "5-7",
+      "code": "86750",
+      "date_range": "2/17-3/17",
+      "cost": "$65",
+      "sessions": [
+        { "day": "Tuesday", "time": "4:15-5pm" }
+      ]
+    },
+    {
+      "season": "Winter 2026",
+      "center": "High Point Community Center",
+      "address": "6920 34th Ave SW, Seattle, WA 98126",
+      "phone": "206-684-7422",
+      "zone": 1,
+      "center_hours": "Mon-Fri 9am-8pm, Sat 9am-5pm, Sun Noon-7pm",
+      "type": "drop-in",
+      "program": "Open Gym - Adult",
+      "ages": "18 and Older",
+      "code": "85297",
+      "date_range": "1/5-3/30",
+      "cost": "FREE",
+      "sessions": [
+        { "day": "Mon/Tue/Thu/Fri", "time": "1-3pm" }
+      ]
+    },
+    {
+      "season": "Winter 2026",
+      "center": "International District/Chinatown Community Center",
+      "address": "719 8th Ave S, Seattle, WA 98104",
+      "phone": "206-233-0042",
+      "zone": 2,
+      "center_hours": "M/W/F 11am-9pm, Tu/Th 9:30am-6pm, Sat 9am-5pm",
+      "type": "drop-in",
+      "program": "Basketball",
+      "ages": "18 and Older",
+      "code": "84427",
+      "date_range": "1/2-3/30",
+      "cost": "FREE",
+      "sessions": [
+        { "day": "Mon/Wed/Fri", "time": "11am-1:30pm" }
+      ]
+    },
+    {
+      "season": "Winter 2026",
+      "center": "International District/Chinatown Community Center",
+      "address": "719 8th Ave S, Seattle, WA 98104",
+      "phone": "206-233-0042",
+      "zone": 2,
+      "center_hours": "M/W/F 11am-9pm, Tu/Th 9:30am-6pm, Sat 9am-5pm",
+      "type": "drop-in",
+      "program": "Open Gym - Family",
+      "ages": "All Ages",
+      "code": "84433",
+      "date_range": "1/3-3/28",
+      "cost": "FREE",
+      "sessions": [
+        { "day": "Saturday", "time": "3-5pm" }
+      ]
+    },
+    {
+      "season": "Winter 2026",
+      "center": "International District/Chinatown Community Center",
+      "address": "719 8th Ave S, Seattle, WA 98104",
+      "phone": "206-233-0042",
+      "zone": 2,
+      "center_hours": "M/W/F 11am-9pm, Tu/Th 9:30am-6pm, Sat 9am-5pm",
+      "type": "drop-in",
+      "program": "Open Gym - Family",
+      "ages": "All Ages",
+      "code": "84438",
+      "date_range": "1/5-3/30",
+      "cost": "FREE",
+      "sessions": [
+        { "day": "Monday", "time": "2-5:45pm" }
+      ]
+    },
+    {
+      "season": "Winter 2026",
+      "center": "International District/Chinatown Community Center",
+      "address": "719 8th Ave S, Seattle, WA 98104",
+      "phone": "206-233-0042",
+      "zone": 2,
+      "center_hours": "M/W/F 11am-9pm, Tu/Th 9:30am-6pm, Sat 9am-5pm",
+      "type": "drop-in",
+      "program": "Open Gym - Youth",
+      "ages": "11-17",
+      "code": "84439",
+      "date_range": "1/7-3/27",
+      "cost": "FREE",
+      "sessions": [
+        { "day": "Wed/Fri", "time": "2-5:45pm" }
+      ]
+    },
+    {
+      "season": "Winter 2026",
+      "center": "Loyal Heights Community Center",
+      "address": "2101 NW 77th St, Seattle, WA 98117",
+      "phone": "206-684-4052",
+      "zone": 3,
+      "center_hours": "M/W/F 9am-9pm, Tu/Th 9am-7:30pm",
+      "type": "drop-in",
+      "program": "Basketball",
+      "ages": "All Ages",
+      "code": "83956",
+      "date_range": "1/2-3/31",
+      "cost": "FREE",
+      "sessions": [
+        { "day": "Monday", "time": "1:30-3:45pm" },
+        { "day": "Tuesday", "time": "3:30-5:45pm" },
+        { "day": "Wednesday", "time": "2:45-5:45pm" },
+        { "day": "Thursday", "time": "1:30-4:45pm" },
+        { "day": "Friday", "time": "2-4:45pm" }
+      ]
+    },
+    {
+      "season": "Winter 2026",
+      "center": "Loyal Heights Community Center",
+      "address": "2101 NW 77th St, Seattle, WA 98117",
+      "phone": "206-684-4052",
+      "zone": 3,
+      "center_hours": "M/W/F 9am-9pm, Tu/Th 9am-7:30pm",
+      "type": "drop-in",
+      "program": "Women's Basketball",
+      "ages": "18 and Older",
+      "code": "85303",
+      "date_range": "1/6-3/31",
+      "cost": "FREE",
+      "sessions": [
+        { "day": "Tuesday", "time": "9-9:55am" }
+      ]
+    },
+    {
+      "season": "Winter 2026",
+      "center": "Loyal Heights Community Center",
+      "address": "2101 NW 77th St, Seattle, WA 98117",
+      "phone": "206-684-4052",
+      "zone": 3,
+      "center_hours": "M/W/F 9am-9pm, Tu/Th 9am-7:30pm",
+      "type": "drop-in",
+      "program": "Women's Basketball",
+      "ages": "18 and Older",
+      "code": "83957",
+      "date_range": "1/9-3/27",
+      "cost": "FREE",
+      "sessions": [
+        { "day": "Friday", "time": "9-10am" }
+      ]
+    },
+    {
+      "season": "Winter 2026",
+      "center": "Loyal Heights Community Center",
+      "address": "2101 NW 77th St, Seattle, WA 98117",
+      "phone": "206-684-4052",
+      "zone": 3,
+      "center_hours": "M/W/F 9am-9pm, Tu/Th 9am-7:30pm",
+      "type": "program",
+      "program": "Lil Hot Shots Basketball",
+      "ages": "6-7",
+      "code": "85128",
+      "date_range": "1/12-3/2",
+      "cost": "$121",
+      "sessions": [
+        { "day": "Monday", "time": "4-5pm" }
+      ]
+    },
+    {
+      "season": "Winter 2026",
+      "center": "Magnolia Community Center",
+      "address": "2530 34th Ave W, Seattle, WA 98199",
+      "phone": "206-386-4235",
+      "zone": 2,
+      "center_hours": "Mon-Fri 9am-8pm, Sat 10am-5pm",
+      "type": "program",
+      "program": "Basketball: Skills & Drills",
+      "ages": "11-13",
+      "code": "86379",
+      "date_range": "1/8-2/12",
+      "cost": "$90",
+      "sessions": [
+        { "day": "Thursday", "time": "5-6pm" }
+      ]
+    },
+    {
+      "season": "Winter 2026",
+      "center": "Magnolia Community Center",
+      "address": "2530 34th Ave W, Seattle, WA 98199",
+      "phone": "206-386-4235",
+      "zone": 2,
+      "center_hours": "Mon-Fri 9am-8pm, Sat 10am-5pm",
+      "type": "program",
+      "program": "Basketball: Skills & Drills",
+      "ages": "11-13",
+      "code": "86380",
+      "date_range": "2/19-3/26",
+      "cost": "$90",
+      "sessions": [
+        { "day": "Thursday", "time": "5-6pm" }
+      ]
+    },
+    {
+      "season": "Winter 2026",
+      "center": "Magnolia Community Center",
+      "address": "2530 34th Ave W, Seattle, WA 98199",
+      "phone": "206-386-4235",
+      "zone": 2,
+      "center_hours": "Mon-Fri 9am-8pm, Sat 10am-5pm",
+      "type": "program",
+      "program": "Little Hoopers",
+      "ages": "6-8",
+      "code": "86384",
+      "date_range": "1/6-2/10",
+      "cost": "$90",
+      "sessions": [
+        { "day": "Tuesday", "time": "4-5pm" }
+      ]
+    },
+    {
+      "season": "Winter 2026",
+      "center": "Magnolia Community Center",
+      "address": "2530 34th Ave W, Seattle, WA 98199",
+      "phone": "206-386-4235",
+      "zone": 2,
+      "center_hours": "Mon-Fri 9am-8pm, Sat 10am-5pm",
+      "type": "program",
+      "program": "Little Hoopers",
+      "ages": "6-8",
+      "code": "86385",
+      "date_range": "2/17-3/24",
+      "cost": "$90",
+      "sessions": [
+        { "day": "Tuesday", "time": "4-5pm" }
+      ]
+    },
+    {
+      "season": "Winter 2026",
+      "center": "Magnuson Community Center",
+      "address": "7110 62nd Ave NE, Seattle, WA 98115",
+      "phone": "206-684-7026",
+      "zone": 3,
+      "center_hours": "Mon/Tue/Fri 2-9pm, Wed/Thu 9am-8pm, Sat 10am-5pm",
+      "type": "drop-in",
+      "program": "Basketball - Adult",
+      "ages": "18 and Older",
+      "code": "84342",
+      "date_range": "1/6-3/31",
+      "cost": "FREE",
+      "sessions": [
+        { "day": "Monday-Friday", "time": "2-3:30pm" }
+      ]
+    },
+    {
+      "season": "Winter 2026",
+      "center": "Magnuson Community Center",
+      "address": "7110 62nd Ave NE, Seattle, WA 98115",
+      "phone": "206-684-7026",
+      "zone": 3,
+      "center_hours": "Mon/Tue/Fri 2-9pm, Wed/Thu 9am-8pm, Sat 10am-5pm",
+      "type": "drop-in",
+      "program": "Basketball - Teen",
+      "ages": "12-17",
+      "code": "84346",
+      "date_range": "1/2-3/31",
+      "cost": "FREE",
+      "sessions": [
+        { "day": "Monday-Thursday", "time": "3:45-5:45pm" }
+      ]
+    },
+    {
+      "season": "Winter 2026",
+      "center": "Miller Community Center",
+      "address": "330 19th Ave E, Seattle, WA 98112",
+      "phone": "206-684-4753",
+      "zone": 2,
+      "center_hours": "Mon-Thu 10am-8:30pm, Fri 10am-8pm",
+      "type": "program",
+      "program": "Junior Hoopers",
+      "ages": "3-5",
+      "code": "85650",
+      "date_range": "1/9-2/13",
+      "cost": "$65",
+      "sessions": [
+        { "day": "Friday", "time": "2-2:45pm" }
+      ]
+    },
+    {
+      "season": "Winter 2026",
+      "center": "Miller Community Center",
+      "address": "330 19th Ave E, Seattle, WA 98112",
+      "phone": "206-684-4753",
+      "zone": 2,
+      "center_hours": "Mon-Thu 10am-8:30pm, Fri 10am-8pm",
+      "type": "program",
+      "program": "Junior Hoopers",
+      "ages": "3-5",
+      "code": "85670",
+      "date_range": "2/20-3/27",
+      "cost": "$65",
+      "sessions": [
+        { "day": "Friday", "time": "2-2:45pm" }
+      ]
+    },
+    {
+      "season": "Winter 2026",
+      "center": "Miller Community Center",
+      "address": "330 19th Ave E, Seattle, WA 98112",
+      "phone": "206-684-4753",
+      "zone": 2,
+      "center_hours": "Mon-Thu 10am-8:30pm, Fri 10am-8pm",
+      "type": "program",
+      "program": "Junior Hoopers II",
+      "ages": "5-8",
+      "code": "85653",
+      "date_range": "1/9-2/13",
+      "cost": "$65",
+      "sessions": [
+        { "day": "Friday", "time": "3-3:45pm" }
+      ]
+    },
+    {
+      "season": "Winter 2026",
+      "center": "Miller Community Center",
+      "address": "330 19th Ave E, Seattle, WA 98112",
+      "phone": "206-684-4753",
+      "zone": 2,
+      "center_hours": "Mon-Thu 10am-8:30pm, Fri 10am-8pm",
+      "type": "program",
+      "program": "Junior Hoopers II",
+      "ages": "5-8",
+      "code": "85681",
+      "date_range": "2/20-3/27",
+      "cost": "$65",
+      "sessions": [
+        { "day": "Friday", "time": "3-3:45pm" }
+      ]
+    },
+    {
+      "season": "Winter 2026",
+      "center": "Miller Community Center",
+      "address": "330 19th Ave E, Seattle, WA 98112",
+      "phone": "206-684-4753",
+      "zone": 2,
+      "center_hours": "Mon-Thu 10am-8:30pm, Fri 10am-8pm",
+      "type": "drop-in",
+      "program": "Basketball - Adult",
+      "ages": "18 and Older",
+      "code": "85444",
+      "date_range": "1/9-3/27",
+      "cost": "FREE",
+      "sessions": [
+        { "day": "Friday", "time": "6-8pm" }
+      ]
+    },
+    {
+      "season": "Winter 2026",
+      "center": "Miller Community Center",
+      "address": "330 19th Ave E, Seattle, WA 98112",
+      "phone": "206-684-4753",
+      "zone": 2,
+      "center_hours": "Mon-Thu 10am-8:30pm, Fri 10am-8pm",
+      "type": "drop-in",
+      "program": "Wheelchair Basketball",
+      "ages": "10 and Older",
+      "code": "85431",
+      "date_range": "1/6-3/31",
+      "cost": "FREE",
+      "sessions": [
+        { "day": "Tuesday", "time": "6-8:30pm" }
+      ]
+    },
+    {
+      "season": "Winter 2026",
+      "center": "Miller Community Center",
+      "address": "330 19th Ave E, Seattle, WA 98112",
+      "phone": "206-684-4753",
+      "zone": 2,
+      "center_hours": "Mon-Thu 10am-8:30pm, Fri 10am-8pm",
+      "type": "drop-in",
+      "program": "Basketball - Youth",
+      "ages": "11-15",
+      "code": "85526",
+      "date_range": "1/5-3/30",
+      "cost": "FREE",
+      "sessions": [
+        { "day": "Monday", "time": "4-5pm" },
+        { "day": "Wednesday", "time": "2:30-3:30pm" },
+        { "day": "Friday", "time": "4-4:30pm" }
+      ]
+    },
+    {
+      "season": "Winter 2026",
+      "center": "Miller Community Center",
+      "address": "330 19th Ave E, Seattle, WA 98112",
+      "phone": "206-684-4753",
+      "zone": 2,
+      "center_hours": "Mon-Thu 10am-8:30pm, Fri 10am-8pm",
+      "type": "drop-in",
+      "program": "Open Gym",
+      "ages": "18 and Older",
+      "code": "85528",
+      "date_range": "1/6-3/31",
+      "cost": "FREE",
+      "sessions": [
+        { "day": "Tuesday", "time": "1:30-3:30pm" }
+      ]
+    },
+    {
+      "season": "Winter 2026",
+      "center": "Montlake Community Center",
+      "address": "1618 E Calhoun St, Seattle, WA 98112",
+      "phone": "206-684-4736",
+      "zone": 2,
+      "center_hours": "Mon/Fri 10am-6pm, Tue/Wed/Thu 1:30-8pm, Sat 9am-3:30pm",
+      "type": "drop-in",
+      "program": "Basketball - Adult",
+      "ages": "18 and Older",
+      "code": "86416",
+      "date_range": "1/7-3/25",
+      "cost": "FREE",
+      "sessions": [
+        { "day": "Wednesday", "time": "6-8pm" }
+      ]
+    },
+    {
+      "season": "Winter 2026",
+      "center": "Montlake Community Center",
+      "address": "1618 E Calhoun St, Seattle, WA 98112",
+      "phone": "206-684-4736",
+      "zone": 2,
+      "center_hours": "Mon/Fri 10am-6pm, Tue/Wed/Thu 1:30-8pm, Sat 9am-3:30pm",
+      "type": "drop-in",
+      "program": "Basketball - Youth",
+      "ages": "13 and Older",
+      "code": "86417",
+      "date_range": "1/7-3/25",
+      "cost": "FREE",
+      "sessions": [
+        { "day": "Wednesday", "time": "4-6pm" }
+      ]
+    },
+    {
+      "season": "Winter 2026",
+      "center": "Montlake Community Center",
+      "address": "1618 E Calhoun St, Seattle, WA 98112",
+      "phone": "206-684-4736",
+      "zone": 2,
+      "center_hours": "Mon/Fri 10am-6pm, Tue/Wed/Thu 1:30-8pm, Sat 9am-3:30pm",
+      "type": "drop-in",
+      "program": "Open Gym",
+      "ages": "All Ages",
+      "code": "85551",
+      "date_range": "1/5-3/30",
+      "cost": "FREE",
+      "sessions": [
+        { "day": "Mon/Tue", "time": "2:30-4pm" }
+      ]
+    },
+    {
+      "season": "Winter 2026",
+      "center": "Ravenna-Eckstein Community Center",
+      "address": "6535 Ravenna Ave NE, Seattle, WA 98115",
+      "phone": "206-684-7534",
+      "zone": 3,
+      "center_hours": "Mon-Thu 12:30-8pm, Fri 12:30-7:30pm, Sat 9am-5pm",
+      "type": "drop-in",
+      "program": "Open Gym",
+      "ages": "12 and Older",
+      "code": "86237",
+      "date_range": "1/5-3/30",
+      "cost": "FREE",
+      "sessions": [
+        { "day": "Monday/Thursday", "time": "12:45-2:45pm" },
+        { "day": "Wednesday", "time": "5-7:30pm" }
+      ]
+    },
+    {
+      "season": "Winter 2026",
+      "center": "Ravenna-Eckstein Community Center",
+      "address": "6535 Ravenna Ave NE, Seattle, WA 98115",
+      "phone": "206-684-7534",
+      "zone": 3,
+      "center_hours": "Mon-Thu 12:30-8pm, Fri 12:30-7:30pm, Sat 9am-5pm",
+      "type": "program",
+      "program": "Basketball: Little Hoopers",
+      "ages": "5-7",
+      "code": "87391",
+      "date_range": "2/4-3/25",
+      "cost": "$77",
+      "sessions": [
+        { "day": "Wednesday", "time": "5-5:45pm" }
+      ]
+    },
+    {
+      "season": "Winter 2026",
+      "center": "Ravenna-Eckstein Community Center",
+      "address": "6535 Ravenna Ave NE, Seattle, WA 98115",
+      "phone": "206-684-7534",
+      "zone": 3,
+      "center_hours": "Mon-Thu 12:30-8pm, Fri 12:30-7:30pm, Sat 9am-5pm",
+      "type": "program",
+      "program": "Basketball: Little Hoopers",
+      "ages": "5-7",
+      "code": "87392",
+      "date_range": "2/4-3/25",
+      "cost": "$77",
+      "sessions": [
+        { "day": "Wednesday", "time": "5:45-6:30pm" }
+      ]
+    },
+    {
+      "season": "Winter 2026",
+      "center": "South Park Community Center",
+      "address": "8319 8th Ave S, Seattle, WA 98108",
+      "phone": "206-684-7451",
+      "zone": 1,
+      "type": "drop-in",
+      "program": "Adult Basketball",
+      "ages": "14 and Over",
+      "code": "SP-BB",
+      "date_range": "1/6-3/31",
+      "cost": "FREE",
+      "sessions": [
+        { "day": "Tuesday", "time": "6:30-8:30pm" },
+        { "day": "Thursday", "time": "6:30-8:30pm" }
+      ],
+      "notes": "At Concord International Elementary School gym"
+    },
+    {
+      "season": "Winter 2026",
+      "center": "Van Asselt Community Center",
+      "address": "2820 S Myrtle St, Seattle, WA 98108",
+      "phone": "206-386-1921",
+      "zone": 1,
+      "center_hours": "Mon-Fri 10am-8pm, Sat 10am-5pm",
+      "type": "program",
+      "program": "Drills and Skills",
+      "ages": "10-17",
+      "code": "84747",
+      "date_range": "1/5-1/29",
+      "cost": "$63",
+      "sessions": [
+        { "day": "Monday-Thursday", "time": "4-6:15pm" }
+      ]
+    },
+    {
+      "season": "Winter 2026",
+      "center": "Van Asselt Community Center",
+      "address": "2820 S Myrtle St, Seattle, WA 98108",
+      "phone": "206-386-1921",
+      "zone": 1,
+      "center_hours": "Mon-Fri 10am-8pm, Sat 10am-5pm",
+      "type": "program",
+      "program": "Drills and Skills",
+      "ages": "10-17",
+      "code": "84748",
+      "date_range": "2/2-2/26",
+      "cost": "$63",
+      "sessions": [
+        { "day": "Monday-Thursday", "time": "4-6:15pm" }
+      ]
+    },
+    {
+      "season": "Winter 2026",
+      "center": "Van Asselt Community Center",
+      "address": "2820 S Myrtle St, Seattle, WA 98108",
+      "phone": "206-386-1921",
+      "zone": 1,
+      "center_hours": "Mon-Fri 10am-8pm, Sat 10am-5pm",
+      "type": "program",
+      "program": "Drills and Skills",
+      "ages": "10-17",
+      "code": "84749",
+      "date_range": "3/2-3/31",
+      "cost": "$63",
+      "sessions": [
+        { "day": "Monday-Thursday", "time": "4-6:15pm" }
+      ]
+    },
+    {
+      "season": "Winter 2026",
+      "center": "Van Asselt Community Center",
+      "address": "2820 S Myrtle St, Seattle, WA 98108",
+      "phone": "206-386-1921",
+      "zone": 1,
+      "center_hours": "Mon-Fri 10am-8pm, Sat 10am-5pm",
+      "type": "drop-in",
+      "program": "Hoop It Up W/3",
+      "ages": "10-18",
+      "code": "86162",
+      "date_range": "1/2-3/6",
+      "cost": "FREE",
+      "sessions": [
+        { "day": "Friday", "time": "4-5pm" }
+      ]
+    },
+    {
+      "season": "Winter 2026",
+      "center": "Van Asselt Community Center",
+      "address": "2820 S Myrtle St, Seattle, WA 98108",
+      "phone": "206-386-1921",
+      "zone": 1,
+      "center_hours": "Mon-Fri 10am-8pm, Sat 10am-5pm",
+      "type": "program",
+      "program": "Junior Hoopers",
+      "ages": "6-7",
+      "code": "84742",
+      "date_range": "1/9-2/13",
+      "cost": "$70",
+      "sessions": [
+        { "day": "Friday", "time": "5-6pm" }
+      ]
+    },
+    {
+      "season": "Winter 2026",
+      "center": "Van Asselt Community Center",
+      "address": "2820 S Myrtle St, Seattle, WA 98108",
+      "phone": "206-386-1921",
+      "zone": 1,
+      "center_hours": "Mon-Fri 10am-8pm, Sat 10am-5pm",
+      "type": "program",
+      "program": "Junior Hoopers",
+      "ages": "6-7",
+      "code": "84743",
+      "date_range": "2/20-4/3",
+      "cost": "$70",
+      "sessions": [
+        { "day": "Friday", "time": "5-6pm" }
+      ]
+    },
+    {
+      "season": "Winter 2026",
+      "center": "Van Asselt Community Center",
+      "address": "2820 S Myrtle St, Seattle, WA 98108",
+      "phone": "206-386-1921",
+      "zone": 1,
+      "center_hours": "Mon-Fri 10am-8pm, Sat 10am-5pm",
+      "type": "program",
+      "program": "Little Hoopers",
+      "ages": "3-5",
+      "code": "84740",
+      "date_range": "1/9-2/13",
+      "cost": "$70",
+      "sessions": [
+        { "day": "Friday", "time": "4-4:45pm" }
+      ]
+    },
+    {
+      "season": "Winter 2026",
+      "center": "Van Asselt Community Center",
+      "address": "2820 S Myrtle St, Seattle, WA 98108",
+      "phone": "206-386-1921",
+      "zone": 1,
+      "center_hours": "Mon-Fri 10am-8pm, Sat 10am-5pm",
+      "type": "program",
+      "program": "Little Hoopers",
+      "ages": "3-5",
+      "code": "84741",
+      "date_range": "2/20-4/3",
+      "cost": "$70",
+      "sessions": [
+        { "day": "Friday", "time": "4-4:45pm" }
+      ]
+    },
+    {
+      "season": "Winter 2026",
+      "center": "Yesler Community Center",
+      "address": "917 E Yesler Way, Seattle, WA 98122",
+      "phone": "206-386-1245",
+      "zone": 2,
+      "center_hours": "Mon-Fri 7:15am-6:45pm, Sat 8:30am-5pm",
+      "type": "program",
+      "program": "Junior Hoopers",
+      "ages": "6-7",
+      "code": "85311",
+      "date_range": "1/9-2/6",
+      "cost": "$40",
+      "sessions": [
+        { "day": "Friday", "time": "5:30-6:15pm" }
+      ]
+    },
+    {
+      "season": "Winter 2026",
+      "center": "Yesler Community Center",
+      "address": "917 E Yesler Way, Seattle, WA 98122",
+      "phone": "206-386-1245",
+      "zone": 2,
+      "center_hours": "Mon-Fri 7:15am-6:45pm, Sat 8:30am-5pm",
+      "type": "program",
+      "program": "Junior Hoopers",
+      "ages": "6-7",
+      "code": "85787",
+      "date_range": "2/13-3/6",
+      "cost": "$40",
+      "sessions": [
+        { "day": "Friday", "time": "5:30-6:15pm" }
+      ]
+    },
+    {
+      "season": "Winter 2026",
+      "center": "Yesler Community Center",
+      "address": "917 E Yesler Way, Seattle, WA 98122",
+      "phone": "206-386-1245",
+      "zone": 2,
+      "center_hours": "Mon-Fri 7:15am-6:45pm, Sat 8:30am-5pm",
+      "type": "program",
+      "program": "Little Hoopers",
+      "ages": "3-5",
+      "code": "85312",
+      "date_range": "1/9-2/6",
+      "cost": "$40",
+      "sessions": [
+        { "day": "Friday", "time": "4:30-5:15pm" }
+      ]
+    },
+    {
+      "season": "Winter 2026",
+      "center": "Yesler Community Center",
+      "address": "917 E Yesler Way, Seattle, WA 98122",
+      "phone": "206-386-1245",
+      "zone": 2,
+      "center_hours": "Mon-Fri 7:15am-6:45pm, Sat 8:30am-5pm",
+      "type": "program",
+      "program": "Little Hoopers",
+      "ages": "3-5",
+      "code": "85313",
+      "date_range": "2/13-3/6",
+      "cost": "$40",
+      "sessions": [
+        { "day": "Friday", "time": "4:30-5:15pm" }
+      ]
+    },
+    {
+      "season": "Winter 2026",
+      "center": "Yesler Community Center",
+      "address": "917 E Yesler Way, Seattle, WA 98122",
+      "phone": "206-386-1245",
+      "zone": 2,
+      "center_hours": "Mon-Fri 7:15am-6:45pm, Sat 8:30am-5pm",
+      "type": "drop-in",
+      "program": "Open Gym - Youth",
+      "ages": "12-18",
+      "code": "85310",
+      "date_range": "1/7-3/25",
+      "cost": "FREE",
+      "sessions": [
+        { "day": "Wednesday", "time": "2-3:50pm" }
+      ]
+    },
+    {
+      "season": "Winter 2026",
+      "center": "Yesler Community Center",
+      "address": "917 E Yesler Way, Seattle, WA 98122",
+      "phone": "206-386-1245",
+      "zone": 2,
+      "center_hours": "Mon-Fri 7:15am-6:45pm, Sat 8:30am-5pm",
+      "type": "drop-in",
+      "program": "Open Gym - All Ages",
+      "ages": "All Ages",
+      "code": "85307",
+      "date_range": "1/2-3/27",
+      "cost": "FREE",
+      "sessions": [
+        { "day": "Friday", "time": "Noon-4pm" }
+      ]
+    },
+    {
+      "season": "Spring 2026",
       "center": "Garfield Community Center",
       "address": "2323 E Cherry St, Seattle, WA 98122",
       "phone": "206-684-4788",
@@ -22,6 +1013,7 @@
       ]
     },
     {
+      "season": "Spring 2026",
       "center": "Garfield Community Center",
       "address": "2323 E Cherry St, Seattle, WA 98122",
       "phone": "206-684-4788",
@@ -38,6 +1030,7 @@
       ]
     },
     {
+      "season": "Spring 2026",
       "center": "Garfield Community Center",
       "address": "2323 E Cherry St, Seattle, WA 98122",
       "phone": "206-684-4788",
@@ -54,6 +1047,7 @@
       ]
     },
     {
+      "season": "Spring 2026",
       "center": "Van Asselt Community Center",
       "address": "2820 S Myrtle St, Seattle, WA 98108",
       "phone": "206-386-1921",
@@ -70,6 +1064,7 @@
       ]
     },
     {
+      "season": "Spring 2026",
       "center": "Delridge Community Center",
       "address": "4501 Delridge Way SW, Seattle, WA 98106",
       "phone": "206-684-7423",
@@ -91,6 +1086,7 @@
       "notes": "No drop-in programs 4/13-17, 5/25, or 6/4"
     },
     {
+      "season": "Spring 2026",
       "center": "Hiawatha Community Center",
       "address": "2700 California Ave SW, Seattle, WA 98116",
       "phone": "206-684-7441",
@@ -108,6 +1104,7 @@
       "notes": "Hiawatha reopening with limited drop-in programming for Spring 2026"
     },
     {
+      "season": "Spring 2026",
       "center": "High Point Community Center",
       "address": "6920 34th Ave SW, Seattle, WA 98126",
       "phone": "206-684-7422",
@@ -125,6 +1122,7 @@
       ]
     },
     {
+      "season": "Spring 2026",
       "center": "High Point Community Center",
       "address": "6920 34th Ave SW, Seattle, WA 98126",
       "phone": "206-684-7422",
@@ -141,6 +1139,7 @@
       ]
     },
     {
+      "season": "Spring 2026",
       "center": "High Point Community Center",
       "address": "6920 34th Ave SW, Seattle, WA 98126",
       "phone": "206-684-7422",
@@ -161,6 +1160,7 @@
       ]
     },
     {
+      "season": "Spring 2026",
       "center": "Jefferson Community Center",
       "address": "3801 Beacon Ave S, Seattle, WA 98108",
       "phone": "206-684-7481",
@@ -178,6 +1178,7 @@
       ]
     },
     {
+      "season": "Spring 2026",
       "center": "International District/Chinatown Community Center",
       "address": "719 8th Ave S, Seattle, WA 98104",
       "phone": "206-233-0042",
@@ -194,6 +1195,7 @@
       ]
     },
     {
+      "season": "Spring 2026",
       "center": "International District/Chinatown Community Center",
       "address": "719 8th Ave S, Seattle, WA 98104",
       "phone": "206-233-0042",
@@ -210,6 +1212,7 @@
       ]
     },
     {
+      "season": "Spring 2026",
       "center": "Magnolia Community Center",
       "address": "2530 34th Ave W, Seattle, WA 98199",
       "phone": "206-386-4235",
@@ -226,6 +1229,7 @@
       ]
     },
     {
+      "season": "Spring 2026",
       "center": "Magnolia Community Center",
       "address": "2530 34th Ave W, Seattle, WA 98199",
       "phone": "206-386-4235",
@@ -242,6 +1246,7 @@
       ]
     },
     {
+      "season": "Spring 2026",
       "center": "Magnolia Community Center",
       "address": "2530 34th Ave W, Seattle, WA 98199",
       "phone": "206-386-4235",
@@ -258,6 +1263,7 @@
       ]
     },
     {
+      "season": "Spring 2026",
       "center": "Miller Community Center",
       "address": "330 19th Ave E, Seattle, WA 98112",
       "phone": "206-684-4753",
@@ -275,6 +1281,7 @@
       ]
     },
     {
+      "season": "Spring 2026",
       "center": "Miller Community Center",
       "address": "330 19th Ave E, Seattle, WA 98112",
       "phone": "206-684-4753",
@@ -292,6 +1299,7 @@
       ]
     },
     {
+      "season": "Spring 2026",
       "center": "Miller Community Center",
       "address": "330 19th Ave E, Seattle, WA 98112",
       "phone": "206-684-4753",
@@ -308,6 +1316,7 @@
       ]
     },
     {
+      "season": "Spring 2026",
       "center": "Montlake Community Center",
       "address": "1618 E Calhoun St, Seattle, WA 98112",
       "phone": "206-684-4736",
@@ -325,6 +1334,7 @@
       ]
     },
     {
+      "season": "Spring 2026",
       "center": "Montlake Community Center",
       "address": "1618 E Calhoun St, Seattle, WA 98112",
       "phone": "206-684-4736",
@@ -342,6 +1352,7 @@
       ]
     },
     {
+      "season": "Spring 2026",
       "center": "Montlake Community Center",
       "address": "1618 E Calhoun St, Seattle, WA 98112",
       "phone": "206-684-4736",
@@ -358,6 +1369,7 @@
       ]
     },
     {
+      "season": "Spring 2026",
       "center": "Queen Anne Community Center",
       "address": "1901 1st Ave W, Seattle, WA 98119",
       "phone": "206-386-4240",
@@ -374,6 +1386,7 @@
       ]
     },
     {
+      "season": "Spring 2026",
       "center": "Queen Anne Community Center",
       "address": "1901 1st Ave W, Seattle, WA 98119",
       "phone": "206-386-4240",
@@ -390,6 +1403,7 @@
       ]
     },
     {
+      "season": "Spring 2026",
       "center": "Yesler Community Center",
       "address": "917 E Yesler Way, Seattle, WA 98122",
       "phone": "206-386-1245",
@@ -406,6 +1420,7 @@
       ]
     },
     {
+      "season": "Spring 2026",
       "center": "Yesler Community Center",
       "address": "917 E Yesler Way, Seattle, WA 98122",
       "phone": "206-386-1245",
@@ -422,6 +1437,7 @@
       ]
     },
     {
+      "season": "Spring 2026",
       "center": "Ballard Community Center",
       "address": "6020 28th Ave NW, Seattle, WA 98107",
       "phone": "206-684-4093",
@@ -438,6 +1454,7 @@
       ]
     },
     {
+      "season": "Spring 2026",
       "center": "Bitter Lake Community Center",
       "address": "13035 Linden Ave N, Seattle, WA 98133",
       "phone": "206-684-7524",
@@ -454,6 +1471,7 @@
       ]
     },
     {
+      "season": "Spring 2026",
       "center": "Bitter Lake Community Center",
       "address": "13035 Linden Ave N, Seattle, WA 98133",
       "phone": "206-684-7524",
@@ -470,6 +1488,7 @@
       ]
     },
     {
+      "season": "Spring 2026",
       "center": "Bitter Lake Community Center",
       "address": "13035 Linden Ave N, Seattle, WA 98133",
       "phone": "206-684-7524",
@@ -487,6 +1506,7 @@
       "notes": "Late night recreation program — likely includes basketball among other activities"
     },
     {
+      "season": "Spring 2026",
       "center": "Green Lake Community Center",
       "address": "7201 E Green Lake Dr N, Seattle, WA 98115",
       "phone": "206-684-0780",
@@ -506,6 +1526,7 @@
       ]
     },
     {
+      "season": "Spring 2026",
       "center": "Green Lake Community Center",
       "address": "7201 E Green Lake Dr N, Seattle, WA 98115",
       "phone": "206-684-0780",
@@ -525,6 +1546,7 @@
       ]
     },
     {
+      "season": "Spring 2026",
       "center": "Green Lake Community Center",
       "address": "7201 E Green Lake Dr N, Seattle, WA 98115",
       "phone": "206-684-0780",
@@ -541,6 +1563,7 @@
       ]
     },
     {
+      "season": "Spring 2026",
       "center": "Green Lake Community Center",
       "address": "7201 E Green Lake Dr N, Seattle, WA 98115",
       "phone": "206-684-0780",
@@ -557,6 +1580,7 @@
       ]
     },
     {
+      "season": "Spring 2026",
       "center": "Green Lake Community Center",
       "address": "7201 E Green Lake Dr N, Seattle, WA 98115",
       "phone": "206-684-0780",
@@ -573,6 +1597,7 @@
       ]
     },
     {
+      "season": "Spring 2026",
       "center": "Loyal Heights Community Center",
       "address": "2101 NW 77th St, Seattle, WA 98117",
       "phone": "206-684-4052",
@@ -589,6 +1614,7 @@
       ]
     },
     {
+      "season": "Spring 2026",
       "center": "Loyal Heights Community Center",
       "address": "2101 NW 77th St, Seattle, WA 98117",
       "phone": "206-684-4052",
@@ -605,6 +1631,7 @@
       ]
     },
     {
+      "season": "Spring 2026",
       "center": "Magnuson Community Center",
       "address": "7110 62nd Ave NE, Seattle, WA 98115",
       "phone": "206-684-7026",
@@ -622,6 +1649,7 @@
       ]
     },
     {
+      "season": "Spring 2026",
       "center": "Magnuson Community Center",
       "address": "7110 62nd Ave NE, Seattle, WA 98115",
       "phone": "206-684-7026",
@@ -638,6 +1666,7 @@
       ]
     },
     {
+      "season": "Spring 2026",
       "center": "Magnuson Community Center",
       "address": "7110 62nd Ave NE, Seattle, WA 98115",
       "phone": "206-684-7026",
@@ -655,6 +1684,7 @@
       ]
     },
     {
+      "season": "Spring 2026",
       "center": "Meadowbrook Community Center",
       "address": "10517 35th Ave NE, Seattle, WA 98125",
       "phone": "206-684-7522",
@@ -671,6 +1701,7 @@
       ]
     },
     {
+      "season": "Spring 2026",
       "center": "Meadowbrook Community Center",
       "address": "10517 35th Ave NE, Seattle, WA 98125",
       "phone": "206-684-7522",
@@ -687,6 +1718,7 @@
       ]
     },
     {
+      "season": "Spring 2026",
       "center": "Meadowbrook Community Center",
       "address": "10517 35th Ave NE, Seattle, WA 98125",
       "phone": "206-684-7522",
@@ -703,6 +1735,7 @@
       ]
     },
     {
+      "season": "Spring 2026",
       "center": "Meadowbrook Community Center",
       "address": "10517 35th Ave NE, Seattle, WA 98125",
       "phone": "206-684-7522",
@@ -719,6 +1752,7 @@
       ]
     },
     {
+      "season": "Spring 2026",
       "center": "Ravenna-Eckstein Community Center",
       "address": "6535 Ravenna Ave NE, Seattle, WA 98115",
       "phone": "206-684-7534",
@@ -738,6 +1772,7 @@
       "notes": "Drop-in times subject to change — call 206-684-7534 or check Ravenna-Eckstein CC Facebook page"
     },
     {
+      "season": "Spring 2026",
       "center": "Ravenna-Eckstein Community Center",
       "address": "6535 Ravenna Ave NE, Seattle, WA 98115",
       "phone": "206-684-7534",
@@ -754,6 +1789,7 @@
       ]
     },
     {
+      "season": "Spring 2026",
       "center": "Ravenna-Eckstein Community Center",
       "address": "6535 Ravenna Ave NE, Seattle, WA 98115",
       "phone": "206-684-7534",
@@ -770,6 +1806,7 @@
       ]
     },
     {
+      "season": "Spring 2026",
       "center": "Northgate Community Center",
       "address": "10510 5th Ave NE, Seattle, WA 98125",
       "phone": "206-386-4283",
@@ -786,6 +1823,7 @@
       ]
     },
     {
+      "season": "Spring 2026",
       "center": "Northgate Community Center",
       "address": "10510 5th Ave NE, Seattle, WA 98125",
       "phone": "206-386-4283",
@@ -802,6 +1840,7 @@
       ]
     },
     {
+      "season": "Spring 2026",
       "center": "Laurelhurst Community Center",
       "address": "4554 NE 41st St, Seattle, WA 98112",
       "phone": "206-684-7529",

@@ -243,8 +243,7 @@ function main() {
   // Build output
   const output = {
     generated_at: new Date().toISOString(),
-    season: schedules.season || null,
-    schedule_source: schedules.source || null,
+    seasons: schedules.seasons || null,
     locations,
   };
 

@@ -14,7 +14,43 @@ DESCRIPTION:Ages: 6-7\\nCost: $100\\nDates: 4/20-6/15
 LOCATION:Laurelhurst Community Center\, 4554 NE 41st St\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:87574-sat-1@hoopfinder
+UID:85650-fri-1@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260109T140000
+DTEND;TZID=America/Los_Angeles:20260109T144500
+RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260213T235900
+SUMMARY:Junior Hoopers @ Miller Community Center
+DESCRIPTION:Ages: 3-5\\nCost: $65\\nDates: 1/9-2/13
+LOCATION:Miller Community Center\, 330 19th Ave E\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:85670-fri-2@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260220T140000
+DTEND;TZID=America/Los_Angeles:20260220T144500
+RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260327T235900
+SUMMARY:Junior Hoopers @ Miller Community Center
+DESCRIPTION:Ages: 3-5\\nCost: $65\\nDates: 2/20-3/27
+LOCATION:Miller Community Center\, 330 19th Ave E\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:85653-fri-3@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260109T150000
+DTEND;TZID=America/Los_Angeles:20260109T154500
+RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260213T235900
+SUMMARY:Junior Hoopers II @ Miller Community Center
+DESCRIPTION:Ages: 5-8\\nCost: $65\\nDates: 1/9-2/13
+LOCATION:Miller Community Center\, 330 19th Ave E\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:85681-fri-4@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260220T150000
+DTEND;TZID=America/Los_Angeles:20260220T154500
+RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260327T235900
+SUMMARY:Junior Hoopers II @ Miller Community Center
+DESCRIPTION:Ages: 5-8\\nCost: $65\\nDates: 2/20-3/27
+LOCATION:Miller Community Center\, 330 19th Ave E\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:87574-sat-5@hoopfinder
 DTSTART;TZID=America/Los_Angeles:20260404T123000
 DTEND;TZID=America/Los_Angeles:20260404T133000
 RRULE:FREQ=WEEKLY;BYDAY=SA;UNTIL=20260613T235900
@@ -23,7 +59,7 @@ DESCRIPTION:Ages: 5-7\\nCost: $121\\nDates: 4/4-6/13
 LOCATION:Meadowbrook Community Center\, 10517 35th Ave NE\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:87573-sat-2@hoopfinder
+UID:87573-sat-6@hoopfinder
 DTSTART;TZID=America/Los_Angeles:20260404T140000
 DTEND;TZID=America/Los_Angeles:20260404T150000
 RRULE:FREQ=WEEKLY;BYDAY=SA;UNTIL=20260613T235900
@@ -32,7 +68,25 @@ DESCRIPTION:Ages: 8-10\\nCost: $121\\nDates: 4/4-6/13
 LOCATION:Meadowbrook Community Center\, 10517 35th Ave NE\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:88117-fri-3@hoopfinder
+UID:86384-tue-7@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260106T160000
+DTEND;TZID=America/Los_Angeles:20260106T170000
+RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20260210T235900
+SUMMARY:Little Hoopers @ Magnolia Community Center
+DESCRIPTION:Ages: 6-8\\nCost: $90\\nDates: 1/6-2/10
+LOCATION:Magnolia Community Center\, 2550  34th Ave W\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:86385-tue-8@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260217T160000
+DTEND;TZID=America/Los_Angeles:20260217T170000
+RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20260324T235900
+SUMMARY:Little Hoopers @ Magnolia Community Center
+DESCRIPTION:Ages: 6-8\\nCost: $90\\nDates: 2/17-3/24
+LOCATION:Magnolia Community Center\, 2550  34th Ave W\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:88117-fri-9@hoopfinder
 DTSTART;TZID=America/Los_Angeles:20260403T181500
 DTEND;TZID=America/Los_Angeles:20260403T190000
 RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260501T235900
@@ -41,7 +95,7 @@ DESCRIPTION:Ages: 5-6\\nCost: $60\\nDates: 4/3-5/1
 LOCATION:Northgate Community Center\, 10510 5th Ave NE\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:88119-fri-4@hoopfinder
+UID:88119-fri-10@hoopfinder
 DTSTART;TZID=America/Los_Angeles:20260403T190500
 DTEND;TZID=America/Los_Angeles:20260403T195000
 RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260501T235900
@@ -50,7 +104,70 @@ DESCRIPTION:Ages: 7-11\\nCost: $60\\nDates: 4/3-5/1
 LOCATION:Northgate Community Center\, 10510 5th Ave NE\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:88214-fri-5@hoopfinder
+UID:85128-mon-11@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260112T160000
+DTEND;TZID=America/Los_Angeles:20260112T170000
+RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20260302T235900
+SUMMARY:Lil Hot Shots Basketball @ Loyal Heights Community Center
+DESCRIPTION:Ages: 6-7\\nCost: $121\\nDates: 1/12-3/2
+LOCATION:Loyal Heights Community Center\, 2101 NW 77th St\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:85311-fri-12@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260109T173000
+DTEND;TZID=America/Los_Angeles:20260109T181500
+RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260206T235900
+SUMMARY:Junior Hoopers @ Yesler Community Center
+DESCRIPTION:Ages: 6-7\\nCost: $40\\nDates: 1/9-2/6
+LOCATION:Yesler Community Center\, 917  E Yesler Way\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:85787-fri-13@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260213T173000
+DTEND;TZID=America/Los_Angeles:20260213T181500
+RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260306T235900
+SUMMARY:Junior Hoopers @ Yesler Community Center
+DESCRIPTION:Ages: 6-7\\nCost: $40\\nDates: 2/13-3/6
+LOCATION:Yesler Community Center\, 917  E Yesler Way\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:85312-fri-14@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260109T163000
+DTEND;TZID=America/Los_Angeles:20260109T171500
+RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260206T235900
+SUMMARY:Little Hoopers @ Yesler Community Center
+DESCRIPTION:Ages: 3-5\\nCost: $40\\nDates: 1/9-2/6
+LOCATION:Yesler Community Center\, 917  E Yesler Way\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:85313-fri-15@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260213T163000
+DTEND;TZID=America/Los_Angeles:20260213T171500
+RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260306T235900
+SUMMARY:Little Hoopers @ Yesler Community Center
+DESCRIPTION:Ages: 3-5\\nCost: $40\\nDates: 2/13-3/6
+LOCATION:Yesler Community Center\, 917  E Yesler Way\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:87391-wed-16@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260204T170000
+DTEND;TZID=America/Los_Angeles:20260204T174500
+RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20260325T235900
+SUMMARY:Basketball: Little Hoopers @ Ravenna-Eckstein Community Center
+DESCRIPTION:Ages: 5-7\\nCost: $77\\nDates: 2/4-3/25
+LOCATION:Ravenna-Eckstein Community Center\, 6535 Ravenna Ave NE\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:87392-wed-17@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260204T174500
+DTEND;TZID=America/Los_Angeles:20260204T183000
+RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20260325T235900
+SUMMARY:Basketball: Little Hoopers @ Ravenna-Eckstein Community Center
+DESCRIPTION:Ages: 5-7\\nCost: $77\\nDates: 2/4-3/25
+LOCATION:Ravenna-Eckstein Community Center\, 6535 Ravenna Ave NE\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:88214-fri-18@hoopfinder
 DTSTART;TZID=America/Los_Angeles:20260403T163000
 DTEND;TZID=America/Los_Angeles:20260403T171500
 RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260612T235900
@@ -59,7 +176,7 @@ DESCRIPTION:Ages: 5-7\\nCost: $86\\nDates: 4/3-6/12
 LOCATION:Ravenna-Eckstein Community Center\, 6535 Ravenna Ave NE\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:88215-fri-6@hoopfinder
+UID:88215-fri-19@hoopfinder
 DTSTART;TZID=America/Los_Angeles:20260403T173000
 DTEND;TZID=America/Los_Angeles:20260403T181500
 RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260612T235900
@@ -68,7 +185,25 @@ DESCRIPTION:Ages: 8-11\\nCost: $86\\nDates: 4/3-6/12
 LOCATION:Ravenna-Eckstein Community Center\, 6535 Ravenna Ave NE\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:87815-thu-7@hoopfinder
+UID:86751-tue-20@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260106T161500
+DTEND;TZID=America/Los_Angeles:20260106T170000
+RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20260210T235900
+SUMMARY:Basketball: Little Dribblers @ Green Lake Community Center
+DESCRIPTION:Ages: 5-7\\nCost: $75\\nDates: 1/6-2/10
+LOCATION:Green Lake Community Center\, 7201 E Green Lake Dr N\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:86750-tue-21@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260217T161500
+DTEND;TZID=America/Los_Angeles:20260217T170000
+RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20260317T235900
+SUMMARY:Basketball: Little Dribblers @ Green Lake Community Center
+DESCRIPTION:Ages: 5-7\\nCost: $65\\nDates: 2/17-3/17
+LOCATION:Green Lake Community Center\, 7201 E Green Lake Dr N\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:87815-thu-22@hoopfinder
 DTSTART;TZID=America/Los_Angeles:20260409T161500
 DTEND;TZID=America/Los_Angeles:20260409T170000
 RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20260512T235900
@@ -77,12 +212,75 @@ DESCRIPTION:Ages: 5-7\\nCost: $95\\nDates: 4/7-5/12
 LOCATION:Green Lake Community Center\, 7201 E Green Lake Dr N\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:87817-thu-8@hoopfinder
+UID:87817-thu-23@hoopfinder
 DTSTART;TZID=America/Los_Angeles:20260409T171500
 DTEND;TZID=America/Los_Angeles:20260409T180000
 RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20260512T235900
 SUMMARY:Basketball: Little Hoopers @ Green Lake Community Center
 DESCRIPTION:Ages: 8-12\\nCost: $95\\nDates: 4/7-5/12
 LOCATION:Green Lake Community Center\, 7201 E Green Lake Dr N\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:84742-fri-24@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260109T170000
+DTEND;TZID=America/Los_Angeles:20260109T180000
+RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260213T235900
+SUMMARY:Junior Hoopers @ Van Asselt Community Center
+DESCRIPTION:Ages: 6-7\\nCost: $70\\nDates: 1/9-2/13
+LOCATION:Van Asselt Community Center\, 2820 S Myrtle St\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:84743-fri-25@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260220T170000
+DTEND;TZID=America/Los_Angeles:20260220T180000
+RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260403T235900
+SUMMARY:Junior Hoopers @ Van Asselt Community Center
+DESCRIPTION:Ages: 6-7\\nCost: $70\\nDates: 2/20-4/3
+LOCATION:Van Asselt Community Center\, 2820 S Myrtle St\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:84740-fri-26@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260109T160000
+DTEND;TZID=America/Los_Angeles:20260109T164500
+RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260213T235900
+SUMMARY:Little Hoopers @ Van Asselt Community Center
+DESCRIPTION:Ages: 3-5\\nCost: $70\\nDates: 1/9-2/13
+LOCATION:Van Asselt Community Center\, 2820 S Myrtle St\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:84741-fri-27@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260220T160000
+DTEND;TZID=America/Los_Angeles:20260220T164500
+RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260403T235900
+SUMMARY:Little Hoopers @ Van Asselt Community Center
+DESCRIPTION:Ages: 3-5\\nCost: $70\\nDates: 2/20-4/3
+LOCATION:Van Asselt Community Center\, 2820 S Myrtle St\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:84405-tue-28@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260106T171500
+DTEND;TZID=America/Los_Angeles:20260106T180000
+RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20260210T235900
+SUMMARY:Little Hoopers B-Ball @ Bitter Lake Community Center
+DESCRIPTION:Ages: 5-7\\nCost: $66\\nDates: 1/6-2/10
+LOCATION:Bitter Lake Community Center\, 13035 Linden Ave N\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:84406-tue-29@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260224T171500
+DTEND;TZID=America/Los_Angeles:20260224T180000
+RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20260331T235900
+SUMMARY:Little Hoopers B-Ball @ Bitter Lake Community Center
+DESCRIPTION:Ages: 5-7\\nCost: $66\\nDates: 2/24-3/31
+LOCATION:Bitter Lake Community Center\, 13035 Linden Ave N\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:86097-sun-30@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260111T110000
+DTEND;TZID=America/Los_Angeles:20260111T114500
+RRULE:FREQ=WEEKLY;BYDAY=SU;UNTIL=20260329T235900
+SUMMARY:Little Hoopers Scrimmage @ Bitter Lake Community Center
+DESCRIPTION:Ages: 6-7\\nCost: $80\\nDates: 1/11-3/29
+LOCATION:Bitter Lake Community Center\, 13035 Linden Ave N\, Seattle\, WA
 END:VEVENT
 END:VCALENDAR
