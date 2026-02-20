@@ -176,7 +176,25 @@ DESCRIPTION:Ages: 11-13\\nCost: $90\\nDates: 4/2-5/7
 LOCATION:Magnolia Community Center\, 2550  34th Ave W\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:84782-tue-19@hoopfinder
+UID:88146-tue-19@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260407T180000
+DTEND;TZID=America/Los_Angeles:20260407T200000
+RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20260616T235900
+SUMMARY:Basketball @ Queen Anne Community Center
+DESCRIPTION:Ages: All Ages\\nCost: Free\\nDates: 4/7-6/16
+LOCATION:Queen Anne Community Center\, 1901 1st Ave W\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:88148-sat-20@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260411T110000
+DTEND;TZID=America/Los_Angeles:20260411T140000
+RRULE:FREQ=WEEKLY;BYDAY=SA;UNTIL=20260620T235900
+SUMMARY:Basketball @ Queen Anne Community Center
+DESCRIPTION:Ages: All Ages\\nCost: Free\\nDates: 4/11-6/20
+LOCATION:Queen Anne Community Center\, 1901 1st Ave W\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:84782-tue-21@hoopfinder
 DTSTART;TZID=America/Los_Angeles:20260106T123000
 DTEND;TZID=America/Los_Angeles:20260106T164500
 RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20260327T235900
@@ -185,7 +203,7 @@ DESCRIPTION:Ages: 10 and Older\\nCost: Free\\nDates: 1/6-3/27
 LOCATION:Delridge Community Center\, 4501 Delridge Way SW\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:84782-thu-20@hoopfinder
+UID:84782-thu-22@hoopfinder
 DTSTART;TZID=America/Los_Angeles:20260108T123000
 DTEND;TZID=America/Los_Angeles:20260108T170000
 RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20260327T235900
@@ -194,7 +212,7 @@ DESCRIPTION:Ages: 10 and Older\\nCost: Free\\nDates: 1/6-3/27
 LOCATION:Delridge Community Center\, 4501 Delridge Way SW\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:84782-fri-21@hoopfinder
+UID:84782-fri-23@hoopfinder
 DTSTART;TZID=America/Los_Angeles:20260109T131500
 DTEND;TZID=America/Los_Angeles:20260109T154500
 RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260327T235900
@@ -203,7 +221,7 @@ DESCRIPTION:Ages: 10 and Older\\nCost: Free\\nDates: 1/6-3/27
 LOCATION:Delridge Community Center\, 4501 Delridge Way SW\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:86881-mon-22@hoopfinder
+UID:86881-mon-24@hoopfinder
 DTSTART;TZID=America/Los_Angeles:20260406T161500
 DTEND;TZID=America/Los_Angeles:20260406T194500
 RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20260612T235900
@@ -212,7 +230,7 @@ DESCRIPTION:Ages: 10 and Older\\nCost: Free\\nDates: 4/6-6/12
 LOCATION:Delridge Community Center\, 4501 Delridge Way SW\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:86881-tue-23@hoopfinder
+UID:86881-tue-25@hoopfinder
 DTSTART;TZID=America/Los_Angeles:20260407T123000
 DTEND;TZID=America/Los_Angeles:20260407T164500
 RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20260612T235900
@@ -221,7 +239,7 @@ DESCRIPTION:Ages: 10 and Older\\nCost: Free\\nDates: 4/6-6/12
 LOCATION:Delridge Community Center\, 4501 Delridge Way SW\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:86881-thu-24@hoopfinder
+UID:86881-thu-26@hoopfinder
 DTSTART;TZID=America/Los_Angeles:20260409T123000
 DTEND;TZID=America/Los_Angeles:20260409T163000
 RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20260612T235900
@@ -230,7 +248,7 @@ DESCRIPTION:Ages: 10 and Older\\nCost: Free\\nDates: 4/6-6/12
 LOCATION:Delridge Community Center\, 4501 Delridge Way SW\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:86881-fri-25@hoopfinder
+UID:86881-fri-27@hoopfinder
 DTSTART;TZID=America/Los_Angeles:20260410T131500
 DTEND;TZID=America/Los_Angeles:20260410T164500
 RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260612T235900
@@ -239,7 +257,7 @@ DESCRIPTION:Ages: 10 and Older\\nCost: Free\\nDates: 4/6-6/12
 LOCATION:Delridge Community Center\, 4501 Delridge Way SW\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:86881-sat-26@hoopfinder
+UID:86881-sat-28@hoopfinder
 DTSTART;TZID=America/Los_Angeles:20260411T150000
 DTEND;TZID=America/Los_Angeles:20260411T173000
 RRULE:FREQ=WEEKLY;BYDAY=SA;UNTIL=20260612T235900
@@ -248,7 +266,142 @@ DESCRIPTION:Ages: 10 and Older\\nCost: Free\\nDates: 4/6-6/12
 LOCATION:Delridge Community Center\, 4501 Delridge Way SW\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:85310-wed-27@hoopfinder
+UID:87439-sun-29@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260412T120000
+DTEND;TZID=America/Los_Angeles:20260412T133000
+RRULE:FREQ=WEEKLY;BYDAY=SU;UNTIL=20260614T235900
+SUMMARY:Open Gym - Family @ High Point Community Center
+DESCRIPTION:Ages: All Ages\\nCost: Free\\nDates: 4/12-6/14
+LOCATION:High Point Community Center\, 6920  34th Ave SW\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:87440-mon-30@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260406T154500
+DTEND;TZID=America/Los_Angeles:20260406T194500
+RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20260614T235900
+SUMMARY:Open Gym - Youth @ High Point Community Center
+DESCRIPTION:Ages: 10-18\\nCost: Free\\nDates: 4/5-6/14
+LOCATION:High Point Community Center\, 6920  34th Ave SW\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:87440-fri-31@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260410T154500
+DTEND;TZID=America/Los_Angeles:20260410T194500
+RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260614T235900
+SUMMARY:Open Gym - Youth @ High Point Community Center
+DESCRIPTION:Ages: 10-18\\nCost: Free\\nDates: 4/5-6/14
+LOCATION:High Point Community Center\, 6920  34th Ave SW\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:87440-tue-32@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260407T174500
+DTEND;TZID=America/Los_Angeles:20260407T194500
+RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20260614T235900
+SUMMARY:Open Gym - Youth @ High Point Community Center
+DESCRIPTION:Ages: 10-18\\nCost: Free\\nDates: 4/5-6/14
+LOCATION:High Point Community Center\, 6920  34th Ave SW\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:87440-thu-33@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260409T174500
+DTEND;TZID=America/Los_Angeles:20260409T194500
+RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20260614T235900
+SUMMARY:Open Gym - Youth @ High Point Community Center
+DESCRIPTION:Ages: 10-18\\nCost: Free\\nDates: 4/5-6/14
+LOCATION:High Point Community Center\, 6920  34th Ave SW\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:87440-wed-34@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260408T154500
+DTEND;TZID=America/Los_Angeles:20260408T174500
+RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20260614T235900
+SUMMARY:Open Gym - Youth @ High Point Community Center
+DESCRIPTION:Ages: 10-18\\nCost: Free\\nDates: 4/5-6/14
+LOCATION:High Point Community Center\, 6920  34th Ave SW\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:87440-sat-35@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260411T131500
+DTEND;TZID=America/Los_Angeles:20260411T170000
+RRULE:FREQ=WEEKLY;BYDAY=SA;UNTIL=20260614T235900
+SUMMARY:Open Gym - Youth @ High Point Community Center
+DESCRIPTION:Ages: 10-18\\nCost: Free\\nDates: 4/5-6/14
+LOCATION:High Point Community Center\, 6920  34th Ave SW\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:87440-sun-36@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260405T150000
+DTEND;TZID=America/Los_Angeles:20260405T190000
+RRULE:FREQ=WEEKLY;BYDAY=SU;UNTIL=20260614T235900
+SUMMARY:Open Gym - Youth @ High Point Community Center
+DESCRIPTION:Ages: 10-18\\nCost: Free\\nDates: 4/5-6/14
+LOCATION:High Point Community Center\, 6920  34th Ave SW\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:83956-mon-37@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260105T133000
+DTEND;TZID=America/Los_Angeles:20260105T154500
+RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20260331T235900
+SUMMARY:Basketball @ Loyal Heights Community Center
+DESCRIPTION:Ages: All Ages\\nCost: Free\\nDates: 1/2-3/31
+LOCATION:Loyal Heights Community Center\, 2101 NW 77th St\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:83956-tue-38@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260106T153000
+DTEND;TZID=America/Los_Angeles:20260106T174500
+RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20260331T235900
+SUMMARY:Basketball @ Loyal Heights Community Center
+DESCRIPTION:Ages: All Ages\\nCost: Free\\nDates: 1/2-3/31
+LOCATION:Loyal Heights Community Center\, 2101 NW 77th St\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:83956-wed-39@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260107T144500
+DTEND;TZID=America/Los_Angeles:20260107T174500
+RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20260331T235900
+SUMMARY:Basketball @ Loyal Heights Community Center
+DESCRIPTION:Ages: All Ages\\nCost: Free\\nDates: 1/2-3/31
+LOCATION:Loyal Heights Community Center\, 2101 NW 77th St\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:83956-thu-40@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260108T133000
+DTEND;TZID=America/Los_Angeles:20260108T164500
+RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20260331T235900
+SUMMARY:Basketball @ Loyal Heights Community Center
+DESCRIPTION:Ages: All Ages\\nCost: Free\\nDates: 1/2-3/31
+LOCATION:Loyal Heights Community Center\, 2101 NW 77th St\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:83956-fri-41@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260102T140000
+DTEND;TZID=America/Los_Angeles:20260102T164500
+RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260331T235900
+SUMMARY:Basketball @ Loyal Heights Community Center
+DESCRIPTION:Ages: All Ages\\nCost: Free\\nDates: 1/2-3/31
+LOCATION:Loyal Heights Community Center\, 2101 NW 77th St\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:87631-mon-42@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260406T140000
+DTEND;TZID=America/Los_Angeles:20260406T163000
+RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20260626T235900
+SUMMARY:Basketball for Adults/Youth @ Loyal Heights Community Center
+DESCRIPTION:Ages: All Ages\\nCost: Free\\nDates: 4/3-6/26
+LOCATION:Loyal Heights Community Center\, 2101 NW 77th St\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:87631-fri-43@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260403T140000
+DTEND;TZID=America/Los_Angeles:20260403T163000
+RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260626T235900
+SUMMARY:Basketball for Adults/Youth @ Loyal Heights Community Center
+DESCRIPTION:Ages: All Ages\\nCost: Free\\nDates: 4/3-6/26
+LOCATION:Loyal Heights Community Center\, 2101 NW 77th St\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:85310-wed-44@hoopfinder
 DTSTART;TZID=America/Los_Angeles:20260107T140000
 DTEND;TZID=America/Los_Angeles:20260107T155000
 RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20260325T235900
@@ -257,7 +410,16 @@ DESCRIPTION:Ages: 12-18\\nCost: Free\\nDates: 1/7-3/25
 LOCATION:Yesler Community Center\, 917  E Yesler Way\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:88035-wed-28@hoopfinder
+UID:85307-fri-45@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260102T120000
+DTEND;TZID=America/Los_Angeles:20260102T160000
+RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260327T235900
+SUMMARY:Open Gym - All Ages @ Yesler Community Center
+DESCRIPTION:Ages: All Ages\\nCost: Free\\nDates: 1/2-3/27
+LOCATION:Yesler Community Center\, 917  E Yesler Way\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:88035-wed-46@hoopfinder
 DTSTART;TZID=America/Los_Angeles:20260401T140000
 DTEND;TZID=America/Los_Angeles:20260401T155000
 RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20260617T235900
@@ -266,7 +428,16 @@ DESCRIPTION:Ages: 12-18\\nCost: Free\\nDates: 4/1-6/17
 LOCATION:Yesler Community Center\, 917  E Yesler Way\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:86237-mon-29@hoopfinder
+UID:88031-fri-47@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260403T120000
+DTEND;TZID=America/Los_Angeles:20260403T160000
+RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260612T235900
+SUMMARY:Open Gym - All Ages @ Yesler Community Center
+DESCRIPTION:Ages: All Ages\\nCost: Free\\nDates: 4/3-6/12
+LOCATION:Yesler Community Center\, 917  E Yesler Way\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:86237-mon-48@hoopfinder
 DTSTART;TZID=America/Los_Angeles:20260105T124500
 DTEND;TZID=America/Los_Angeles:20260105T144500
 RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20260330T235900
@@ -275,7 +446,7 @@ DESCRIPTION:Ages: 12 and Older\\nCost: Free\\nDates: 1/5-3/30
 LOCATION:Ravenna-Eckstein Community Center\, 6535 Ravenna Ave NE\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:86237-thu-30@hoopfinder
+UID:86237-thu-49@hoopfinder
 DTSTART;TZID=America/Los_Angeles:20260108T124500
 DTEND;TZID=America/Los_Angeles:20260108T144500
 RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20260330T235900
@@ -284,7 +455,7 @@ DESCRIPTION:Ages: 12 and Older\\nCost: Free\\nDates: 1/5-3/30
 LOCATION:Ravenna-Eckstein Community Center\, 6535 Ravenna Ave NE\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:86237-wed-31@hoopfinder
+UID:86237-wed-50@hoopfinder
 DTSTART;TZID=America/Los_Angeles:20260107T170000
 DTEND;TZID=America/Los_Angeles:20260107T193000
 RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20260330T235900
@@ -293,7 +464,7 @@ DESCRIPTION:Ages: 12 and Older\\nCost: Free\\nDates: 1/5-3/30
 LOCATION:Ravenna-Eckstein Community Center\, 6535 Ravenna Ave NE\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:88321-mon-32@hoopfinder
+UID:88321-mon-51@hoopfinder
 DTSTART;TZID=America/Los_Angeles:20260406T124500
 DTEND;TZID=America/Los_Angeles:20260406T151500
 RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20260625T235900
@@ -302,7 +473,7 @@ DESCRIPTION:Ages: 12 and Older\\nCost: Free\\nDates: 4/6-6/25
 LOCATION:Ravenna-Eckstein Community Center\, 6535 Ravenna Ave NE\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:88321-tue-33@hoopfinder
+UID:88321-tue-52@hoopfinder
 DTSTART;TZID=America/Los_Angeles:20260407T141500
 DTEND;TZID=America/Los_Angeles:20260407T164500
 RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20260625T235900
@@ -311,7 +482,7 @@ DESCRIPTION:Ages: 12 and Older\\nCost: Free\\nDates: 4/6-6/25
 LOCATION:Ravenna-Eckstein Community Center\, 6535 Ravenna Ave NE\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:88321-sat-34@hoopfinder
+UID:88321-sat-53@hoopfinder
 DTSTART;TZID=America/Los_Angeles:20260411T114500
 DTEND;TZID=America/Los_Angeles:20260411T164500
 RRULE:FREQ=WEEKLY;BYDAY=SA;UNTIL=20260625T235900
@@ -320,7 +491,7 @@ DESCRIPTION:Ages: 12 and Older\\nCost: Free\\nDates: 4/6-6/25
 LOCATION:Ravenna-Eckstein Community Center\, 6535 Ravenna Ave NE\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:86766-mon-35@hoopfinder
+UID:86766-mon-54@hoopfinder
 DTSTART;TZID=America/Los_Angeles:20260406T154500
 DTEND;TZID=America/Los_Angeles:20260406T171500
 RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20260618T235900
@@ -329,7 +500,7 @@ DESCRIPTION:Ages: 12-17\\nCost: Free\\nDates: 4/6-6/18
 LOCATION:Magnuson Community Center\, 7110 62nd Ave NE\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:86766-tue-36@hoopfinder
+UID:86766-tue-55@hoopfinder
 DTSTART;TZID=America/Los_Angeles:20260407T154500
 DTEND;TZID=America/Los_Angeles:20260407T171500
 RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20260618T235900
@@ -338,7 +509,7 @@ DESCRIPTION:Ages: 12-17\\nCost: Free\\nDates: 4/6-6/18
 LOCATION:Magnuson Community Center\, 7110 62nd Ave NE\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:86766-wed-37@hoopfinder
+UID:86766-wed-56@hoopfinder
 DTSTART;TZID=America/Los_Angeles:20260408T154500
 DTEND;TZID=America/Los_Angeles:20260408T171500
 RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20260618T235900
@@ -347,7 +518,7 @@ DESCRIPTION:Ages: 12-17\\nCost: Free\\nDates: 4/6-6/18
 LOCATION:Magnuson Community Center\, 7110 62nd Ave NE\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:86766-thu-38@hoopfinder
+UID:86766-thu-57@hoopfinder
 DTSTART;TZID=America/Los_Angeles:20260409T154500
 DTEND;TZID=America/Los_Angeles:20260409T171500
 RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20260618T235900
@@ -356,7 +527,7 @@ DESCRIPTION:Ages: 12-17\\nCost: Free\\nDates: 4/6-6/18
 LOCATION:Magnuson Community Center\, 7110 62nd Ave NE\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:86766-fri-39@hoopfinder
+UID:86766-fri-58@hoopfinder
 DTSTART;TZID=America/Los_Angeles:20260410T154500
 DTEND;TZID=America/Los_Angeles:20260410T171500
 RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260618T235900
@@ -365,7 +536,7 @@ DESCRIPTION:Ages: 12-17\\nCost: Free\\nDates: 4/6-6/18
 LOCATION:Magnuson Community Center\, 7110 62nd Ave NE\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:89557-mon-40@hoopfinder
+UID:89557-mon-59@hoopfinder
 DTSTART;TZID=America/Los_Angeles:20260406T153000
 DTEND;TZID=America/Los_Angeles:20260406T173000
 RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20260612T235900
@@ -374,7 +545,7 @@ DESCRIPTION:Ages: 10 and Older\\nCost: Free\\nDates: 4/6-6/12
 LOCATION:Hiawatha Community Center\, 2700 California Ave SW\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:89557-tue-41@hoopfinder
+UID:89557-tue-60@hoopfinder
 DTSTART;TZID=America/Los_Angeles:20260407T153000
 DTEND;TZID=America/Los_Angeles:20260407T173000
 RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20260612T235900
@@ -383,7 +554,7 @@ DESCRIPTION:Ages: 10 and Older\\nCost: Free\\nDates: 4/6-6/12
 LOCATION:Hiawatha Community Center\, 2700 California Ave SW\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:89557-wed-42@hoopfinder
+UID:89557-wed-61@hoopfinder
 DTSTART;TZID=America/Los_Angeles:20260408T153000
 DTEND;TZID=America/Los_Angeles:20260408T173000
 RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20260612T235900
@@ -392,7 +563,7 @@ DESCRIPTION:Ages: 10 and Older\\nCost: Free\\nDates: 4/6-6/12
 LOCATION:Hiawatha Community Center\, 2700 California Ave SW\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:89557-thu-43@hoopfinder
+UID:89557-thu-62@hoopfinder
 DTSTART;TZID=America/Los_Angeles:20260409T153000
 DTEND;TZID=America/Los_Angeles:20260409T173000
 RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20260612T235900
@@ -401,7 +572,7 @@ DESCRIPTION:Ages: 10 and Older\\nCost: Free\\nDates: 4/6-6/12
 LOCATION:Hiawatha Community Center\, 2700 California Ave SW\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:89557-fri-44@hoopfinder
+UID:89557-fri-63@hoopfinder
 DTSTART;TZID=America/Los_Angeles:20260410T153000
 DTEND;TZID=America/Los_Angeles:20260410T173000
 RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260612T235900
@@ -410,7 +581,7 @@ DESCRIPTION:Ages: 10 and Older\\nCost: Free\\nDates: 4/6-6/12
 LOCATION:Hiawatha Community Center\, 2700 California Ave SW\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:85080-mon-45@hoopfinder
+UID:85080-mon-64@hoopfinder
 DTSTART;TZID=America/Los_Angeles:20260105T181500
 DTEND;TZID=America/Los_Angeles:20260105T204500
 RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20260330T235900
@@ -419,7 +590,7 @@ DESCRIPTION:Ages: 15 and Older\\nCost: Free\\nDates: 1/5-3/30
 LOCATION:Ballard Community Center\, 6020 - 28th Ave NW\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:85091-sun-46@hoopfinder
+UID:85091-sun-65@hoopfinder
 DTSTART;TZID=America/Los_Angeles:20260104T130000
 DTEND;TZID=America/Los_Angeles:20260104T144500
 RRULE:FREQ=WEEKLY;BYDAY=SU;UNTIL=20260329T235900
@@ -428,7 +599,7 @@ DESCRIPTION:Ages: 12-16\\nCost: Free\\nDates: 1/4-3/29
 LOCATION:Ballard Community Center\, 6020 - 28th Ave NW\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:87657-mon-47@hoopfinder
+UID:87657-mon-66@hoopfinder
 DTSTART;TZID=America/Los_Angeles:20260406T181500
 DTEND;TZID=America/Los_Angeles:20260406T204500
 RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20260615T235900
@@ -437,7 +608,34 @@ DESCRIPTION:Ages: 15 and Older\\nCost: Free\\nDates: 4/6-6/15
 LOCATION:Ballard Community Center\, 6020 - 28th Ave NW\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:88473-wed-48@hoopfinder
+UID:86417-wed-67@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260107T160000
+DTEND;TZID=America/Los_Angeles:20260107T180000
+RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20260325T235900
+SUMMARY:Basketball - Youth @ Montlake Community Center
+DESCRIPTION:Ages: 13 and Older\\nCost: Free\\nDates: 1/7-3/25
+LOCATION:Montlake Community Center\, 1618 E Calhoun St\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:85551-mon-68@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260105T143000
+DTEND;TZID=America/Los_Angeles:20260105T160000
+RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20260330T235900
+SUMMARY:Open Gym @ Montlake Community Center
+DESCRIPTION:Ages: All Ages\\nCost: Free\\nDates: 1/5-3/30
+LOCATION:Montlake Community Center\, 1618 E Calhoun St\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:85551-tue-69@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260106T143000
+DTEND;TZID=America/Los_Angeles:20260106T160000
+RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20260330T235900
+SUMMARY:Open Gym @ Montlake Community Center
+DESCRIPTION:Ages: All Ages\\nCost: Free\\nDates: 1/5-3/30
+LOCATION:Montlake Community Center\, 1618 E Calhoun St\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:88473-wed-70@hoopfinder
 DTSTART;TZID=America/Los_Angeles:20260401T133000
 DTEND;TZID=America/Los_Angeles:20260401T170000
 RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20260617T235900
@@ -446,7 +644,7 @@ DESCRIPTION:Ages: 13-17\\nCost: Free\\nDates: 4/1-6/17
 LOCATION:Montlake Community Center\, 1618 E Calhoun St\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:88473-fri-49@hoopfinder
+UID:88473-fri-71@hoopfinder
 DTSTART;TZID=America/Los_Angeles:20260403T143000
 DTEND;TZID=America/Los_Angeles:20260403T173000
 RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260617T235900
@@ -455,7 +653,34 @@ DESCRIPTION:Ages: 13-17\\nCost: Free\\nDates: 4/1-6/17
 LOCATION:Montlake Community Center\, 1618 E Calhoun St\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:84439-wed-50@hoopfinder
+UID:88314-sat-72@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260404T133000
+DTEND;TZID=America/Los_Angeles:20260404T150000
+RRULE:FREQ=WEEKLY;BYDAY=SA;UNTIL=20260620T235900
+SUMMARY:Family Open Gym @ Montlake Community Center
+DESCRIPTION:Ages: All Ages\\nCost: Free\\nDates: 4/4-6/20
+LOCATION:Montlake Community Center\, 1618 E Calhoun St\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:84433-sat-73@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260103T150000
+DTEND;TZID=America/Los_Angeles:20260103T170000
+RRULE:FREQ=WEEKLY;BYDAY=SA;UNTIL=20260328T235900
+SUMMARY:Open Gym - Family @ International District Community Center
+DESCRIPTION:Ages: All Ages\\nCost: Free\\nDates: 1/3-3/28
+LOCATION:International District Community Center\, 718 8th Ave S\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:84438-mon-74@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260105T140000
+DTEND;TZID=America/Los_Angeles:20260105T174500
+RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20260330T235900
+SUMMARY:Open Gym - Family @ International District Community Center
+DESCRIPTION:Ages: All Ages\\nCost: Free\\nDates: 1/5-3/30
+LOCATION:International District Community Center\, 718 8th Ave S\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:84439-wed-75@hoopfinder
 DTSTART;TZID=America/Los_Angeles:20260107T140000
 DTEND;TZID=America/Los_Angeles:20260107T174500
 RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20260327T235900
@@ -464,7 +689,7 @@ DESCRIPTION:Ages: 11-17\\nCost: Free\\nDates: 1/7-3/27
 LOCATION:International District Community Center\, 718 8th Ave S\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:84439-fri-51@hoopfinder
+UID:84439-fri-76@hoopfinder
 DTSTART;TZID=America/Los_Angeles:20260109T140000
 DTEND;TZID=America/Los_Angeles:20260109T174500
 RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260327T235900
@@ -473,7 +698,16 @@ DESCRIPTION:Ages: 11-17\\nCost: Free\\nDates: 1/7-3/27
 LOCATION:International District Community Center\, 718 8th Ave S\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:87784-mon-52@hoopfinder
+UID:87896-thu-77@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260402T150000
+DTEND;TZID=America/Los_Angeles:20260402T174500
+RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20260625T235900
+SUMMARY:Basketball - Open @ International District Community Center
+DESCRIPTION:Ages: 5 and Older\\nCost: Free\\nDates: 4/2-6/25
+LOCATION:International District Community Center\, 718 8th Ave S\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:87784-mon-78@hoopfinder
 DTSTART;TZID=America/Los_Angeles:20260406T154500
 DTEND;TZID=America/Los_Angeles:20260406T173000
 RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20260615T235900
@@ -482,7 +716,7 @@ DESCRIPTION:Ages: 11-18\\nCost: Free\\nDates: 4/6-6/15
 LOCATION:Green Lake Community Center\, 7201 E Green Lake Dr N\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:87784-tue-53@hoopfinder
+UID:87784-tue-79@hoopfinder
 DTSTART;TZID=America/Los_Angeles:20260407T154500
 DTEND;TZID=America/Los_Angeles:20260407T174500
 RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20260615T235900
@@ -491,7 +725,7 @@ DESCRIPTION:Ages: 11-18\\nCost: Free\\nDates: 4/6-6/15
 LOCATION:Green Lake Community Center\, 7201 E Green Lake Dr N\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:87784-wed-54@hoopfinder
+UID:87784-wed-80@hoopfinder
 DTSTART;TZID=America/Los_Angeles:20260408T143000
 DTEND;TZID=America/Los_Angeles:20260408T154500
 RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20260615T235900
@@ -500,7 +734,7 @@ DESCRIPTION:Ages: 11-18\\nCost: Free\\nDates: 4/6-6/15
 LOCATION:Green Lake Community Center\, 7201 E Green Lake Dr N\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:87784-wed-55@hoopfinder
+UID:87784-wed-81@hoopfinder
 DTSTART;TZID=America/Los_Angeles:20260408T170000
 DTEND;TZID=America/Los_Angeles:20260408T184500
 RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20260615T235900
@@ -509,7 +743,7 @@ DESCRIPTION:Ages: 11-18\\nCost: Free\\nDates: 4/6-6/15
 LOCATION:Green Lake Community Center\, 7201 E Green Lake Dr N\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:87782-fri-56@hoopfinder
+UID:87782-fri-82@hoopfinder
 DTSTART;TZID=America/Los_Angeles:20260403T180000
 DTEND;TZID=America/Los_Angeles:20260403T210000
 RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260612T235900
@@ -518,7 +752,124 @@ DESCRIPTION:Ages: 11-18\\nCost: Free\\nDates: 4/3-6/12
 LOCATION:Green Lake Community Center\, 7201 E Green Lake Dr N\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:88729-mon-57@hoopfinder
+UID:84747-mon-83@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260105T160000
+DTEND;TZID=America/Los_Angeles:20260105T181500
+RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20260129T235900
+SUMMARY:Drills and Skills @ Van Asselt Community Center
+DESCRIPTION:Ages: 10-17\\nCost: $63\\nDates: 1/5-1/29
+LOCATION:Van Asselt Community Center\, 2820 S Myrtle St\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:84747-tue-84@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260106T160000
+DTEND;TZID=America/Los_Angeles:20260106T181500
+RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20260129T235900
+SUMMARY:Drills and Skills @ Van Asselt Community Center
+DESCRIPTION:Ages: 10-17\\nCost: $63\\nDates: 1/5-1/29
+LOCATION:Van Asselt Community Center\, 2820 S Myrtle St\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:84747-wed-85@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260107T160000
+DTEND;TZID=America/Los_Angeles:20260107T181500
+RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20260129T235900
+SUMMARY:Drills and Skills @ Van Asselt Community Center
+DESCRIPTION:Ages: 10-17\\nCost: $63\\nDates: 1/5-1/29
+LOCATION:Van Asselt Community Center\, 2820 S Myrtle St\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:84747-thu-86@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260108T160000
+DTEND;TZID=America/Los_Angeles:20260108T181500
+RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20260129T235900
+SUMMARY:Drills and Skills @ Van Asselt Community Center
+DESCRIPTION:Ages: 10-17\\nCost: $63\\nDates: 1/5-1/29
+LOCATION:Van Asselt Community Center\, 2820 S Myrtle St\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:84748-mon-87@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260202T160000
+DTEND;TZID=America/Los_Angeles:20260202T181500
+RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20260226T235900
+SUMMARY:Drills and Skills @ Van Asselt Community Center
+DESCRIPTION:Ages: 10-17\\nCost: $63\\nDates: 2/2-2/26
+LOCATION:Van Asselt Community Center\, 2820 S Myrtle St\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:84748-tue-88@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260203T160000
+DTEND;TZID=America/Los_Angeles:20260203T181500
+RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20260226T235900
+SUMMARY:Drills and Skills @ Van Asselt Community Center
+DESCRIPTION:Ages: 10-17\\nCost: $63\\nDates: 2/2-2/26
+LOCATION:Van Asselt Community Center\, 2820 S Myrtle St\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:84748-wed-89@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260204T160000
+DTEND;TZID=America/Los_Angeles:20260204T181500
+RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20260226T235900
+SUMMARY:Drills and Skills @ Van Asselt Community Center
+DESCRIPTION:Ages: 10-17\\nCost: $63\\nDates: 2/2-2/26
+LOCATION:Van Asselt Community Center\, 2820 S Myrtle St\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:84748-thu-90@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260205T160000
+DTEND;TZID=America/Los_Angeles:20260205T181500
+RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20260226T235900
+SUMMARY:Drills and Skills @ Van Asselt Community Center
+DESCRIPTION:Ages: 10-17\\nCost: $63\\nDates: 2/2-2/26
+LOCATION:Van Asselt Community Center\, 2820 S Myrtle St\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:84749-mon-91@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260302T160000
+DTEND;TZID=America/Los_Angeles:20260302T181500
+RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20260331T235900
+SUMMARY:Drills and Skills @ Van Asselt Community Center
+DESCRIPTION:Ages: 10-17\\nCost: $63\\nDates: 3/2-3/31
+LOCATION:Van Asselt Community Center\, 2820 S Myrtle St\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:84749-tue-92@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260303T160000
+DTEND;TZID=America/Los_Angeles:20260303T181500
+RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20260331T235900
+SUMMARY:Drills and Skills @ Van Asselt Community Center
+DESCRIPTION:Ages: 10-17\\nCost: $63\\nDates: 3/2-3/31
+LOCATION:Van Asselt Community Center\, 2820 S Myrtle St\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:84749-wed-93@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260304T160000
+DTEND;TZID=America/Los_Angeles:20260304T181500
+RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20260331T235900
+SUMMARY:Drills and Skills @ Van Asselt Community Center
+DESCRIPTION:Ages: 10-17\\nCost: $63\\nDates: 3/2-3/31
+LOCATION:Van Asselt Community Center\, 2820 S Myrtle St\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:84749-thu-94@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260305T160000
+DTEND;TZID=America/Los_Angeles:20260305T181500
+RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20260331T235900
+SUMMARY:Drills and Skills @ Van Asselt Community Center
+DESCRIPTION:Ages: 10-17\\nCost: $63\\nDates: 3/2-3/31
+LOCATION:Van Asselt Community Center\, 2820 S Myrtle St\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:86162-fri-95@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260102T160000
+DTEND;TZID=America/Los_Angeles:20260102T170000
+RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260306T235900
+SUMMARY:Hoop It Up W/3 @ Van Asselt Community Center
+DESCRIPTION:Ages: 10-18\\nCost: Free\\nDates: 1/2-3/6
+LOCATION:Van Asselt Community Center\, 2820 S Myrtle St\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:88729-mon-96@hoopfinder
 DTSTART;TZID=America/Los_Angeles:20260406T144500
 DTEND;TZID=America/Los_Angeles:20260406T154500
 RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20260618T235900
@@ -527,7 +878,7 @@ DESCRIPTION:Ages: 11-17\\nCost: Free\\nDates: 4/1-6/18
 LOCATION:Van Asselt Community Center\, 2820 S Myrtle St\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:88729-tue-58@hoopfinder
+UID:88729-tue-97@hoopfinder
 DTSTART;TZID=America/Los_Angeles:20260407T144500
 DTEND;TZID=America/Los_Angeles:20260407T154500
 RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20260618T235900
@@ -536,7 +887,7 @@ DESCRIPTION:Ages: 11-17\\nCost: Free\\nDates: 4/1-6/18
 LOCATION:Van Asselt Community Center\, 2820 S Myrtle St\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:88729-wed-59@hoopfinder
+UID:88729-wed-98@hoopfinder
 DTSTART;TZID=America/Los_Angeles:20260401T144500
 DTEND;TZID=America/Los_Angeles:20260401T154500
 RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20260618T235900
@@ -545,12 +896,138 @@ DESCRIPTION:Ages: 11-17\\nCost: Free\\nDates: 4/1-6/18
 LOCATION:Van Asselt Community Center\, 2820 S Myrtle St\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:88729-thu-60@hoopfinder
+UID:88729-thu-99@hoopfinder
 DTSTART;TZID=America/Los_Angeles:20260402T144500
 DTEND;TZID=America/Los_Angeles:20260402T154500
 RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20260618T235900
 SUMMARY:Youth Basketball @ Van Asselt Community Center
 DESCRIPTION:Ages: 11-17\\nCost: Free\\nDates: 4/1-6/18
 LOCATION:Van Asselt Community Center\, 2820 S Myrtle St\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:SP-BB-tue-100@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260106T183000
+DTEND;TZID=America/Los_Angeles:20260106T203000
+RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20260331T235900
+SUMMARY:Adult Basketball @ South Park Community Center
+DESCRIPTION:Ages: 14 and Over\\nCost: Free\\nDates: 1/6-3/31
+LOCATION:South Park Community Center\, 8319  8th Ave S\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:SP-BB-thu-101@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260108T183000
+DTEND;TZID=America/Los_Angeles:20260108T203000
+RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20260331T235900
+SUMMARY:Adult Basketball @ South Park Community Center
+DESCRIPTION:Ages: 14 and Over\\nCost: Free\\nDates: 1/6-3/31
+LOCATION:South Park Community Center\, 8319  8th Ave S\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:84397-mon-102@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260105T140000
+DTEND;TZID=America/Los_Angeles:20260105T170000
+RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20260331T235900
+SUMMARY:Open Gym @ Bitter Lake Community Center
+DESCRIPTION:Ages: 5 and Older\\nCost: Free\\nDates: 1/2-3/31
+LOCATION:Bitter Lake Community Center\, 13035 Linden Ave N\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:84397-tue-103@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260106T140000
+DTEND;TZID=America/Los_Angeles:20260106T170000
+RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20260331T235900
+SUMMARY:Open Gym @ Bitter Lake Community Center
+DESCRIPTION:Ages: 5 and Older\\nCost: Free\\nDates: 1/2-3/31
+LOCATION:Bitter Lake Community Center\, 13035 Linden Ave N\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:84397-wed-104@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260107T140000
+DTEND;TZID=America/Los_Angeles:20260107T170000
+RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20260331T235900
+SUMMARY:Open Gym @ Bitter Lake Community Center
+DESCRIPTION:Ages: 5 and Older\\nCost: Free\\nDates: 1/2-3/31
+LOCATION:Bitter Lake Community Center\, 13035 Linden Ave N\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:84397-thu-105@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260108T140000
+DTEND;TZID=America/Los_Angeles:20260108T170000
+RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20260331T235900
+SUMMARY:Open Gym @ Bitter Lake Community Center
+DESCRIPTION:Ages: 5 and Older\\nCost: Free\\nDates: 1/2-3/31
+LOCATION:Bitter Lake Community Center\, 13035 Linden Ave N\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:84397-fri-106@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260102T140000
+DTEND;TZID=America/Los_Angeles:20260102T170000
+RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260331T235900
+SUMMARY:Open Gym @ Bitter Lake Community Center
+DESCRIPTION:Ages: 5 and Older\\nCost: Free\\nDates: 1/2-3/31
+LOCATION:Bitter Lake Community Center\, 13035 Linden Ave N\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:88478-mon-107@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260406T140000
+DTEND;TZID=America/Los_Angeles:20260406T170000
+RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20260620T235900
+SUMMARY:Open Gym @ Bitter Lake Community Center
+DESCRIPTION:Ages: 5 and Older\\nCost: Free\\nDates: 4/1-6/20
+LOCATION:Bitter Lake Community Center\, 13035 Linden Ave N\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:88478-tue-108@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260407T140000
+DTEND;TZID=America/Los_Angeles:20260407T170000
+RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20260620T235900
+SUMMARY:Open Gym @ Bitter Lake Community Center
+DESCRIPTION:Ages: 5 and Older\\nCost: Free\\nDates: 4/1-6/20
+LOCATION:Bitter Lake Community Center\, 13035 Linden Ave N\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:88478-wed-109@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260401T140000
+DTEND;TZID=America/Los_Angeles:20260401T170000
+RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20260620T235900
+SUMMARY:Open Gym @ Bitter Lake Community Center
+DESCRIPTION:Ages: 5 and Older\\nCost: Free\\nDates: 4/1-6/20
+LOCATION:Bitter Lake Community Center\, 13035 Linden Ave N\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:88478-thu-110@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260402T140000
+DTEND;TZID=America/Los_Angeles:20260402T170000
+RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20260620T235900
+SUMMARY:Open Gym @ Bitter Lake Community Center
+DESCRIPTION:Ages: 5 and Older\\nCost: Free\\nDates: 4/1-6/20
+LOCATION:Bitter Lake Community Center\, 13035 Linden Ave N\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:88478-fri-111@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260403T140000
+DTEND;TZID=America/Los_Angeles:20260403T170000
+RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260620T235900
+SUMMARY:Open Gym @ Bitter Lake Community Center
+DESCRIPTION:Ages: 5 and Older\\nCost: Free\\nDates: 4/1-6/20
+LOCATION:Bitter Lake Community Center\, 13035 Linden Ave N\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:88478-sat-112@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260404T140000
+DTEND;TZID=America/Los_Angeles:20260404T170000
+RRULE:FREQ=WEEKLY;BYDAY=SA;UNTIL=20260620T235900
+SUMMARY:Open Gym @ Bitter Lake Community Center
+DESCRIPTION:Ages: 5 and Older\\nCost: Free\\nDates: 4/1-6/20
+LOCATION:Bitter Lake Community Center\, 13035 Linden Ave N\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:88341-sun-113@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260405T124500
+DTEND;TZID=America/Los_Angeles:20260405T144500
+RRULE:FREQ=WEEKLY;BYDAY=SU;UNTIL=20260621T235900
+SUMMARY:Open Gym @ Bitter Lake Community Center
+DESCRIPTION:Ages: 5 and Older\\nCost: Free\\nDates: 4/5-6/21
+LOCATION:Bitter Lake Community Center\, 13035 Linden Ave N\, Seattle\, WA
 END:VEVENT
 END:VCALENDAR

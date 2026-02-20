@@ -253,26 +253,32 @@
 
   // ---- Filtering (shared) ----
 
-  function classifyAge(agesStr) {
-    if (!agesStr) return 'all';
+  function classifyAgeGroups(agesStr) {
+    if (!agesStr) return ['adult', 'teen', 'youth', 'all'];
     const s = agesStr.toLowerCase();
-    if (s.includes('18 and older') || s.includes('18+')) return 'adult';
-    if (s.includes('all ages')) return 'all';
+    if (s.includes('all ages')) return ['adult', 'teen', 'youth', 'all'];
+    if (s.includes('18 and older') || s.includes('18+')) return ['adult'];
+    // "X and older" — open to everyone aged X+
+    if (s.match(/\d+\s+and\s+older/)) {
+      const m = s.match(/(\d+)\s+and\s+older/);
+      const age = parseInt(m[1]);
+      if (age <= 10) return ['adult', 'teen', 'youth', 'all'];
+      if (age <= 17) return ['teen', 'adult'];
+      return ['adult'];
+    }
     const match = s.match(/(\d+)\s*[-–]\s*(\d+)/);
     if (match) {
       const low = parseInt(match[1]);
       const high = parseInt(match[2]);
-      if (low >= 11 && high <= 19) return 'teen';
-      if (high <= 12) return 'youth';
+      if (low >= 11 && high <= 19) return ['teen'];
+      if (high <= 12) return ['youth'];
     }
-    if (s.includes('10 and older') || s.includes('12 and older') || s.includes('15 and older')) return 'teen';
-    if (s.includes('5 and older')) return 'all';
-    if (s.match(/\b[5-9]\b/) || s.includes('little') || s.includes('mini')) return 'youth';
-    return 'all';
+    if (s.includes('5 and under') || s.match(/\b[5-9]\b/) || s.includes('little') || s.includes('mini')) return ['youth'];
+    return ['adult', 'teen', 'youth', 'all'];
   }
 
   function eventMatchesAgeFilter(evt, activeAges) {
-    return activeAges.has(classifyAge(evt.ages));
+    return classifyAgeGroups(evt.ages).some(g => activeAges.has(g));
   }
 
   function classifyGender(program) {
