@@ -634,14 +634,14 @@
       }
     });
 
-    // Export buttons
+    // Export modal
+    document.getElementById('export-cal').addEventListener('click', showExportModal);
     document.getElementById('export-ics').addEventListener('click', downloadICS);
-    document.getElementById('subscribe-ics').addEventListener('click', showSubscribeModal);
     document.getElementById('close-modal').addEventListener('click', () => {
-      document.getElementById('subscribe-modal').classList.add('hidden');
+      document.getElementById('export-modal').classList.add('hidden');
     });
-    document.getElementById('subscribe-modal').addEventListener('click', (e) => {
-      if (e.target.id === 'subscribe-modal') e.target.classList.add('hidden');
+    document.getElementById('export-modal').addEventListener('click', (e) => {
+      if (e.target.id === 'export-modal') e.target.classList.add('hidden');
     });
     document.getElementById('copy-url').addEventListener('click', () => {
       const input = document.getElementById('subscribe-url');
@@ -654,63 +654,13 @@
     });
   }
 
-  // ---- Subscribe Modal ----
+  // ---- Export Modal ----
 
-  // Map current filter state to the closest pre-built .ics filename
-  function getSubscribeSlug() {
-    const age = filters.age;
-    const gender = filters.gender;
-    const cost = filters.cost;
-
-    // Check for specific common combos
-    const hasAllAges = age.has('adult') && age.has('teen') && age.has('youth') && age.has('all');
-    const hasAllGenders = gender.has('open') && gender.has('womens') && gender.has('mens');
-    const hasAllCosts = cost.has('free') && cost.has('paid');
-
-    // Gendered filters
-    if (gender.size === 1 && gender.has('womens')) return 'womens';
-    if (gender.size === 1 && gender.has('mens')) return 'mens';
-
-    // Age-only filters
-    if (!hasAllAges && age.size === 1 && hasAllGenders && hasAllCosts) {
-      if (age.has('adult')) return 'adult';
-      if (age.has('teen')) return 'teen';
-      if (age.has('youth')) return 'youth';
-    }
-
-    // Adult + free (common combo)
-    if (age.size === 1 && age.has('adult') && cost.size === 1 && cost.has('free') && hasAllGenders) {
-      return 'adult-free';
-    }
-
-    // Free only
-    if (hasAllAges && hasAllGenders && cost.size === 1 && cost.has('free')) return 'free';
-
-    return 'all';
-  }
-
-  function getSubscribeLabel(slug) {
-    const labels = {
-      'all': 'All events',
-      'adult': 'Adult (18+) events',
-      'adult-free': 'Adult free events',
-      'teen': 'Teen events',
-      'youth': 'Youth events',
-      'free': 'All free events',
-      'womens': "Women's events",
-      'mens': "Men's events",
-    };
-    return labels[slug] || 'All events';
-  }
-
-  function showSubscribeModal() {
-    const slug = getSubscribeSlug();
-    const baseUrl = getBaseUrl();
-    const url = `${baseUrl}cal/${slug}.ics`;
-
-    document.getElementById('subscribe-label').textContent = getSubscribeLabel(slug);
+  function showExportModal() {
+    const url = `${getBaseUrl()}cal/all.ics`;
     document.getElementById('subscribe-url').value = url;
-    document.getElementById('subscribe-modal').classList.remove('hidden');
+    document.getElementById('copy-url').textContent = 'Copy';
+    document.getElementById('export-modal').classList.remove('hidden');
   }
 
   function getBaseUrl() {

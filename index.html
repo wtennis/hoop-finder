@@ -74,8 +74,7 @@
     <div class="schedule-header">
       <div class="schedule-day-tabs" id="day-tabs"></div>
       <div class="schedule-actions">
-        <button id="export-ics" title="Download filtered .ics file">Download .ics</button>
-        <button id="subscribe-ics" title="Get subscribe URL for calendar app">Subscribe</button>
+        <button id="export-cal" title="Export to calendar app">Export Calendar</button>
       </div>
     </div>
     <div id="schedule-list"></div>
@@ -83,25 +82,35 @@
 
   <div id="map"></div>
 
-  <div id="subscribe-modal" class="modal hidden">
+  <div id="export-modal" class="modal hidden">
     <div class="modal-content">
-      <h3>Subscribe to Calendar</h3>
-      <p class="modal-desc">Add this URL to your calendar app to auto-sync events. Updates when the schedule changes.</p>
-      <div class="modal-url-group">
-        <label class="modal-label" id="subscribe-label"></label>
+      <h3>Export Calendar</h3>
+
+      <div class="modal-section">
+        <h4 class="modal-section-title">Download filtered calendar</h4>
+        <p class="modal-desc">Export your currently filtered events as a one-time .ics file.</p>
+        <button id="export-ics" class="modal-download-btn">Download .ics</button>
+      </div>
+
+      <hr class="modal-divider">
+
+      <div class="modal-section">
+        <h4 class="modal-section-title">Subscribe to all events</h4>
+        <p class="modal-desc">Add this URL to your calendar app to stay in sync with all Seattle basketball events.</p>
         <div class="modal-url-row">
           <input type="text" id="subscribe-url" readonly>
           <button id="copy-url">Copy</button>
         </div>
+        <details class="modal-help">
+          <summary>How to subscribe</summary>
+          <div class="modal-help-body">
+            <p><strong>Google Calendar:</strong> Settings → Add calendar → From URL → paste the link.</p>
+            <p><strong>Apple Calendar:</strong> File → New Calendar Subscription → paste the link.</p>
+            <p><strong>Outlook:</strong> Add calendar → Subscribe from web → paste the link.</p>
+          </div>
+        </details>
       </div>
-      <details class="modal-help">
-        <summary>How to subscribe</summary>
-        <div class="modal-help-body">
-          <p><strong>Google Calendar:</strong> Settings → Add calendar → From URL → paste the link</p>
-          <p><strong>Apple Calendar:</strong> File → New Calendar Subscription → paste the link</p>
-          <p><strong>Outlook:</strong> Add calendar → Subscribe from web → paste the link</p>
-        </div>
-      </details>
+
       <button id="close-modal" class="modal-close">Done</button>
     </div>
   </div>

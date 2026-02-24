@@ -242,8 +242,7 @@ html, body {
 
 .day-tab.active .tab-count { color: #888; }
 
-#export-ics,
-#subscribe-ics {
+#export-cal {
   background: #f0f0f0;
   color: #333;
   border: 1px solid #ddd;
@@ -255,11 +254,7 @@ html, body {
   white-space: nowrap;
 }
 
-#export-ics:hover,
-#subscribe-ics:hover { background: #e5e5e5; }
-
-#subscribe-ics { background: #eff6ff; color: #1d4ed8; border-color: #bfdbfe; }
-#subscribe-ics:hover { background: #dbeafe; }
+#export-cal:hover { background: #e5e5e5; }
 
 /* ---- Modal ---- */
 
@@ -294,22 +289,38 @@ html, body {
 .modal-desc {
   font-size: 13px;
   color: #666;
-  margin-bottom: 16px;
+  margin-bottom: 12px;
   line-height: 1.5;
 }
 
-.modal-url-group {
-  margin-bottom: 16px;
+.modal-section {
+  margin-bottom: 4px;
 }
 
-.modal-label {
-  font-size: 12px;
+.modal-section-title {
+  font-size: 14px;
+  font-weight: 700;
+  margin-bottom: 4px;
+}
+
+.modal-download-btn {
+  width: 100%;
+  padding: 10px;
+  font-size: 14px;
   font-weight: 600;
-  color: #888;
-  text-transform: uppercase;
-  letter-spacing: 0.5px;
-  display: block;
-  margin-bottom: 6px;
+  background: #1a1a1a;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.modal-download-btn:hover { background: #333; }
+
+.modal-divider {
+  border: none;
+  border-top: 1px solid #eee;
+  margin: 16px 0;
 }
 
 .modal-url-row {
