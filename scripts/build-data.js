@@ -324,38 +324,6 @@ function flattenEvents(locations) {
   return result;
 }
 
-function classifyAgeGroups(agesStr) {
-  if (!agesStr) return ['adult', 'teen', 'youth', 'all'];
-  const s = agesStr.toLowerCase();
-  if (s.includes('all ages')) return ['adult', 'teen', 'youth', 'all'];
-  if (s.includes('18 and older') || s.includes('18+')) return ['adult'];
-  // "X and older" — open to everyone aged X+
-  if (s.match(/\d+\s+and\s+older/)) {
-    const m = s.match(/(\d+)\s+and\s+older/);
-    const age = parseInt(m[1]);
-    if (age <= 10) return ['adult', 'teen', 'youth', 'all'];
-    if (age <= 17) return ['teen', 'adult'];
-    return ['adult'];
-  }
-  const match = s.match(/(\d+)\s*[-–]\s*(\d+)/);
-  if (match) {
-    const low = parseInt(match[1]);
-    const high = parseInt(match[2]);
-    if (low >= 11 && high <= 19) return ['teen'];
-    if (high <= 12) return ['youth'];
-  }
-  if (s.includes('5 and under') || s.match(/\b[5-9]\b/) || s.includes('little') || s.includes('mini')) return ['youth'];
-  return ['adult', 'teen', 'youth', 'all'];
-}
-
-function classifyGender(program) {
-  if (!program) return 'open';
-  const s = program.toLowerCase();
-  if (s.includes("women's") || s.includes('women')) return 'womens';
-  if (s.includes("men's") || /\bmen\b/.test(s)) return 'mens';
-  return 'open';
-}
-
 function isFreeEvent(cost) {
   return !cost || cost === 'FREE' || cost === '$0' || cost === 0;
 }
@@ -479,14 +447,7 @@ function generateCalendarFiles(locations) {
   console.log(`\nCalendar generation: ${allEvents.length} flattened events`);
 
   const presets = [
-    { slug: 'all',        label: 'HoopFinder — All Events',      filter: () => true },
-    { slug: 'adult',      label: 'HoopFinder — Adult (18+)',      filter: e => classifyAgeGroups(e.ages).includes('adult') },
-    { slug: 'adult-free', label: 'HoopFinder — Adult Free',       filter: e => classifyAgeGroups(e.ages).includes('adult') && isFreeEvent(e.cost) },
-    { slug: 'teen',       label: 'HoopFinder — Teen',             filter: e => classifyAgeGroups(e.ages).includes('teen') },
-    { slug: 'youth',      label: 'HoopFinder — Youth',            filter: e => classifyAgeGroups(e.ages).includes('youth') },
-    { slug: 'free',       label: 'HoopFinder — All Free Events',  filter: e => isFreeEvent(e.cost) },
-    { slug: 'womens',     label: "HoopFinder — Women's",          filter: e => classifyGender(e.program) === 'womens' },
-    { slug: 'mens',       label: "HoopFinder — Men's",            filter: e => classifyGender(e.program) === 'mens' },
+    { slug: 'all', label: 'HoopFinder — All Events', filter: () => true },
   ];
 
   for (const preset of presets) {
