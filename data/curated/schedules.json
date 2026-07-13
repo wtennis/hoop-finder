@@ -10,6 +10,12 @@
       "source": "Seattle Parks & Recreation Spring 2026 Brochure",
       "registration_opens": "2026-03-03",
       "extracted_date": "2026-02-20"
+    },
+    {
+      "name": "Summer 2026",
+      "source": "Seattle Parks & Recreation Summer 2026 Brochure",
+      "registration_opens": "2026-05-19",
+      "extracted_date": "2026-07-13"
     }
   ],
   "events": [
@@ -1855,6 +1861,645 @@
       "cost": "$100",
       "sessions": [
         { "day": "Monday", "time": "5:15-7:15pm" }
+      ]
+    },
+    {
+      "season": "Summer 2026",
+      "center": "Delridge Community Center",
+      "address": "4501 Delridge Way SW, Seattle, WA 98106",
+      "phone": "206-684-7423",
+      "zone": 1,
+      "center_hours": "Mon-Fri 7:30am-7pm, Sat 9:30am-6pm",
+      "type": "drop-in",
+      "program": "Open Gym (Basketball)",
+      "ages": "10 and Older",
+      "code": "89378",
+      "date_range": "6/22-8/15",
+      "cost": "FREE",
+      "sessions": [
+        { "day": "M/W", "time": "11:30am-1:45pm" },
+        { "day": "Saturday", "time": "3-5:30pm" }
+      ],
+      "notes": "Gym closes at 12:45pm on Mon/Wed during weeks of 7/13-7/24"
+    },
+    {
+      "season": "Summer 2026",
+      "center": "Hiawatha Community Center",
+      "address": "2700 California Ave SW, Seattle, WA 98116",
+      "phone": "206-684-7441",
+      "zone": 1,
+      "center_hours": "Mon-Fri 9am-6pm",
+      "type": "drop-in",
+      "program": "Youth Basketball",
+      "ages": "18 and Under",
+      "code": "93054",
+      "date_range": "6/22-8/28",
+      "cost": "FREE",
+      "sessions": [
+        { "day": "M/Tu/Th/F", "time": "4:30-6pm" }
+      ]
+    },
+    {
+      "season": "Summer 2026",
+      "center": "High Point Community Center",
+      "address": "6920 34th Ave SW, Seattle, WA 98126",
+      "phone": "206-684-7422",
+      "zone": 1,
+      "center_hours": "Mon-Thu 9am-8pm, Fri 9am-7pm, Sat 9am-5pm, Sun Noon-8pm",
+      "type": "drop-in",
+      "program": "Youth Open Gym",
+      "ages": "10-18",
+      "code": "91440",
+      "date_range": "6/22-9/6",
+      "cost": "FREE",
+      "sessions": [
+        { "day": "M/Tu/Th", "time": "4:30-8pm" },
+        { "day": "Wednesday", "time": "5:30-6:15pm" },
+        { "day": "Friday", "time": "4:30-7pm" },
+        { "day": "Saturday", "time": "1-5pm" },
+        { "day": "Sunday", "time": "Noon-8pm" }
+      ]
+    },
+    {
+      "season": "Summer 2026",
+      "center": "Jefferson Community Center",
+      "address": "3801 Beacon Ave S, Seattle, WA 98108",
+      "phone": "206-684-7481",
+      "zone": 1,
+      "center_hours": "Mon-Wed 7am-9pm, Thu-Fri 7am-8pm",
+      "type": "drop-in",
+      "program": "Basketball",
+      "ages": "16 and Older",
+      "code": "91491",
+      "date_range": "6/22-8/31",
+      "cost": "FREE",
+      "sessions": [
+        { "day": "Monday", "time": "6-8:30pm" }
+      ]
+    },
+    {
+      "season": "Summer 2026",
+      "center": "Rainier Beach Community Center",
+      "address": "8825 Rainier Ave S, Seattle, WA 98118",
+      "phone": "206-386-1925",
+      "zone": 1,
+      "center_hours": "M/W 7:30am-8:30pm, Tu/Th 7:30am-7:30pm, Fri 7:30am-7pm, Sat 8:30am-7pm, Sun 9am-6pm",
+      "type": "program",
+      "program": "Junior Hoopers",
+      "ages": "6-7",
+      "code": "90746",
+      "date_range": "6/22-7/27",
+      "cost": "$50",
+      "sessions": [
+        { "day": "Monday", "time": "5:30-6:30pm" }
+      ]
+    },
+    {
+      "season": "Summer 2026",
+      "center": "Rainier Beach Community Center",
+      "address": "8825 Rainier Ave S, Seattle, WA 98118",
+      "phone": "206-386-1925",
+      "zone": 1,
+      "center_hours": "M/W 7:30am-8:30pm, Tu/Th 7:30am-7:30pm, Fri 7:30am-7pm, Sat 8:30am-7pm, Sun 9am-6pm",
+      "type": "program",
+      "program": "Junior Hoopers",
+      "ages": "6-7",
+      "code": "90747",
+      "date_range": "8/3-8/31",
+      "cost": "$40",
+      "sessions": [
+        { "day": "Monday", "time": "5:30-6:30pm" }
+      ]
+    },
+    {
+      "season": "Summer 2026",
+      "center": "Rainier Beach Community Center",
+      "address": "8825 Rainier Ave S, Seattle, WA 98118",
+      "phone": "206-386-1925",
+      "zone": 1,
+      "center_hours": "M/W 7:30am-8:30pm, Tu/Th 7:30am-7:30pm, Fri 7:30am-7pm, Sat 8:30am-7pm, Sun 9am-6pm",
+      "type": "program",
+      "program": "Little Hoopers",
+      "ages": "3-5",
+      "code": "90749",
+      "date_range": "6/22-7/27",
+      "cost": "$50",
+      "sessions": [
+        { "day": "Monday", "time": "4:30-5:15pm" }
+      ]
+    },
+    {
+      "season": "Summer 2026",
+      "center": "Rainier Beach Community Center",
+      "address": "8825 Rainier Ave S, Seattle, WA 98118",
+      "phone": "206-386-1925",
+      "zone": 1,
+      "center_hours": "M/W 7:30am-8:30pm, Tu/Th 7:30am-7:30pm, Fri 7:30am-7pm, Sat 8:30am-7pm, Sun 9am-6pm",
+      "type": "program",
+      "program": "Little Hoopers",
+      "ages": "3-5",
+      "code": "90748",
+      "date_range": "8/3-8/31",
+      "cost": "$40",
+      "sessions": [
+        { "day": "Monday", "time": "4:30-5:15pm" }
+      ]
+    },
+    {
+      "season": "Summer 2026",
+      "center": "South Park Community Center",
+      "address": "8319 8th Ave S, Seattle, WA 98108",
+      "phone": "206-684-7451",
+      "zone": 1,
+      "center_hours": "Mon-Thu 7:30am-7:30pm, Fri 7:30am-7pm, Sat 10:30am-7pm",
+      "type": "drop-in",
+      "program": "Adult Basketball",
+      "ages": "18 and Older",
+      "code": "90636",
+      "date_range": "6/23-8/27",
+      "cost": "FREE",
+      "sessions": [
+        { "day": "Tu/Th", "time": "4:45-6:45pm" }
+      ]
+    },
+    {
+      "season": "Summer 2026",
+      "center": "Van Asselt Community Center",
+      "address": "2820 S Myrtle St, Seattle, WA 98108",
+      "phone": "206-386-1921",
+      "zone": 1,
+      "center_hours": "Mon-Thu 9am-7pm, Fri 10am-7pm",
+      "type": "drop-in",
+      "program": "B-Ball and Talk",
+      "ages": "10-17",
+      "code": "90614",
+      "date_range": "6/23-8/4",
+      "cost": "FREE",
+      "sessions": [
+        { "day": "Mon-Thu", "time": "5:30-7pm" }
+      ]
+    },
+    {
+      "season": "Summer 2026",
+      "center": "Van Asselt Community Center",
+      "address": "2820 S Myrtle St, Seattle, WA 98108",
+      "phone": "206-386-1921",
+      "zone": 1,
+      "center_hours": "Mon-Thu 9am-7pm, Fri 10am-7pm",
+      "type": "drop-in",
+      "program": "Basketball",
+      "ages": "18 and Older",
+      "code": "91920",
+      "date_range": "7/7-8/25",
+      "cost": "FREE",
+      "sessions": [
+        { "day": "Tuesday", "time": "6-8pm" }
+      ]
+    },
+    {
+      "season": "Summer 2026",
+      "center": "Van Asselt Community Center",
+      "address": "2820 S Myrtle St, Seattle, WA 98108",
+      "phone": "206-386-1921",
+      "zone": 1,
+      "center_hours": "Mon-Thu 9am-7pm, Fri 10am-7pm",
+      "type": "drop-in",
+      "program": "Basketball",
+      "ages": "18 and Older",
+      "code": "91922",
+      "date_range": "7/9-8/27",
+      "cost": "FREE",
+      "sessions": [
+        { "day": "Thursday", "time": "6-8pm" }
+      ]
+    },
+    {
+      "season": "Summer 2026",
+      "center": "International District/Chinatown Community Center",
+      "address": "719 8th Ave S, Seattle, WA 98104",
+      "phone": "206-233-0042",
+      "zone": 2,
+      "center_hours": "M/W/F 11am-9pm, Tu/Th 9:30am-6pm, Sat 9am-5pm",
+      "type": "drop-in",
+      "program": "Basketball (Adult)",
+      "ages": "18 and Older",
+      "code": "89873",
+      "date_range": "7/1-8/28",
+      "cost": "FREE",
+      "sessions": [
+        { "day": "M/W/F", "time": "11am-1:30pm" }
+      ]
+    },
+    {
+      "season": "Summer 2026",
+      "center": "International District/Chinatown Community Center",
+      "address": "719 8th Ave S, Seattle, WA 98104",
+      "phone": "206-233-0042",
+      "zone": 2,
+      "center_hours": "M/W/F 11am-9pm, Tu/Th 9:30am-6pm, Sat 9am-5pm",
+      "type": "drop-in",
+      "program": "Basketball (Open)",
+      "ages": "5 and Older",
+      "code": "90870",
+      "date_range": "7/2-8/27",
+      "cost": "FREE",
+      "sessions": [
+        { "day": "Thursday", "time": "3-5:45pm" }
+      ]
+    },
+    {
+      "season": "Summer 2026",
+      "center": "Magnolia Community Center",
+      "address": "2530 34th Ave W, Seattle, WA 98199",
+      "phone": "206-386-4235",
+      "zone": 2,
+      "center_hours": "Mon-Wed 9am-8pm, Thu/Fri 9am-9pm, Sat 9am-5pm",
+      "type": "program",
+      "program": "Basketball Skills and Drills",
+      "ages": "10-13",
+      "code": "91914",
+      "date_range": "7/14-7/25",
+      "cost": "TBD",
+      "sessions": [
+        { "day": "Tuesday", "time": "5:45-6:45pm" }
+      ]
+    },
+    {
+      "season": "Summer 2026",
+      "center": "Magnolia Community Center",
+      "address": "2530 34th Ave W, Seattle, WA 98199",
+      "phone": "206-386-4235",
+      "zone": 2,
+      "center_hours": "Mon-Wed 9am-8pm, Thu/Fri 9am-9pm, Sat 9am-5pm",
+      "type": "program",
+      "program": "Little Hoopers",
+      "ages": "6-9",
+      "code": "93063",
+      "date_range": "8/4-8/25",
+      "cost": "$60",
+      "sessions": [
+        { "day": "Tuesday", "time": "4:45-5:45pm" }
+      ]
+    },
+    {
+      "season": "Summer 2026",
+      "center": "Magnolia Community Center",
+      "address": "2530 34th Ave W, Seattle, WA 98199",
+      "phone": "206-386-4235",
+      "zone": 2,
+      "center_hours": "Mon-Wed 9am-8pm, Thu/Fri 9am-9pm, Sat 9am-5pm",
+      "type": "drop-in",
+      "program": "Basketball (Men's)",
+      "ages": "18 and Older",
+      "code": "91920",
+      "date_range": "7/7-8/25",
+      "cost": "FREE",
+      "sessions": [
+        { "day": "Tuesday", "time": "6:45-8pm" }
+      ],
+      "notes": "Brochure lists code 91920 for both Magnolia and Van Asselt basketball; call center to confirm"
+    },
+    {
+      "season": "Summer 2026",
+      "center": "Magnolia Community Center",
+      "address": "2530 34th Ave W, Seattle, WA 98199",
+      "phone": "206-386-4235",
+      "zone": 2,
+      "center_hours": "Mon-Wed 9am-8pm, Thu/Fri 9am-9pm, Sat 9am-5pm",
+      "type": "drop-in",
+      "program": "Basketball (Women's)",
+      "ages": "18 and Older",
+      "code": "91922",
+      "date_range": "7/2-8/27",
+      "cost": "FREE",
+      "sessions": [
+        { "day": "Thursday", "time": "6-8pm" }
+      ],
+      "notes": "Brochure lists code 91922 for both Magnolia and Van Asselt basketball; call center to confirm"
+    },
+    {
+      "season": "Summer 2026",
+      "center": "Miller Community Center",
+      "address": "330 19th Ave E, Seattle, WA 98112",
+      "phone": "206-684-4753",
+      "zone": 2,
+      "center_hours": "Mon-Thu 10am-8:30pm, Fri 10am-8pm",
+      "type": "drop-in",
+      "program": "Basketball (Adult)",
+      "ages": "18 and Older",
+      "code": "91356",
+      "date_range": "6/24-9/4",
+      "cost": "FREE",
+      "sessions": [
+        { "day": "Wednesday", "time": "6-8:30pm" }
+      ],
+      "notes": "Brochure lists code 91356 for both this and Adult Roller Skating; call center to confirm"
+    },
+    {
+      "season": "Summer 2026",
+      "center": "Miller Community Center",
+      "address": "330 19th Ave E, Seattle, WA 98112",
+      "phone": "206-684-4753",
+      "zone": 2,
+      "center_hours": "Mon-Thu 10am-8:30pm, Fri 10am-8pm",
+      "type": "drop-in",
+      "program": "Basketball (Adult)",
+      "ages": "18 and Older",
+      "code": "90901",
+      "date_range": "6/24-9/4",
+      "cost": "FREE",
+      "sessions": [
+        { "day": "Friday", "time": "6-8pm" }
+      ]
+    },
+    {
+      "season": "Summer 2026",
+      "center": "Montlake Community Center",
+      "address": "1618 E Calhoun St, Seattle, WA 98112",
+      "phone": "206-684-4736",
+      "zone": 2,
+      "center_hours": "Mon 8am-5pm, Tue-Fri 8:45am-5pm",
+      "type": "drop-in",
+      "program": "Basketball (Adult)",
+      "ages": "18 and Older",
+      "code": "91549",
+      "date_range": "6/29-8/31",
+      "cost": "FREE",
+      "sessions": [
+        { "day": "Monday", "time": "12:30-2:30pm" }
+      ]
+    },
+    {
+      "season": "Summer 2026",
+      "center": "Montlake Community Center",
+      "address": "1618 E Calhoun St, Seattle, WA 98112",
+      "phone": "206-684-4736",
+      "zone": 2,
+      "center_hours": "Mon 8am-5pm, Tue-Fri 8:45am-5pm",
+      "type": "drop-in",
+      "program": "Basketball (Adult)",
+      "ages": "18 and Older",
+      "code": "91551",
+      "date_range": "6/30-8/25",
+      "cost": "FREE",
+      "sessions": [
+        { "day": "Tuesday", "time": "2:30-4:30pm" }
+      ]
+    },
+    {
+      "season": "Summer 2026",
+      "center": "Montlake Community Center",
+      "address": "1618 E Calhoun St, Seattle, WA 98112",
+      "phone": "206-684-4736",
+      "zone": 2,
+      "center_hours": "Mon 8am-5pm, Tue-Fri 8:45am-5pm",
+      "type": "drop-in",
+      "program": "Basketball (Adult)",
+      "ages": "18 and Older",
+      "code": "91552",
+      "date_range": "7/2-8/27",
+      "cost": "FREE",
+      "sessions": [
+        { "day": "Thursday", "time": "12:30-2:30pm" }
+      ]
+    },
+    {
+      "season": "Summer 2026",
+      "center": "Montlake Community Center",
+      "address": "1618 E Calhoun St, Seattle, WA 98112",
+      "phone": "206-684-4736",
+      "zone": 2,
+      "center_hours": "Mon 8am-5pm, Tue-Fri 8:45am-5pm",
+      "type": "drop-in",
+      "program": "Basketball (Youth)",
+      "ages": "13-17",
+      "code": "91554",
+      "date_range": "7/10-8/28",
+      "cost": "FREE",
+      "sessions": [
+        { "day": "Friday", "time": "2:30-4:30pm" }
+      ]
+    },
+    {
+      "season": "Summer 2026",
+      "center": "Northgate Community Center",
+      "address": "10510 5th Ave NE, Seattle, WA 98125",
+      "phone": "206-386-4283",
+      "zone": 2,
+      "center_hours": "Mon-Fri 9am-8pm",
+      "type": "drop-in",
+      "program": "Basketball",
+      "ages": "14 and Older",
+      "code": "90710",
+      "date_range": "6/25-9/3",
+      "cost": "FREE",
+      "sessions": [
+        { "day": "Thursday", "time": "5:30-7:45pm" }
+      ]
+    },
+    {
+      "season": "Summer 2026",
+      "center": "Queen Anne Community Center",
+      "address": "1901 1st Ave W, Seattle, WA 98119",
+      "phone": "206-386-4240",
+      "zone": 2,
+      "center_hours": "Mon-Thu 8am-7pm, Fri 8am-6pm, Sat 8am-5pm",
+      "type": "drop-in",
+      "program": "Basketball",
+      "ages": "All Ages",
+      "code": "93067",
+      "date_range": "6/27-9/5",
+      "cost": "FREE",
+      "sessions": [
+        { "day": "Saturday", "time": "11am-2pm" }
+      ]
+    },
+    {
+      "season": "Summer 2026",
+      "center": "Yesler Community Center",
+      "address": "917 E Yesler Way, Seattle, WA 98122",
+      "phone": "206-386-1245",
+      "zone": 2,
+      "center_hours": "Mon-Fri 7:15am-6:45pm, Sat 8:30am-5pm",
+      "type": "drop-in",
+      "program": "Adult Basketball",
+      "ages": "18 and Older",
+      "code": "89819",
+      "date_range": "6/27-9/5",
+      "cost": "FREE",
+      "sessions": [
+        { "day": "Saturday", "time": "8:30-10:55am" }
+      ]
+    },
+    {
+      "season": "Summer 2026",
+      "center": "Yesler Community Center",
+      "address": "917 E Yesler Way, Seattle, WA 98122",
+      "phone": "206-386-1245",
+      "zone": 2,
+      "center_hours": "Mon-Fri 7:15am-6:45pm, Sat 8:30am-5pm",
+      "type": "program",
+      "program": "Drills and Skills Basketball Camp",
+      "ages": "10-18",
+      "code": "89716",
+      "date_range": "7/6-8/28",
+      "cost": "$369",
+      "sessions": [
+        { "day": "Mon-Fri", "time": "9am-3pm" }
+      ]
+    },
+    {
+      "season": "Summer 2026",
+      "center": "Ballard Community Center",
+      "address": "6020 28th Ave NW, Seattle, WA 98107",
+      "phone": "206-684-4093",
+      "zone": 3,
+      "center_hours": "Mon-Fri 8:30am-8pm, Sat 8:30am-3:30pm, Sun 8:30am-12:30pm",
+      "type": "drop-in",
+      "program": "Basketball",
+      "ages": "16 and Older",
+      "code": "91038",
+      "date_range": "6/22-8/24",
+      "cost": "FREE",
+      "sessions": [
+        { "day": "Monday", "time": "5:15-7:45pm" }
+      ]
+    },
+    {
+      "season": "Summer 2026",
+      "center": "Bitter Lake Community Center",
+      "address": "13035 Linden Ave N, Seattle, WA 98133",
+      "phone": "206-684-7524",
+      "zone": 3,
+      "center_hours": "Mon-Thu 8am-9pm, F/Sa 8am-7pm, Sun 10am-5pm",
+      "type": "drop-in",
+      "program": "Open Gym",
+      "ages": "5 and Older",
+      "code": "91482",
+      "date_range": "6/28-8/16",
+      "cost": "FREE",
+      "sessions": [
+        { "day": "Sunday", "time": "10am-2pm" }
+      ],
+      "notes": "Center closed 8/22-8/30"
+    },
+    {
+      "season": "Summer 2026",
+      "center": "Green Lake Community Center",
+      "address": "7201 E Green Lake Dr N, Seattle, WA 98115",
+      "phone": "206-684-0780",
+      "zone": 3,
+      "center_hours": "Mon/Tue/Thu 8:30am-7pm, Wed 8:30am-7:30pm, Fri 8:30am-9pm",
+      "type": "drop-in",
+      "program": "Basketball",
+      "ages": "18 and Older",
+      "code": "91475",
+      "date_range": "6/27-8/15",
+      "cost": "FREE",
+      "sessions": [
+        { "day": "Saturday", "time": "3:15-4:45pm" }
+      ]
+    },
+    {
+      "season": "Summer 2026",
+      "center": "Loyal Heights Community Center",
+      "address": "2101 NW 77th St, Seattle, WA 98117",
+      "phone": "206-684-4052",
+      "zone": 3,
+      "center_hours": "M/W/F 9am-9pm, Tu/Th 9am-7:30pm",
+      "type": "drop-in",
+      "program": "Basketball (Women's)",
+      "ages": "18 and Older",
+      "code": "87864",
+      "date_range": "7/10-9/4",
+      "cost": "FREE",
+      "sessions": [
+        { "day": "Tu/F", "time": "9-10am" }
+      ]
+    },
+    {
+      "season": "Summer 2026",
+      "center": "Loyal Heights Community Center",
+      "address": "2101 NW 77th St, Seattle, WA 98117",
+      "phone": "206-684-4052",
+      "zone": 3,
+      "center_hours": "M/W/F 9am-9pm, Tu/Th 9am-7:30pm",
+      "type": "drop-in",
+      "program": "Basketball (Adults/Youth)",
+      "ages": "All Ages",
+      "code": "91511",
+      "date_range": "7/7-8/28",
+      "cost": "FREE",
+      "sessions": [
+        { "day": "Tu/W/F", "time": "2-5pm" }
+      ]
+    },
+    {
+      "season": "Summer 2026",
+      "center": "Magnuson Community Center",
+      "address": "7110 62nd Ave NE, Seattle, WA 98115",
+      "phone": "206-684-7026",
+      "zone": 3,
+      "center_hours": "Mon-Fri 8:30am-6:30pm",
+      "type": "drop-in",
+      "program": "Teen Basketball",
+      "ages": "12-17",
+      "code": "90060",
+      "date_range": "7/6-9/4",
+      "cost": "FREE",
+      "sessions": [
+        { "day": "Mon-Fri", "time": "4:15-6:15pm" }
+      ]
+    },
+    {
+      "season": "Summer 2026",
+      "center": "Meadowbrook Community Center",
+      "address": "10517 35th Ave NE, Seattle, WA 98125",
+      "phone": "206-684-7522",
+      "zone": 3,
+      "center_hours": "Mon-Fri 8:30am-8:30pm, Sat 9am-5pm",
+      "type": "program",
+      "program": "Little Hoopers",
+      "ages": "5-7",
+      "code": "91016",
+      "date_range": "7/11-8/29",
+      "cost": "$88",
+      "sessions": [
+        { "day": "Saturday", "time": "12:30-1:30pm" }
+      ]
+    },
+    {
+      "season": "Summer 2026",
+      "center": "Meadowbrook Community Center",
+      "address": "10517 35th Ave NE, Seattle, WA 98125",
+      "phone": "206-684-7522",
+      "zone": 3,
+      "center_hours": "Mon-Fri 8:30am-8:30pm, Sat 9am-5pm",
+      "type": "program",
+      "program": "Junior Hoopers",
+      "ages": "8-10",
+      "code": "91015",
+      "date_range": "7/11-8/29",
+      "cost": "$88",
+      "sessions": [
+        { "day": "Saturday", "time": "2-3pm" }
+      ]
+    },
+    {
+      "season": "Summer 2026",
+      "center": "Meadowbrook Community Center",
+      "address": "10517 35th Ave NE, Seattle, WA 98125",
+      "phone": "206-684-7522",
+      "zone": 3,
+      "center_hours": "Mon-Fri 8:30am-8:30pm, Sat 9am-5pm",
+      "type": "drop-in",
+      "program": "Teen Basketball",
+      "ages": "11-18",
+      "code": "91013",
+      "date_range": "7/6-8/31",
+      "cost": "FREE",
+      "sessions": [
+        { "day": "Monday", "time": "5:30-8pm" }
       ]
     }
   ]

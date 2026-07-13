@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-24T21:05:12.736Z",
+  "generated_at": "2026-07-13T20:05:58.714Z",
   "seasons": [
     {
       "name": "Winter 2026",
@@ -11,6 +11,12 @@
       "source": "Seattle Parks & Recreation Spring 2026 Brochure",
       "registration_opens": "2026-03-03",
       "extracted_date": "2026-02-20"
+    },
+    {
+      "name": "Summer 2026",
+      "source": "Seattle Parks & Recreation Summer 2026 Brochure",
+      "registration_opens": "2026-05-19",
+      "extracted_date": "2026-07-13"
     }
   ],
   "locations": [
@@ -950,6 +956,21 @@
             }
           ],
           "notes": null
+        },
+        {
+          "program": "Basketball",
+          "type": "drop-in",
+          "ages": "16 and Older",
+          "code": "91491",
+          "date_range": "6/22-8/31",
+          "cost": "FREE",
+          "sessions": [
+            {
+              "day": "Monday",
+              "time": "6-8:30pm"
+            }
+          ],
+          "notes": null
         }
       ]
     },
@@ -1309,6 +1330,36 @@
             }
           ],
           "notes": null
+        },
+        {
+          "program": "Basketball (Adult)",
+          "type": "drop-in",
+          "ages": "18 and Older",
+          "code": "91356",
+          "date_range": "6/24-9/4",
+          "cost": "FREE",
+          "sessions": [
+            {
+              "day": "Wednesday",
+              "time": "6-8:30pm"
+            }
+          ],
+          "notes": "Brochure lists code 91356 for both this and Adult Roller Skating; call center to confirm"
+        },
+        {
+          "program": "Basketball (Adult)",
+          "type": "drop-in",
+          "ages": "18 and Older",
+          "code": "90901",
+          "date_range": "6/24-9/4",
+          "cost": "FREE",
+          "sessions": [
+            {
+              "day": "Friday",
+              "time": "6-8pm"
+            }
+          ],
+          "notes": null
         }
       ]
     },
@@ -1390,6 +1441,51 @@
             {
               "day": "Saturday",
               "time": "2-3pm"
+            }
+          ],
+          "notes": null
+        },
+        {
+          "program": "Little Hoopers",
+          "type": "program",
+          "ages": "5-7",
+          "code": "91016",
+          "date_range": "7/11-8/29",
+          "cost": "$88",
+          "sessions": [
+            {
+              "day": "Saturday",
+              "time": "12:30-1:30pm"
+            }
+          ],
+          "notes": null
+        },
+        {
+          "program": "Junior Hoopers",
+          "type": "program",
+          "ages": "8-10",
+          "code": "91015",
+          "date_range": "7/11-8/29",
+          "cost": "$88",
+          "sessions": [
+            {
+              "day": "Saturday",
+              "time": "2-3pm"
+            }
+          ],
+          "notes": null
+        },
+        {
+          "program": "Teen Basketball",
+          "type": "drop-in",
+          "ages": "11-18",
+          "code": "91013",
+          "date_range": "7/6-8/31",
+          "cost": "FREE",
+          "sessions": [
+            {
+              "day": "Monday",
+              "time": "5:30-8pm"
             }
           ],
           "notes": null
@@ -1545,6 +1641,66 @@
             }
           ],
           "notes": null
+        },
+        {
+          "program": "Basketball Skills and Drills",
+          "type": "program",
+          "ages": "10-13",
+          "code": "91914",
+          "date_range": "7/14-7/25",
+          "cost": "TBD",
+          "sessions": [
+            {
+              "day": "Tuesday",
+              "time": "5:45-6:45pm"
+            }
+          ],
+          "notes": null
+        },
+        {
+          "program": "Little Hoopers",
+          "type": "program",
+          "ages": "6-9",
+          "code": "93063",
+          "date_range": "8/4-8/25",
+          "cost": "$60",
+          "sessions": [
+            {
+              "day": "Tuesday",
+              "time": "4:45-5:45pm"
+            }
+          ],
+          "notes": null
+        },
+        {
+          "program": "Basketball (Men's)",
+          "type": "drop-in",
+          "ages": "18 and Older",
+          "code": "91920",
+          "date_range": "7/7-8/25",
+          "cost": "FREE",
+          "sessions": [
+            {
+              "day": "Tuesday",
+              "time": "6:45-8pm"
+            }
+          ],
+          "notes": "Brochure lists code 91920 for both Magnolia and Van Asselt basketball; call center to confirm"
+        },
+        {
+          "program": "Basketball (Women's)",
+          "type": "drop-in",
+          "ages": "18 and Older",
+          "code": "91922",
+          "date_range": "7/2-8/27",
+          "cost": "FREE",
+          "sessions": [
+            {
+              "day": "Thursday",
+              "time": "6-8pm"
+            }
+          ],
+          "notes": "Brochure lists code 91922 for both Magnolia and Van Asselt basketball; call center to confirm"
         }
       ]
     },
@@ -1598,6 +1754,21 @@
             }
           ],
           "notes": null
+        },
+        {
+          "program": "Basketball",
+          "type": "drop-in",
+          "ages": "14 and Older",
+          "code": "90710",
+          "date_range": "6/25-9/3",
+          "cost": "FREE",
+          "sessions": [
+            {
+              "day": "Thursday",
+              "time": "5:30-7:45pm"
+            }
+          ],
+          "notes": null
         }
       ]
     },
@@ -1644,6 +1815,21 @@
           "ages": "All Ages",
           "code": "88148",
           "date_range": "4/11-6/20",
+          "cost": "FREE",
+          "sessions": [
+            {
+              "day": "Saturday",
+              "time": "11am-2pm"
+            }
+          ],
+          "notes": null
+        },
+        {
+          "program": "Basketball",
+          "type": "drop-in",
+          "ages": "All Ages",
+          "code": "93067",
+          "date_range": "6/27-9/5",
           "cost": "FREE",
           "sessions": [
             {
@@ -1730,6 +1916,25 @@
             }
           ],
           "notes": "No drop-in programs 4/13-17, 5/25, or 6/4"
+        },
+        {
+          "program": "Open Gym (Basketball)",
+          "type": "drop-in",
+          "ages": "10 and Older",
+          "code": "89378",
+          "date_range": "6/22-8/15",
+          "cost": "FREE",
+          "sessions": [
+            {
+              "day": "M/W",
+              "time": "11:30am-1:45pm"
+            },
+            {
+              "day": "Saturday",
+              "time": "3-5:30pm"
+            }
+          ],
+          "notes": "Gym closes at 12:45pm on Mon/Wed during weeks of 7/13-7/24"
         }
       ]
     },
@@ -1850,6 +2055,37 @@
             {
               "day": "Sunday",
               "time": "3-7pm"
+            }
+          ],
+          "notes": null
+        },
+        {
+          "program": "Youth Open Gym",
+          "type": "drop-in",
+          "ages": "10-18",
+          "code": "91440",
+          "date_range": "6/22-9/6",
+          "cost": "FREE",
+          "sessions": [
+            {
+              "day": "M/Tu/Th",
+              "time": "4:30-8pm"
+            },
+            {
+              "day": "Wednesday",
+              "time": "5:30-6:15pm"
+            },
+            {
+              "day": "Friday",
+              "time": "4:30-7pm"
+            },
+            {
+              "day": "Saturday",
+              "time": "1-5pm"
+            },
+            {
+              "day": "Sunday",
+              "time": "Noon-8pm"
             }
           ],
           "notes": null
@@ -1980,6 +2216,36 @@
             {
               "day": "Tue/Fri",
               "time": "9-10am"
+            }
+          ],
+          "notes": null
+        },
+        {
+          "program": "Basketball (Women's)",
+          "type": "drop-in",
+          "ages": "18 and Older",
+          "code": "87864",
+          "date_range": "7/10-9/4",
+          "cost": "FREE",
+          "sessions": [
+            {
+              "day": "Tu/F",
+              "time": "9-10am"
+            }
+          ],
+          "notes": null
+        },
+        {
+          "program": "Basketball (Adults/Youth)",
+          "type": "drop-in",
+          "ages": "All Ages",
+          "code": "91511",
+          "date_range": "7/7-8/28",
+          "cost": "FREE",
+          "sessions": [
+            {
+              "day": "Tu/W/F",
+              "time": "2-5pm"
             }
           ],
           "notes": null
@@ -2124,6 +2390,36 @@
             {
               "day": "Friday",
               "time": "Noon-4pm"
+            }
+          ],
+          "notes": null
+        },
+        {
+          "program": "Adult Basketball",
+          "type": "drop-in",
+          "ages": "18 and Older",
+          "code": "89819",
+          "date_range": "6/27-9/5",
+          "cost": "FREE",
+          "sessions": [
+            {
+              "day": "Saturday",
+              "time": "8:30-10:55am"
+            }
+          ],
+          "notes": null
+        },
+        {
+          "program": "Drills and Skills Basketball Camp",
+          "type": "program",
+          "ages": "10-18",
+          "code": "89716",
+          "date_range": "7/6-8/28",
+          "cost": "$369",
+          "sessions": [
+            {
+              "day": "Mon-Fri",
+              "time": "9am-3pm"
             }
           ],
           "notes": null
@@ -2345,6 +2641,21 @@
             }
           ],
           "notes": null
+        },
+        {
+          "program": "Teen Basketball",
+          "type": "drop-in",
+          "ages": "12-17",
+          "code": "90060",
+          "date_range": "7/6-9/4",
+          "cost": "FREE",
+          "sessions": [
+            {
+              "day": "Mon-Fri",
+              "time": "4:15-6:15pm"
+            }
+          ],
+          "notes": null
         }
       ]
     },
@@ -2378,6 +2689,21 @@
             }
           ],
           "notes": "Hiawatha reopening with limited drop-in programming for Spring 2026"
+        },
+        {
+          "program": "Youth Basketball",
+          "type": "drop-in",
+          "ages": "18 and Under",
+          "code": "93054",
+          "date_range": "6/22-8/28",
+          "cost": "FREE",
+          "sessions": [
+            {
+              "day": "M/Tu/Th/F",
+              "time": "4:30-6pm"
+            }
+          ],
+          "notes": null
         }
       ]
     },
@@ -2444,6 +2770,21 @@
             {
               "day": "Monday",
               "time": "6:15-8:45pm"
+            }
+          ],
+          "notes": null
+        },
+        {
+          "program": "Basketball",
+          "type": "drop-in",
+          "ages": "16 and Older",
+          "code": "91038",
+          "date_range": "6/22-8/24",
+          "cost": "FREE",
+          "sessions": [
+            {
+              "day": "Monday",
+              "time": "5:15-7:45pm"
             }
           ],
           "notes": null
@@ -2586,6 +2927,66 @@
             }
           ],
           "notes": null
+        },
+        {
+          "program": "Basketball (Adult)",
+          "type": "drop-in",
+          "ages": "18 and Older",
+          "code": "91549",
+          "date_range": "6/29-8/31",
+          "cost": "FREE",
+          "sessions": [
+            {
+              "day": "Monday",
+              "time": "12:30-2:30pm"
+            }
+          ],
+          "notes": null
+        },
+        {
+          "program": "Basketball (Adult)",
+          "type": "drop-in",
+          "ages": "18 and Older",
+          "code": "91551",
+          "date_range": "6/30-8/25",
+          "cost": "FREE",
+          "sessions": [
+            {
+              "day": "Tuesday",
+              "time": "2:30-4:30pm"
+            }
+          ],
+          "notes": null
+        },
+        {
+          "program": "Basketball (Adult)",
+          "type": "drop-in",
+          "ages": "18 and Older",
+          "code": "91552",
+          "date_range": "7/2-8/27",
+          "cost": "FREE",
+          "sessions": [
+            {
+              "day": "Thursday",
+              "time": "12:30-2:30pm"
+            }
+          ],
+          "notes": null
+        },
+        {
+          "program": "Basketball (Youth)",
+          "type": "drop-in",
+          "ages": "13-17",
+          "code": "91554",
+          "date_range": "7/10-8/28",
+          "cost": "FREE",
+          "sessions": [
+            {
+              "day": "Friday",
+              "time": "2:30-4:30pm"
+            }
+          ],
+          "notes": null
         }
       ]
     },
@@ -2697,6 +3098,36 @@
             {
               "day": "Mon/Wed/Fri",
               "time": "11:30am-1:30pm"
+            }
+          ],
+          "notes": null
+        },
+        {
+          "program": "Basketball (Adult)",
+          "type": "drop-in",
+          "ages": "18 and Older",
+          "code": "89873",
+          "date_range": "7/1-8/28",
+          "cost": "FREE",
+          "sessions": [
+            {
+              "day": "M/W/F",
+              "time": "11am-1:30pm"
+            }
+          ],
+          "notes": null
+        },
+        {
+          "program": "Basketball (Open)",
+          "type": "drop-in",
+          "ages": "5 and Older",
+          "code": "90870",
+          "date_range": "7/2-8/27",
+          "cost": "FREE",
+          "sessions": [
+            {
+              "day": "Thursday",
+              "time": "3-5:45pm"
             }
           ],
           "notes": null
@@ -2876,6 +3307,21 @@
             }
           ],
           "notes": null
+        },
+        {
+          "program": "Basketball",
+          "type": "drop-in",
+          "ages": "18 and Older",
+          "code": "91475",
+          "date_range": "6/27-8/15",
+          "cost": "FREE",
+          "sessions": [
+            {
+              "day": "Saturday",
+              "time": "3:15-4:45pm"
+            }
+          ],
+          "notes": null
         }
       ]
     },
@@ -3035,6 +3481,51 @@
             }
           ],
           "notes": null
+        },
+        {
+          "program": "B-Ball and Talk",
+          "type": "drop-in",
+          "ages": "10-17",
+          "code": "90614",
+          "date_range": "6/23-8/4",
+          "cost": "FREE",
+          "sessions": [
+            {
+              "day": "Mon-Thu",
+              "time": "5:30-7pm"
+            }
+          ],
+          "notes": null
+        },
+        {
+          "program": "Basketball",
+          "type": "drop-in",
+          "ages": "18 and Older",
+          "code": "91920",
+          "date_range": "7/7-8/25",
+          "cost": "FREE",
+          "sessions": [
+            {
+              "day": "Tuesday",
+              "time": "6-8pm"
+            }
+          ],
+          "notes": null
+        },
+        {
+          "program": "Basketball",
+          "type": "drop-in",
+          "ages": "18 and Older",
+          "code": "91922",
+          "date_range": "7/9-8/27",
+          "cost": "FREE",
+          "sessions": [
+            {
+              "day": "Thursday",
+              "time": "6-8pm"
+            }
+          ],
+          "notes": null
         }
       ]
     },
@@ -3059,7 +3550,68 @@
       },
       "website": "https://www.seattle.gov/parks/all-community-centers/rainier-beach-community-center",
       "basketball_link": null,
-      "events": []
+      "events": [
+        {
+          "program": "Junior Hoopers",
+          "type": "program",
+          "ages": "6-7",
+          "code": "90746",
+          "date_range": "6/22-7/27",
+          "cost": "$50",
+          "sessions": [
+            {
+              "day": "Monday",
+              "time": "5:30-6:30pm"
+            }
+          ],
+          "notes": null
+        },
+        {
+          "program": "Junior Hoopers",
+          "type": "program",
+          "ages": "6-7",
+          "code": "90747",
+          "date_range": "8/3-8/31",
+          "cost": "$40",
+          "sessions": [
+            {
+              "day": "Monday",
+              "time": "5:30-6:30pm"
+            }
+          ],
+          "notes": null
+        },
+        {
+          "program": "Little Hoopers",
+          "type": "program",
+          "ages": "3-5",
+          "code": "90749",
+          "date_range": "6/22-7/27",
+          "cost": "$50",
+          "sessions": [
+            {
+              "day": "Monday",
+              "time": "4:30-5:15pm"
+            }
+          ],
+          "notes": null
+        },
+        {
+          "program": "Little Hoopers",
+          "type": "program",
+          "ages": "3-5",
+          "code": "90748",
+          "date_range": "8/3-8/31",
+          "cost": "$40",
+          "sessions": [
+            {
+              "day": "Monday",
+              "time": "4:30-5:15pm"
+            }
+          ],
+          "notes": null
+        }
+      ]
     },
     {
       "id": "center-south-park-community-center",
@@ -3095,6 +3647,21 @@
             }
           ],
           "notes": "At Concord International Elementary School gym"
+        },
+        {
+          "program": "Adult Basketball",
+          "type": "drop-in",
+          "ages": "18 and Older",
+          "code": "90636",
+          "date_range": "6/23-8/27",
+          "cost": "FREE",
+          "sessions": [
+            {
+              "day": "Tu/Th",
+              "time": "4:45-6:45pm"
+            }
+          ],
+          "notes": null
         }
       ]
     },
@@ -3224,6 +3791,21 @@
             }
           ],
           "notes": "Late night recreation program — likely includes basketball among other activities"
+        },
+        {
+          "program": "Open Gym",
+          "type": "drop-in",
+          "ages": "5 and Older",
+          "code": "91482",
+          "date_range": "6/28-8/16",
+          "cost": "FREE",
+          "sessions": [
+            {
+              "day": "Sunday",
+              "time": "10am-2pm"
+            }
+          ],
+          "notes": "Center closed 8/22-8/30"
         }
       ]
     },
