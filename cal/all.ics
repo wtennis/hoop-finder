@@ -5,2415 +5,1785 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:HoopFinder — All Events
 X-WR-TIMEZONE:America/Los_Angeles
 BEGIN:VEVENT
-UID:89382-mon-0@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260420T171500
-DTEND;TZID=America/Los_Angeles:20260420T191500
-RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20260615T235900
-SUMMARY:Mini Hoopers League @ Laurelhurst Community Center
-DESCRIPTION:Ages: 6-7\\nCost: $100\\nDates: 4/20-6/15
+UID:93437-mon-0@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260928T171500
+DTEND;TZID=America/Los_Angeles:20260928T191500
+RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20261130T235900
+SUMMARY:Mini Hoopers: Instructional Basketball @ Laurelhurst Community Center
+DESCRIPTION:Ages: 6-7\\nCost: $100\\nDates: 9/28-11/30
 LOCATION:Laurelhurst Community Center\, 4554 NE 41st St\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:87360-mon-1@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260406T180000
-DTEND;TZID=America/Los_Angeles:20260406T203000
-RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20260620T235900
-SUMMARY:Basketball @ Jefferson Park Community Center
-DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 4/6-6/20
+UID:93164-mon-1@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260914T170000
+DTEND;TZID=America/Los_Angeles:20260914T174500
+RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20261005T235900
+SUMMARY:Junior Hoopers @ Jefferson Park Community Center
+DESCRIPTION:Ages: 5-7\\nCost: $70\\nDates: 9/14-10/5
 LOCATION:Jefferson Park Community Center\, 3801 Beacon Ave S\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:87360-sat-2@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260411T130000
-DTEND;TZID=America/Los_Angeles:20260411T160000
-RRULE:FREQ=WEEKLY;BYDAY=SA;UNTIL=20260620T235900
-SUMMARY:Basketball @ Jefferson Park Community Center
-DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 4/6-6/20
+UID:93165-mon-2@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20261019T170000
+DTEND;TZID=America/Los_Angeles:20261019T174500
+RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20261109T235900
+SUMMARY:Junior Hoopers @ Jefferson Park Community Center
+DESCRIPTION:Ages: 5-7\\nCost: $70\\nDates: 10/19-11/9
 LOCATION:Jefferson Park Community Center\, 3801 Beacon Ave S\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:91491-mon-3@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260622T180000
-DTEND;TZID=America/Los_Angeles:20260622T203000
-RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20260831T235900
+UID:93168-mon-3@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260914T180000
+DTEND;TZID=America/Los_Angeles:20260914T203000
+RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20261123T235900
 SUMMARY:Basketball @ Jefferson Park Community Center
-DESCRIPTION:Ages: 16 and Older\\nCost: Free\\nDates: 6/22-8/31
+DESCRIPTION:Ages: 16 and Older\\nCost: Free\\nDates: 9/14-11/23
 LOCATION:Jefferson Park Community Center\, 3801 Beacon Ave S\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:85651-tue-4@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260106T123000
-DTEND;TZID=America/Los_Angeles:20260106T153000
-RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20260331T235900
+UID:93168-sat-4@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260919T130000
+DTEND;TZID=America/Los_Angeles:20260919T160000
+RRULE:FREQ=WEEKLY;BYDAY=SA;UNTIL=20261123T235900
+SUMMARY:Basketball @ Jefferson Park Community Center
+DESCRIPTION:Ages: 16 and Older\\nCost: Free\\nDates: 9/14-11/23
+LOCATION:Jefferson Park Community Center\, 3801 Beacon Ave S\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:93726-tue-5@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260908T123000
+DTEND;TZID=America/Los_Angeles:20260908T153000
+RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20261231T235900
 SUMMARY:Basketball - Adult @ Garfield Community Center
-DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 1/6-3/31
+DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 9/8-12/31
 LOCATION:Garfield Community Center\, 2323 E Cherry St\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:85651-thu-5@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260108T123000
-DTEND;TZID=America/Los_Angeles:20260108T153000
-RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20260331T235900
+UID:93726-thu-6@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260910T123000
+DTEND;TZID=America/Los_Angeles:20260910T153000
+RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20261231T235900
 SUMMARY:Basketball - Adult @ Garfield Community Center
-DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 1/6-3/31
+DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 9/8-12/31
 LOCATION:Garfield Community Center\, 2323 E Cherry St\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:84707-wed-6@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260107T143000
-DTEND;TZID=America/Los_Angeles:20260107T173000
-RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20260325T235900
+UID:93733-mon-7@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260914T154500
+DTEND;TZID=America/Los_Angeles:20260914T173000
+RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20261228T235900
 SUMMARY:Basketball - Teen @ Garfield Community Center
-DESCRIPTION:Ages: 11-18\\nCost: Free\\nDates: 1/7-3/25
+DESCRIPTION:Ages: 11-18\\nCost: Free\\nDates: 9/11-12/28
 LOCATION:Garfield Community Center\, 2323 E Cherry St\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:84707-mon-7@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260112T154500
-DTEND;TZID=America/Los_Angeles:20260112T173000
-RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20260330T235900
+UID:93733-fri-8@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260911T154500
+DTEND;TZID=America/Los_Angeles:20260911T173000
+RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20261228T235900
 SUMMARY:Basketball - Teen @ Garfield Community Center
-DESCRIPTION:Ages: 11-18\\nCost: Free\\nDates: 1/9-3/30
+DESCRIPTION:Ages: 11-18\\nCost: Free\\nDates: 9/11-12/28
 LOCATION:Garfield Community Center\, 2323 E Cherry St\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:84707-fri-8@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260109T154500
-DTEND;TZID=America/Los_Angeles:20260109T173000
-RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260330T235900
+UID:93733-wed-9@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260916T143000
+DTEND;TZID=America/Los_Angeles:20260916T173000
+RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20261228T235900
 SUMMARY:Basketball - Teen @ Garfield Community Center
-DESCRIPTION:Ages: 11-18\\nCost: Free\\nDates: 1/9-3/30
+DESCRIPTION:Ages: 11-18\\nCost: Free\\nDates: 9/11-12/28
 LOCATION:Garfield Community Center\, 2323 E Cherry St\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:88561-wed-9@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260401T143000
-DTEND;TZID=America/Los_Angeles:20260401T173000
-RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20260617T235900
-SUMMARY:Basketball - Teen @ Garfield Community Center
-DESCRIPTION:Ages: 11-18\\nCost: Free\\nDates: 4/1-6/17
+UID:93730-sat-10@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260912T150000
+DTEND;TZID=America/Los_Angeles:20260912T170000
+RRULE:FREQ=WEEKLY;BYDAY=SA;UNTIL=20261226T235900
+SUMMARY:Open Gym @ Garfield Community Center
+DESCRIPTION:Ages: All Ages\\nCost: Free\\nDates: 9/12-12/26
 LOCATION:Garfield Community Center\, 2323 E Cherry St\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:88561-mon-10@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260406T154500
-DTEND;TZID=America/Los_Angeles:20260406T173000
-RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20260615T235900
-SUMMARY:Basketball - Teen @ Garfield Community Center
-DESCRIPTION:Ages: 11-18\\nCost: Free\\nDates: 4/3-6/15
-LOCATION:Garfield Community Center\, 2323 E Cherry St\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:88561-fri-11@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260403T154500
-DTEND;TZID=America/Los_Angeles:20260403T173000
-RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260615T235900
-SUMMARY:Basketball - Teen @ Garfield Community Center
-DESCRIPTION:Ages: 11-18\\nCost: Free\\nDates: 4/3-6/15
-LOCATION:Garfield Community Center\, 2323 E Cherry St\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:88539-tue-12@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260407T123000
-DTEND;TZID=America/Los_Angeles:20260407T153000
-RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20260618T235900
-SUMMARY:Basketball - Adult @ Garfield Community Center
-DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 4/2-6/18
-LOCATION:Garfield Community Center\, 2323 E Cherry St\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:88539-thu-13@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260402T123000
-DTEND;TZID=America/Los_Angeles:20260402T153000
-RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20260618T235900
-SUMMARY:Basketball - Adult @ Garfield Community Center
-DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 4/2-6/18
-LOCATION:Garfield Community Center\, 2323 E Cherry St\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:85650-fri-14@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260109T140000
-DTEND;TZID=America/Los_Angeles:20260109T144500
-RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260213T235900
-SUMMARY:Junior Hoopers @ Miller Community Center
-DESCRIPTION:Ages: 3-5\\nCost: $65\\nDates: 1/9-2/13
+UID:94080-fri-11@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260918T141500
+DTEND;TZID=America/Los_Angeles:20260918T150000
+RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20261023T235900
+SUMMARY:Junior Hoopers - Level 1 @ Miller Community Center
+DESCRIPTION:Ages: 3-5\\nCost: $75\\nDates: 9/18-10/23
 LOCATION:Miller Community Center\, 330 19th Ave E\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:85670-fri-15@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260220T140000
-DTEND;TZID=America/Los_Angeles:20260220T144500
-RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260327T235900
-SUMMARY:Junior Hoopers @ Miller Community Center
-DESCRIPTION:Ages: 3-5\\nCost: $65\\nDates: 2/20-3/27
+UID:94081-fri-12@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20261030T141500
+DTEND;TZID=America/Los_Angeles:20261030T150000
+RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20261211T235900
+SUMMARY:Junior Hoopers - Level 1 @ Miller Community Center
+DESCRIPTION:Ages: 3-5\\nCost: $75\\nDates: 10/30-12/11
 LOCATION:Miller Community Center\, 330 19th Ave E\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:85653-fri-16@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260109T150000
-DTEND;TZID=America/Los_Angeles:20260109T154500
-RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260213T235900
-SUMMARY:Junior Hoopers II @ Miller Community Center
-DESCRIPTION:Ages: 5-8\\nCost: $65\\nDates: 1/9-2/13
+UID:94082-fri-13@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260918T151500
+DTEND;TZID=America/Los_Angeles:20260918T160000
+RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20261023T235900
+SUMMARY:Junior Hoopers - Level 2 @ Miller Community Center
+DESCRIPTION:Ages: 5-8\\nCost: $75\\nDates: 9/18-10/23
 LOCATION:Miller Community Center\, 330 19th Ave E\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:85681-fri-17@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260220T150000
-DTEND;TZID=America/Los_Angeles:20260220T154500
-RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260327T235900
-SUMMARY:Junior Hoopers II @ Miller Community Center
-DESCRIPTION:Ages: 5-8\\nCost: $65\\nDates: 2/20-3/27
+UID:94083-fri-14@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20261030T151500
+DTEND;TZID=America/Los_Angeles:20261030T160000
+RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20261211T235900
+SUMMARY:Junior Hoopers - Level 2 @ Miller Community Center
+DESCRIPTION:Ages: 5-8\\nCost: $75\\nDates: 10/30-12/11
 LOCATION:Miller Community Center\, 330 19th Ave E\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:85444-fri-18@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260109T180000
-DTEND;TZID=America/Los_Angeles:20260109T200000
-RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260327T235900
+UID:94109-wed-15@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260902T180000
+DTEND;TZID=America/Los_Angeles:20260902T200000
+RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20261230T235900
 SUMMARY:Basketball - Adult @ Miller Community Center
-DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 1/9-3/27
+DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 9/2-12/30
 LOCATION:Miller Community Center\, 330 19th Ave E\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:85431-tue-19@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260106T180000
-DTEND;TZID=America/Los_Angeles:20260106T203000
-RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20260331T235900
+UID:94109-fri-16@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260904T180000
+DTEND;TZID=America/Los_Angeles:20260904T200000
+RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20261230T235900
+SUMMARY:Basketball - Adult @ Miller Community Center
+DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 9/2-12/30
+LOCATION:Miller Community Center\, 330 19th Ave E\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:94129-tue-17@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260915T180000
+DTEND;TZID=America/Los_Angeles:20260915T200000
+RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20261229T235900
 SUMMARY:Wheelchair Basketball @ Miller Community Center
-DESCRIPTION:Ages: 10 and Older\\nCost: Free\\nDates: 1/6-3/31
+DESCRIPTION:Ages: 10 and Older\\nCost: Free\\nDates: 9/15-12/29
 LOCATION:Miller Community Center\, 330 19th Ave E\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:85526-mon-20@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260105T160000
-DTEND;TZID=America/Los_Angeles:20260105T170000
-RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20260330T235900
+UID:94132-mon-18@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260907T160000
+DTEND;TZID=America/Los_Angeles:20260907T180000
+RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20261218T235900
 SUMMARY:Basketball - Youth @ Miller Community Center
-DESCRIPTION:Ages: 11-15\\nCost: Free\\nDates: 1/5-3/30
+DESCRIPTION:Ages: 11-15\\nCost: Free\\nDates: 9/2-12/18
 LOCATION:Miller Community Center\, 330 19th Ave E\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:85526-wed-21@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260107T143000
-DTEND;TZID=America/Los_Angeles:20260107T153000
-RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20260330T235900
+UID:94132-tue-19@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260908T160000
+DTEND;TZID=America/Los_Angeles:20260908T180000
+RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20261218T235900
 SUMMARY:Basketball - Youth @ Miller Community Center
-DESCRIPTION:Ages: 11-15\\nCost: Free\\nDates: 1/5-3/30
+DESCRIPTION:Ages: 11-15\\nCost: Free\\nDates: 9/2-12/18
 LOCATION:Miller Community Center\, 330 19th Ave E\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:85526-fri-22@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260109T160000
-DTEND;TZID=America/Los_Angeles:20260109T163000
-RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260330T235900
+UID:94132-thu-20@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260903T160000
+DTEND;TZID=America/Los_Angeles:20260903T180000
+RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20261218T235900
 SUMMARY:Basketball - Youth @ Miller Community Center
-DESCRIPTION:Ages: 11-15\\nCost: Free\\nDates: 1/5-3/30
+DESCRIPTION:Ages: 11-15\\nCost: Free\\nDates: 9/2-12/18
 LOCATION:Miller Community Center\, 330 19th Ave E\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:85528-tue-23@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260106T133000
-DTEND;TZID=America/Los_Angeles:20260106T153000
-RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20260331T235900
+UID:94132-fri-21@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260904T160000
+DTEND;TZID=America/Los_Angeles:20260904T180000
+RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20261218T235900
+SUMMARY:Basketball - Youth @ Miller Community Center
+DESCRIPTION:Ages: 11-15\\nCost: Free\\nDates: 9/2-12/18
+LOCATION:Miller Community Center\, 330 19th Ave E\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:94132-wed-22@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260902T143000
+DTEND;TZID=America/Los_Angeles:20260902T180000
+RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20261218T235900
+SUMMARY:Basketball - Youth @ Miller Community Center
+DESCRIPTION:Ages: 11-15\\nCost: Free\\nDates: 9/2-12/18
+LOCATION:Miller Community Center\, 330 19th Ave E\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:94112-tue-23@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260908T133000
+DTEND;TZID=America/Los_Angeles:20260908T153000
+RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20261229T235900
 SUMMARY:Open Gym @ Miller Community Center
-DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 1/6-3/31
+DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 9/8-12/29
 LOCATION:Miller Community Center\, 330 19th Ave E\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:87446-wed-24@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260401T180000
-DTEND;TZID=America/Los_Angeles:20260401T203000
-RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20260617T235900
-SUMMARY:Basketball - Adult @ Miller Community Center
-DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 4/1-6/17
-LOCATION:Miller Community Center\, 330 19th Ave E\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:87446-fri-25@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260403T180000
-DTEND;TZID=America/Los_Angeles:20260403T200000
-RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260617T235900
-SUMMARY:Basketball - Adult @ Miller Community Center
-DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 4/1-6/17
-LOCATION:Miller Community Center\, 330 19th Ave E\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:87456-mon-26@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260406T160000
-DTEND;TZID=America/Los_Angeles:20260406T180000
-RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20260618T235900
-SUMMARY:Basketball - Youth @ Miller Community Center
-DESCRIPTION:Ages: 11-17\\nCost: Free\\nDates: 4/1-6/18
-LOCATION:Miller Community Center\, 330 19th Ave E\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:87456-tue-27@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260407T160000
-DTEND;TZID=America/Los_Angeles:20260407T180000
-RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20260618T235900
-SUMMARY:Basketball - Youth @ Miller Community Center
-DESCRIPTION:Ages: 11-17\\nCost: Free\\nDates: 4/1-6/18
-LOCATION:Miller Community Center\, 330 19th Ave E\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:87456-thu-28@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260402T160000
-DTEND;TZID=America/Los_Angeles:20260402T180000
-RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20260618T235900
-SUMMARY:Basketball - Youth @ Miller Community Center
-DESCRIPTION:Ages: 11-17\\nCost: Free\\nDates: 4/1-6/18
-LOCATION:Miller Community Center\, 330 19th Ave E\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:87456-fri-29@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260403T160000
-DTEND;TZID=America/Los_Angeles:20260403T180000
-RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260618T235900
-SUMMARY:Basketball - Youth @ Miller Community Center
-DESCRIPTION:Ages: 11-17\\nCost: Free\\nDates: 4/1-6/18
-LOCATION:Miller Community Center\, 330 19th Ave E\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:87456-wed-30@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260401T143000
-DTEND;TZID=America/Los_Angeles:20260401T180000
-RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20260618T235900
-SUMMARY:Basketball - Youth @ Miller Community Center
-DESCRIPTION:Ages: 11-17\\nCost: Free\\nDates: 4/1-6/18
-LOCATION:Miller Community Center\, 330 19th Ave E\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:87447-tue-31@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260407T133000
-DTEND;TZID=America/Los_Angeles:20260407T153000
-RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20260609T235900
-SUMMARY:Open Gym @ Miller Community Center
-DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 4/7-6/9
-LOCATION:Miller Community Center\, 330 19th Ave E\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:91356-wed-32@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260624T180000
-DTEND;TZID=America/Los_Angeles:20260624T203000
-RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20260904T235900
-SUMMARY:Basketball (Adult) @ Miller Community Center
-DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 6/24-9/4
-LOCATION:Miller Community Center\, 330 19th Ave E\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:90901-fri-33@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260626T180000
-DTEND;TZID=America/Los_Angeles:20260626T200000
-RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260904T235900
-SUMMARY:Basketball (Adult) @ Miller Community Center
-DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 6/24-9/4
-LOCATION:Miller Community Center\, 330 19th Ave E\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:87583-mon-34@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260406T170000
-DTEND;TZID=America/Los_Angeles:20260406T183000
-RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20260518T235900
-SUMMARY:Basketball - Teen @ Meadowbrook Community Center
-DESCRIPTION:Ages: 11-18\\nCost: Free\\nDates: 4/6-5/18
+UID:93873-fri-24@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20261009T130000
+DTEND;TZID=America/Los_Angeles:20261009T160000
+RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20261009T235900
+SUMMARY:Junior Hoopers Camp @ Meadowbrook Community Center
+DESCRIPTION:Ages: 8-10\\nCost: $55\\nDates: 10/9-10/9
 LOCATION:Meadowbrook Community Center\, 10517 35th Ave NE\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:87576-mon-35@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260406T184500
-DTEND;TZID=America/Los_Angeles:20260406T201500
-RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20260518T235900
-SUMMARY:Basketball - Adult @ Meadowbrook Community Center
-DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 4/6-5/18
-LOCATION:Meadowbrook Community Center\, 10517 35th Ave NE\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:87574-sat-36@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260404T123000
-DTEND;TZID=America/Los_Angeles:20260404T133000
-RRULE:FREQ=WEEKLY;BYDAY=SA;UNTIL=20260613T235900
-SUMMARY:Basketball Programs - Little Hoopers @ Meadowbrook Community Center
-DESCRIPTION:Ages: 5-7\\nCost: $121\\nDates: 4/4-6/13
-LOCATION:Meadowbrook Community Center\, 10517 35th Ave NE\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:87573-sat-37@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260404T140000
-DTEND;TZID=America/Los_Angeles:20260404T150000
-RRULE:FREQ=WEEKLY;BYDAY=SA;UNTIL=20260613T235900
-SUMMARY:Basketball Programs - Junior Hoopers @ Meadowbrook Community Center
-DESCRIPTION:Ages: 8-10\\nCost: $121\\nDates: 4/4-6/13
-LOCATION:Meadowbrook Community Center\, 10517 35th Ave NE\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:91016-sat-38@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260711T123000
-DTEND;TZID=America/Los_Angeles:20260711T133000
-RRULE:FREQ=WEEKLY;BYDAY=SA;UNTIL=20260829T235900
+UID:93870-sat-25@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260919T123000
+DTEND;TZID=America/Los_Angeles:20260919T133000
+RRULE:FREQ=WEEKLY;BYDAY=SA;UNTIL=20261121T235900
 SUMMARY:Little Hoopers @ Meadowbrook Community Center
-DESCRIPTION:Ages: 5-7\\nCost: $88\\nDates: 7/11-8/29
+DESCRIPTION:Ages: 5-7\\nCost: $110\\nDates: 9/19-11/21
 LOCATION:Meadowbrook Community Center\, 10517 35th Ave NE\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:91015-sat-39@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260711T140000
-DTEND;TZID=America/Los_Angeles:20260711T150000
-RRULE:FREQ=WEEKLY;BYDAY=SA;UNTIL=20260829T235900
+UID:93868-sat-26@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260919T140000
+DTEND;TZID=America/Los_Angeles:20260919T150000
+RRULE:FREQ=WEEKLY;BYDAY=SA;UNTIL=20261121T235900
 SUMMARY:Junior Hoopers @ Meadowbrook Community Center
-DESCRIPTION:Ages: 8-10\\nCost: $88\\nDates: 7/11-8/29
+DESCRIPTION:Ages: 8-10\\nCost: $110\\nDates: 9/19-11/21
 LOCATION:Meadowbrook Community Center\, 10517 35th Ave NE\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:91013-mon-40@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260706T173000
-DTEND;TZID=America/Los_Angeles:20260706T200000
-RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20260831T235900
-SUMMARY:Teen Basketball @ Meadowbrook Community Center
-DESCRIPTION:Ages: 11-18\\nCost: Free\\nDates: 7/6-8/31
+UID:93892-mon-27@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260914T184500
+DTEND;TZID=America/Los_Angeles:20260914T201500
+RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20261123T235900
+SUMMARY:Basketball - Adult @ Meadowbrook Community Center
+DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 9/14-11/23
 LOCATION:Meadowbrook Community Center\, 10517 35th Ave NE\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:86379-thu-41@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260108T170000
-DTEND;TZID=America/Los_Angeles:20260108T180000
-RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20260212T235900
-SUMMARY:Basketball: Skills & Drills @ Magnolia Community Center
-DESCRIPTION:Ages: 11-13\\nCost: $90\\nDates: 1/8-2/12
-LOCATION:Magnolia Community Center\, 2550  34th Ave W\, Seattle\, WA
+UID:93895-mon-28@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260914T170000
+DTEND;TZID=America/Los_Angeles:20260914T183000
+RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20261123T235900
+SUMMARY:Basketball - Teen @ Meadowbrook Community Center
+DESCRIPTION:Ages: 11-18\\nCost: Free\\nDates: 9/14-11/23
+LOCATION:Meadowbrook Community Center\, 10517 35th Ave NE\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:86380-thu-42@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260219T170000
-DTEND;TZID=America/Los_Angeles:20260219T180000
-RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20260326T235900
-SUMMARY:Basketball: Skills & Drills @ Magnolia Community Center
-DESCRIPTION:Ages: 11-13\\nCost: $90\\nDates: 2/19-3/26
-LOCATION:Magnolia Community Center\, 2550  34th Ave W\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:86384-tue-43@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260106T160000
-DTEND;TZID=America/Los_Angeles:20260106T170000
-RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20260210T235900
-SUMMARY:Little Hoopers @ Magnolia Community Center
-DESCRIPTION:Ages: 6-8\\nCost: $90\\nDates: 1/6-2/10
-LOCATION:Magnolia Community Center\, 2550  34th Ave W\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:86385-tue-44@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260217T160000
-DTEND;TZID=America/Los_Angeles:20260217T170000
-RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20260324T235900
-SUMMARY:Little Hoopers @ Magnolia Community Center
-DESCRIPTION:Ages: 6-8\\nCost: $90\\nDates: 2/17-3/24
-LOCATION:Magnolia Community Center\, 2550  34th Ave W\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:89490-thu-45@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260402T160000
-DTEND;TZID=America/Los_Angeles:20260402T170000
-RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20260507T235900
+UID:94017-tue-29@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260908T173000
+DTEND;TZID=America/Los_Angeles:20260908T183000
+RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20260929T235900
 SUMMARY:Basketball Skills & Drills @ Magnolia Community Center
-DESCRIPTION:Ages: 11-13\\nCost: $90\\nDates: 4/2-5/7
+DESCRIPTION:Ages: 10-13\\nCost: $45\\nDates: 9/8-9/29
 LOCATION:Magnolia Community Center\, 2550  34th Ave W\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:88388-tue-46@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260317T180000
-DTEND;TZID=America/Los_Angeles:20260317T200000
-RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20260630T235900
-SUMMARY:Basketball - Men's @ Magnolia Community Center
-DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 3/17-6/30
+UID:94018-tue-30@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20261006T173000
+DTEND;TZID=America/Los_Angeles:20261006T183000
+RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20261027T235900
+SUMMARY:Basketball Skills & Drills @ Magnolia Community Center
+DESCRIPTION:Ages: 10-13\\nCost: $60\\nDates: 10/6-10/27
 LOCATION:Magnolia Community Center\, 2550  34th Ave W\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:88389-thu-47@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260319T180000
-DTEND;TZID=America/Los_Angeles:20260319T200000
-RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20260625T235900
-SUMMARY:Basketball - Women's @ Magnolia Community Center
-DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 3/19-6/25
+UID:94019-tue-31@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20261103T173000
+DTEND;TZID=America/Los_Angeles:20261103T183000
+RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20261215T235900
+SUMMARY:Basketball Skills & Drills @ Magnolia Community Center
+DESCRIPTION:Ages: 10-13\\nCost: $90\\nDates: 11/3-12/15
 LOCATION:Magnolia Community Center\, 2550  34th Ave W\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:91914-tue-48@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260714T174500
-DTEND;TZID=America/Los_Angeles:20260714T184500
-RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20260725T235900
-SUMMARY:Basketball Skills and Drills @ Magnolia Community Center
-DESCRIPTION:Ages: 10-13\\nCost: TBD\\nDates: 7/14-7/25
-LOCATION:Magnolia Community Center\, 2550  34th Ave W\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:93063-tue-49@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260804T164500
-DTEND;TZID=America/Los_Angeles:20260804T174500
-RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20260825T235900
+UID:94030-tue-32@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260908T163000
+DTEND;TZID=America/Los_Angeles:20260908T173000
+RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20260929T235900
 SUMMARY:Little Hoopers @ Magnolia Community Center
-DESCRIPTION:Ages: 6-9\\nCost: $60\\nDates: 8/4-8/25
+DESCRIPTION:Ages: 6-9\\nCost: $60\\nDates: 9/8-9/29
 LOCATION:Magnolia Community Center\, 2550  34th Ave W\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:91920-tue-50@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260707T184500
-DTEND;TZID=America/Los_Angeles:20260707T200000
-RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20260825T235900
-SUMMARY:Basketball (Men's) @ Magnolia Community Center
-DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 7/7-8/25
+UID:94031-tue-33@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20261006T163000
+DTEND;TZID=America/Los_Angeles:20261006T173000
+RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20261027T235900
+SUMMARY:Little Hoopers @ Magnolia Community Center
+DESCRIPTION:Ages: 6-9\\nCost: $60\\nDates: 10/6-10/27
 LOCATION:Magnolia Community Center\, 2550  34th Ave W\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:91922-thu-51@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260702T180000
-DTEND;TZID=America/Los_Angeles:20260702T200000
-RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20260827T235900
-SUMMARY:Basketball (Women's) @ Magnolia Community Center
-DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 7/2-8/27
+UID:94032-tue-34@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20261103T163000
+DTEND;TZID=America/Los_Angeles:20261103T173000
+RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20261215T235900
+SUMMARY:Little Hoopers @ Magnolia Community Center
+DESCRIPTION:Ages: 6-9\\nCost: $90\\nDates: 11/3-12/15
 LOCATION:Magnolia Community Center\, 2550  34th Ave W\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:88117-fri-52@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260403T181500
-DTEND;TZID=America/Los_Angeles:20260403T190000
-RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260501T235900
-SUMMARY:Basketball: Little Dribblers @ Northgate Community Center
-DESCRIPTION:Ages: 5-6\\nCost: $60\\nDates: 4/3-5/1
+UID:94010-tue-35@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260901T184500
+DTEND;TZID=America/Los_Angeles:20260901T195000
+RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20261229T235900
+SUMMARY:Basketball - Men's @ Magnolia Community Center
+DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 9/1-12/29
+LOCATION:Magnolia Community Center\, 2550  34th Ave W\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:94011-thu-36@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260903T180000
+DTEND;TZID=America/Los_Angeles:20260903T200000
+RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20261217T235900
+SUMMARY:Basketball - Women's @ Magnolia Community Center
+DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 9/3-12/17
+LOCATION:Magnolia Community Center\, 2550  34th Ave W\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:92751-tue-37@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260915T180000
+DTEND;TZID=America/Los_Angeles:20260915T184500
+RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20261020T235900
+SUMMARY:Little Dribblers @ Northgate Community Center
+DESCRIPTION:Ages: 5-6\\nCost: $60\\nDates: 9/15-10/20
 LOCATION:Northgate Community Center\, 10510 5th Ave NE\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:88119-fri-53@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260403T190500
-DTEND;TZID=America/Los_Angeles:20260403T195000
-RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260501T235900
-SUMMARY:Basketball: Little Dribblers @ Northgate Community Center
-DESCRIPTION:Ages: 7-11\\nCost: $60\\nDates: 4/3-5/1
+UID:92752-tue-38@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20261027T180000
+DTEND;TZID=America/Los_Angeles:20261027T184500
+RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20261124T235900
+SUMMARY:Little Dribblers @ Northgate Community Center
+DESCRIPTION:Ages: 5-6\\nCost: $60\\nDates: 10/27-11/24
 LOCATION:Northgate Community Center\, 10510 5th Ave NE\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:90710-thu-54@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260625T173000
-DTEND;TZID=America/Los_Angeles:20260625T194500
-RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20260903T235900
+UID:92753-fri-39@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260918T190000
+DTEND;TZID=America/Los_Angeles:20260918T194500
+RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20261020T235900
+SUMMARY:Little Dribblers @ Northgate Community Center
+DESCRIPTION:Ages: 7-11\\nCost: $60\\nDates: 9/15-10/20
+LOCATION:Northgate Community Center\, 10510 5th Ave NE\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:92754-fri-40@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20261030T190000
+DTEND;TZID=America/Los_Angeles:20261030T194500
+RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20261124T235900
+SUMMARY:Little Dribblers @ Northgate Community Center
+DESCRIPTION:Ages: 7-11\\nCost: $60\\nDates: 10/27-11/24
+LOCATION:Northgate Community Center\, 10510 5th Ave NE\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:92760-thu-41@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260910T173000
+DTEND;TZID=America/Los_Angeles:20260910T194500
+RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20261119T235900
 SUMMARY:Basketball @ Northgate Community Center
-DESCRIPTION:Ages: 14 and Older\\nCost: Free\\nDates: 6/25-9/3
+DESCRIPTION:Ages: 14 and Older\\nCost: Free\\nDates: 9/10-11/19
 LOCATION:Northgate Community Center\, 10510 5th Ave NE\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:88146-tue-55@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260407T180000
-DTEND;TZID=America/Los_Angeles:20260407T200000
-RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20260616T235900
+UID:94282-tue-42@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260908T180000
+DTEND;TZID=America/Los_Angeles:20260908T200000
+RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20261215T235900
 SUMMARY:Basketball @ Queen Anne Community Center
-DESCRIPTION:Ages: All Ages\\nCost: Free\\nDates: 4/7-6/16
+DESCRIPTION:Ages: All Ages\\nCost: Free\\nDates: 9/8-12/15
 LOCATION:Queen Anne Community Center\, 1901 1st Ave W\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:88148-sat-56@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260411T110000
-DTEND;TZID=America/Los_Angeles:20260411T140000
-RRULE:FREQ=WEEKLY;BYDAY=SA;UNTIL=20260620T235900
+UID:94282-sat-43@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260912T110000
+DTEND;TZID=America/Los_Angeles:20260912T140000
+RRULE:FREQ=WEEKLY;BYDAY=SA;UNTIL=20261215T235900
 SUMMARY:Basketball @ Queen Anne Community Center
-DESCRIPTION:Ages: All Ages\\nCost: Free\\nDates: 4/11-6/20
+DESCRIPTION:Ages: All Ages\\nCost: Free\\nDates: 9/8-12/15
 LOCATION:Queen Anne Community Center\, 1901 1st Ave W\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:93067-sat-57@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260627T110000
-DTEND;TZID=America/Los_Angeles:20260627T140000
-RRULE:FREQ=WEEKLY;BYDAY=SA;UNTIL=20260905T235900
-SUMMARY:Basketball @ Queen Anne Community Center
-DESCRIPTION:Ages: All Ages\\nCost: Free\\nDates: 6/27-9/5
-LOCATION:Queen Anne Community Center\, 1901 1st Ave W\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:84782-tue-58@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260106T123000
-DTEND;TZID=America/Los_Angeles:20260106T164500
-RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20260327T235900
-SUMMARY:Open Gym (Basketball) @ Delridge Community Center
-DESCRIPTION:Ages: 10 and Older\\nCost: Free\\nDates: 1/6-3/27
+UID:92980-tue-44@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260908T170000
+DTEND;TZID=America/Los_Angeles:20260908T174500
+RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20261020T235900
+SUMMARY:Little Hoopers @ Delridge Community Center
+DESCRIPTION:Ages: 5-6\\nCost: $88\\nDates: 9/8-10/20
 LOCATION:Delridge Community Center\, 4501 Delridge Way SW\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:84782-thu-59@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260108T123000
-DTEND;TZID=America/Los_Angeles:20260108T170000
-RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20260327T235900
-SUMMARY:Open Gym (Basketball) @ Delridge Community Center
-DESCRIPTION:Ages: 10 and Older\\nCost: Free\\nDates: 1/6-3/27
+UID:92982-tue-45@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20261103T170000
+DTEND;TZID=America/Los_Angeles:20261103T174500
+RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20261215T235900
+SUMMARY:Little Hoopers @ Delridge Community Center
+DESCRIPTION:Ages: 5-6\\nCost: $88\\nDates: 11/3-12/15
 LOCATION:Delridge Community Center\, 4501 Delridge Way SW\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:84782-fri-60@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260109T131500
-DTEND;TZID=America/Los_Angeles:20260109T154500
-RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260327T235900
-SUMMARY:Open Gym (Basketball) @ Delridge Community Center
-DESCRIPTION:Ages: 10 and Older\\nCost: Free\\nDates: 1/6-3/27
+UID:92981-tue-46@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260908T180000
+DTEND;TZID=America/Los_Angeles:20260908T190000
+RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20261020T235900
+SUMMARY:Little Hoopers @ Delridge Community Center
+DESCRIPTION:Ages: 7-8\\nCost: $88\\nDates: 9/8-10/20
 LOCATION:Delridge Community Center\, 4501 Delridge Way SW\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:86881-mon-61@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260406T161500
-DTEND;TZID=America/Los_Angeles:20260406T194500
-RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20260612T235900
-SUMMARY:Open Gym (Basketball) @ Delridge Community Center
-DESCRIPTION:Ages: 10 and Older\\nCost: Free\\nDates: 4/6-6/12
+UID:92983-tue-47@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20261103T180000
+DTEND;TZID=America/Los_Angeles:20261103T190000
+RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20261215T235900
+SUMMARY:Little Hoopers @ Delridge Community Center
+DESCRIPTION:Ages: 7-8\\nCost: $88\\nDates: 11/3-12/15
 LOCATION:Delridge Community Center\, 4501 Delridge Way SW\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:86881-tue-62@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260407T123000
-DTEND;TZID=America/Los_Angeles:20260407T164500
-RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20260612T235900
-SUMMARY:Open Gym (Basketball) @ Delridge Community Center
-DESCRIPTION:Ages: 10 and Older\\nCost: Free\\nDates: 4/6-6/12
+UID:92976-tue-48@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260908T123000
+DTEND;TZID=America/Los_Angeles:20260908T164500
+RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20261215T235900
+SUMMARY:Basketball - Open Gym @ Delridge Community Center
+DESCRIPTION:Ages: 10 and Older\\nCost: Free\\nDates: 9/8-12/15
 LOCATION:Delridge Community Center\, 4501 Delridge Way SW\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:86881-thu-63@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260409T123000
-DTEND;TZID=America/Los_Angeles:20260409T163000
-RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20260612T235900
-SUMMARY:Open Gym (Basketball) @ Delridge Community Center
-DESCRIPTION:Ages: 10 and Older\\nCost: Free\\nDates: 4/6-6/12
+UID:92976-wed-49@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260909T131500
+DTEND;TZID=America/Los_Angeles:20260909T154500
+RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20261215T235900
+SUMMARY:Basketball - Open Gym @ Delridge Community Center
+DESCRIPTION:Ages: 10 and Older\\nCost: Free\\nDates: 9/8-12/15
 LOCATION:Delridge Community Center\, 4501 Delridge Way SW\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:86881-fri-64@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260410T131500
-DTEND;TZID=America/Los_Angeles:20260410T164500
-RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260612T235900
-SUMMARY:Open Gym (Basketball) @ Delridge Community Center
-DESCRIPTION:Ages: 10 and Older\\nCost: Free\\nDates: 4/6-6/12
+UID:92976-fri-50@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260911T143000
+DTEND;TZID=America/Los_Angeles:20260911T193000
+RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20261215T235900
+SUMMARY:Basketball - Open Gym @ Delridge Community Center
+DESCRIPTION:Ages: 10 and Older\\nCost: Free\\nDates: 9/8-12/15
 LOCATION:Delridge Community Center\, 4501 Delridge Way SW\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:86881-sat-65@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260411T150000
-DTEND;TZID=America/Los_Angeles:20260411T173000
-RRULE:FREQ=WEEKLY;BYDAY=SA;UNTIL=20260612T235900
-SUMMARY:Open Gym (Basketball) @ Delridge Community Center
-DESCRIPTION:Ages: 10 and Older\\nCost: Free\\nDates: 4/6-6/12
+UID:92976-sat-51@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260912T150000
+DTEND;TZID=America/Los_Angeles:20260912T173000
+RRULE:FREQ=WEEKLY;BYDAY=SA;UNTIL=20261215T235900
+SUMMARY:Basketball - Open Gym @ Delridge Community Center
+DESCRIPTION:Ages: 10 and Older\\nCost: Free\\nDates: 9/8-12/15
 LOCATION:Delridge Community Center\, 4501 Delridge Way SW\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:89378-mon-66@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260622T113000
-DTEND;TZID=America/Los_Angeles:20260622T134500
-RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20260815T235900
-SUMMARY:Open Gym (Basketball) @ Delridge Community Center
-DESCRIPTION:Ages: 10 and Older\\nCost: Free\\nDates: 6/22-8/15
-LOCATION:Delridge Community Center\, 4501 Delridge Way SW\, Seattle\, WA
+UID:93793-tue-52@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260915T160000
+DTEND;TZID=America/Los_Angeles:20260915T165000
+RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20261027T235900
+SUMMARY:Tiny Hoopers @ High Point Community Center
+DESCRIPTION:Ages: 3-6\\nCost: $77\\nDates: 9/15-10/27
+LOCATION:High Point Community Center\, 6920  34th Ave SW\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:89378-wed-67@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260624T113000
-DTEND;TZID=America/Los_Angeles:20260624T134500
-RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20260815T235900
-SUMMARY:Open Gym (Basketball) @ Delridge Community Center
-DESCRIPTION:Ages: 10 and Older\\nCost: Free\\nDates: 6/22-8/15
-LOCATION:Delridge Community Center\, 4501 Delridge Way SW\, Seattle\, WA
+UID:93794-tue-53@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20261103T160000
+DTEND;TZID=America/Los_Angeles:20261103T165000
+RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20261215T235900
+SUMMARY:Tiny Hoopers @ High Point Community Center
+DESCRIPTION:Ages: 3-6\\nCost: $77\\nDates: 11/3-12/15
+LOCATION:High Point Community Center\, 6920  34th Ave SW\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:89378-sat-68@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260627T150000
-DTEND;TZID=America/Los_Angeles:20260627T173000
-RRULE:FREQ=WEEKLY;BYDAY=SA;UNTIL=20260815T235900
-SUMMARY:Open Gym (Basketball) @ Delridge Community Center
-DESCRIPTION:Ages: 10 and Older\\nCost: Free\\nDates: 6/22-8/15
-LOCATION:Delridge Community Center\, 4501 Delridge Way SW\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:85297-mon-69@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260105T130000
-DTEND;TZID=America/Los_Angeles:20260105T150000
-RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20260330T235900
+UID:93898-mon-54@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260914T130000
+DTEND;TZID=America/Los_Angeles:20260914T150000
+RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20261224T235900
 SUMMARY:Open Gym - Adult @ High Point Community Center
-DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 1/5-3/30
+DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 9/8-12/24
 LOCATION:High Point Community Center\, 6920  34th Ave SW\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:85297-tue-70@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260106T130000
-DTEND;TZID=America/Los_Angeles:20260106T150000
-RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20260330T235900
+UID:93898-tue-55@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260908T130000
+DTEND;TZID=America/Los_Angeles:20260908T150000
+RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20261224T235900
 SUMMARY:Open Gym - Adult @ High Point Community Center
-DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 1/5-3/30
+DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 9/8-12/24
 LOCATION:High Point Community Center\, 6920  34th Ave SW\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:85297-thu-71@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260108T130000
-DTEND;TZID=America/Los_Angeles:20260108T150000
-RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20260330T235900
+UID:93898-thu-56@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260910T130000
+DTEND;TZID=America/Los_Angeles:20260910T150000
+RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20261224T235900
 SUMMARY:Open Gym - Adult @ High Point Community Center
-DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 1/5-3/30
+DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 9/8-12/24
 LOCATION:High Point Community Center\, 6920  34th Ave SW\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:85297-fri-72@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260109T130000
-DTEND;TZID=America/Los_Angeles:20260109T150000
-RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260330T235900
+UID:93898-fri-57@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260911T130000
+DTEND;TZID=America/Los_Angeles:20260911T150000
+RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20261224T235900
 SUMMARY:Open Gym - Adult @ High Point Community Center
-DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 1/5-3/30
+DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 9/8-12/24
 LOCATION:High Point Community Center\, 6920  34th Ave SW\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:85298-mon-73@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260105T160000
-DTEND;TZID=America/Los_Angeles:20260105T173000
-RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20260330T235900
-SUMMARY:Youth Open Gym @ High Point Community Center
-DESCRIPTION:Ages: 5 and Under\\nCost: Free\\nDates: 1/4-3/30
-LOCATION:High Point Community Center\, 6920  34th Ave SW\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:85298-tue-74@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260106T160000
-DTEND;TZID=America/Los_Angeles:20260106T173000
-RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20260330T235900
-SUMMARY:Youth Open Gym @ High Point Community Center
-DESCRIPTION:Ages: 5 and Under\\nCost: Free\\nDates: 1/4-3/30
-LOCATION:High Point Community Center\, 6920  34th Ave SW\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:85298-wed-75@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260107T160000
-DTEND;TZID=America/Los_Angeles:20260107T173000
-RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20260330T235900
-SUMMARY:Youth Open Gym @ High Point Community Center
-DESCRIPTION:Ages: 5 and Under\\nCost: Free\\nDates: 1/4-3/30
-LOCATION:High Point Community Center\, 6920  34th Ave SW\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:85298-thu-76@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260108T160000
-DTEND;TZID=America/Los_Angeles:20260108T173000
-RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20260330T235900
-SUMMARY:Youth Open Gym @ High Point Community Center
-DESCRIPTION:Ages: 5 and Under\\nCost: Free\\nDates: 1/4-3/30
-LOCATION:High Point Community Center\, 6920  34th Ave SW\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:85298-fri-77@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260109T160000
-DTEND;TZID=America/Los_Angeles:20260109T173000
-RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260330T235900
-SUMMARY:Youth Open Gym @ High Point Community Center
-DESCRIPTION:Ages: 5 and Under\\nCost: Free\\nDates: 1/4-3/30
-LOCATION:High Point Community Center\, 6920  34th Ave SW\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:85298-sun-78@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260104T150000
-DTEND;TZID=America/Los_Angeles:20260104T190000
-RRULE:FREQ=WEEKLY;BYDAY=SU;UNTIL=20260330T235900
-SUMMARY:Youth Open Gym @ High Point Community Center
-DESCRIPTION:Ages: 5 and Under\\nCost: Free\\nDates: 1/4-3/30
-LOCATION:High Point Community Center\, 6920  34th Ave SW\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:87438-mon-79@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260406T130000
-DTEND;TZID=America/Los_Angeles:20260406T150000
-RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20260612T235900
+UID:93898-sat-58@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260912T091500
+DTEND;TZID=America/Los_Angeles:20260912T111500
+RRULE:FREQ=WEEKLY;BYDAY=SA;UNTIL=20261224T235900
 SUMMARY:Open Gym - Adult @ High Point Community Center
-DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 4/6-6/12
+DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 9/8-12/24
 LOCATION:High Point Community Center\, 6920  34th Ave SW\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:87438-tue-80@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260407T130000
-DTEND;TZID=America/Los_Angeles:20260407T150000
-RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20260612T235900
-SUMMARY:Open Gym - Adult @ High Point Community Center
-DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 4/6-6/12
-LOCATION:High Point Community Center\, 6920  34th Ave SW\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:87438-thu-81@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260409T130000
-DTEND;TZID=America/Los_Angeles:20260409T150000
-RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20260612T235900
-SUMMARY:Open Gym - Adult @ High Point Community Center
-DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 4/6-6/12
-LOCATION:High Point Community Center\, 6920  34th Ave SW\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:87438-fri-82@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260410T130000
-DTEND;TZID=America/Los_Angeles:20260410T150000
-RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260612T235900
-SUMMARY:Open Gym - Adult @ High Point Community Center
-DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 4/6-6/12
-LOCATION:High Point Community Center\, 6920  34th Ave SW\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:87438-sat-83@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260411T090000
-DTEND;TZID=America/Los_Angeles:20260411T111500
-RRULE:FREQ=WEEKLY;BYDAY=SA;UNTIL=20260612T235900
-SUMMARY:Open Gym - Adult @ High Point Community Center
-DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 4/6-6/12
-LOCATION:High Point Community Center\, 6920  34th Ave SW\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:87439-sun-84@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260412T120000
-DTEND;TZID=America/Los_Angeles:20260412T133000
-RRULE:FREQ=WEEKLY;BYDAY=SU;UNTIL=20260614T235900
+UID:93900-sun-59@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260913T120000
+DTEND;TZID=America/Los_Angeles:20260913T133000
+RRULE:FREQ=WEEKLY;BYDAY=SU;UNTIL=20261227T235900
 SUMMARY:Open Gym - Family @ High Point Community Center
-DESCRIPTION:Ages: All Ages\\nCost: Free\\nDates: 4/12-6/14
+DESCRIPTION:Ages: All Ages\\nCost: Free\\nDates: 9/13-12/27
 LOCATION:High Point Community Center\, 6920  34th Ave SW\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:87440-mon-85@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260406T154500
-DTEND;TZID=America/Los_Angeles:20260406T194500
-RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20260614T235900
+UID:93954-mon-60@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260914T160000
+DTEND;TZID=America/Los_Angeles:20260914T190000
+RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20261231T235900
 SUMMARY:Open Gym - Youth @ High Point Community Center
-DESCRIPTION:Ages: 10-18\\nCost: Free\\nDates: 4/5-6/14
+DESCRIPTION:Ages: 10-18\\nCost: Free\\nDates: 9/8-12/31
 LOCATION:High Point Community Center\, 6920  34th Ave SW\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:87440-fri-86@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260410T154500
-DTEND;TZID=America/Los_Angeles:20260410T194500
-RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260614T235900
+UID:93954-fri-61@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260911T160000
+DTEND;TZID=America/Los_Angeles:20260911T190000
+RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20261231T235900
 SUMMARY:Open Gym - Youth @ High Point Community Center
-DESCRIPTION:Ages: 10-18\\nCost: Free\\nDates: 4/5-6/14
+DESCRIPTION:Ages: 10-18\\nCost: Free\\nDates: 9/8-12/31
 LOCATION:High Point Community Center\, 6920  34th Ave SW\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:87440-tue-87@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260407T174500
-DTEND;TZID=America/Los_Angeles:20260407T194500
-RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20260614T235900
+UID:93954-tue-62@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260908T170000
+DTEND;TZID=America/Los_Angeles:20260908T200000
+RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20261231T235900
 SUMMARY:Open Gym - Youth @ High Point Community Center
-DESCRIPTION:Ages: 10-18\\nCost: Free\\nDates: 4/5-6/14
+DESCRIPTION:Ages: 10-18\\nCost: Free\\nDates: 9/8-12/31
 LOCATION:High Point Community Center\, 6920  34th Ave SW\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:87440-thu-88@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260409T174500
-DTEND;TZID=America/Los_Angeles:20260409T194500
-RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20260614T235900
+UID:93954-sat-63@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260912T131500
+DTEND;TZID=America/Los_Angeles:20260912T170000
+RRULE:FREQ=WEEKLY;BYDAY=SA;UNTIL=20261231T235900
 SUMMARY:Open Gym - Youth @ High Point Community Center
-DESCRIPTION:Ages: 10-18\\nCost: Free\\nDates: 4/5-6/14
+DESCRIPTION:Ages: 10-18\\nCost: Free\\nDates: 9/8-12/31
 LOCATION:High Point Community Center\, 6920  34th Ave SW\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:87440-wed-89@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260408T154500
-DTEND;TZID=America/Los_Angeles:20260408T174500
-RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20260614T235900
+UID:93954-sun-64@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260913T140000
+DTEND;TZID=America/Los_Angeles:20260913T200000
+RRULE:FREQ=WEEKLY;BYDAY=SU;UNTIL=20261231T235900
 SUMMARY:Open Gym - Youth @ High Point Community Center
-DESCRIPTION:Ages: 10-18\\nCost: Free\\nDates: 4/5-6/14
+DESCRIPTION:Ages: 10-18\\nCost: Free\\nDates: 9/8-12/31
 LOCATION:High Point Community Center\, 6920  34th Ave SW\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:87440-sat-90@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260411T131500
-DTEND;TZID=America/Los_Angeles:20260411T170000
-RRULE:FREQ=WEEKLY;BYDAY=SA;UNTIL=20260614T235900
-SUMMARY:Open Gym - Youth @ High Point Community Center
-DESCRIPTION:Ages: 10-18\\nCost: Free\\nDates: 4/5-6/14
-LOCATION:High Point Community Center\, 6920  34th Ave SW\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:87440-sun-91@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260405T150000
-DTEND;TZID=America/Los_Angeles:20260405T190000
-RRULE:FREQ=WEEKLY;BYDAY=SU;UNTIL=20260614T235900
-SUMMARY:Open Gym - Youth @ High Point Community Center
-DESCRIPTION:Ages: 10-18\\nCost: Free\\nDates: 4/5-6/14
-LOCATION:High Point Community Center\, 6920  34th Ave SW\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:91440-mon-92@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260622T163000
-DTEND;TZID=America/Los_Angeles:20260622T200000
-RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20260906T235900
-SUMMARY:Youth Open Gym @ High Point Community Center
-DESCRIPTION:Ages: 10-18\\nCost: Free\\nDates: 6/22-9/6
-LOCATION:High Point Community Center\, 6920  34th Ave SW\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:91440-tue-93@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260623T163000
-DTEND;TZID=America/Los_Angeles:20260623T200000
-RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20260906T235900
-SUMMARY:Youth Open Gym @ High Point Community Center
-DESCRIPTION:Ages: 10-18\\nCost: Free\\nDates: 6/22-9/6
-LOCATION:High Point Community Center\, 6920  34th Ave SW\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:91440-thu-94@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260625T163000
-DTEND;TZID=America/Los_Angeles:20260625T200000
-RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20260906T235900
-SUMMARY:Youth Open Gym @ High Point Community Center
-DESCRIPTION:Ages: 10-18\\nCost: Free\\nDates: 6/22-9/6
-LOCATION:High Point Community Center\, 6920  34th Ave SW\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:91440-wed-95@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260624T173000
-DTEND;TZID=America/Los_Angeles:20260624T181500
-RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20260906T235900
-SUMMARY:Youth Open Gym @ High Point Community Center
-DESCRIPTION:Ages: 10-18\\nCost: Free\\nDates: 6/22-9/6
-LOCATION:High Point Community Center\, 6920  34th Ave SW\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:91440-fri-96@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260626T163000
-DTEND;TZID=America/Los_Angeles:20260626T190000
-RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260906T235900
-SUMMARY:Youth Open Gym @ High Point Community Center
-DESCRIPTION:Ages: 10-18\\nCost: Free\\nDates: 6/22-9/6
-LOCATION:High Point Community Center\, 6920  34th Ave SW\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:91440-sat-97@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260627T130000
-DTEND;TZID=America/Los_Angeles:20260627T170000
-RRULE:FREQ=WEEKLY;BYDAY=SA;UNTIL=20260906T235900
-SUMMARY:Youth Open Gym @ High Point Community Center
-DESCRIPTION:Ages: 10-18\\nCost: Free\\nDates: 6/22-9/6
-LOCATION:High Point Community Center\, 6920  34th Ave SW\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:91440-sun-98@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260628T120000
-DTEND;TZID=America/Los_Angeles:20260628T200000
-RRULE:FREQ=WEEKLY;BYDAY=SU;UNTIL=20260906T235900
-SUMMARY:Youth Open Gym @ High Point Community Center
-DESCRIPTION:Ages: 10-18\\nCost: Free\\nDates: 6/22-9/6
-LOCATION:High Point Community Center\, 6920  34th Ave SW\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:83956-mon-99@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260105T133000
-DTEND;TZID=America/Los_Angeles:20260105T154500
-RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20260331T235900
+UID:92926-mon-65@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260914T140000
+DTEND;TZID=America/Los_Angeles:20260914T160000
+RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20261230T235900
 SUMMARY:Basketball @ Loyal Heights Community Center
-DESCRIPTION:Ages: All Ages\\nCost: Free\\nDates: 1/2-3/31
+DESCRIPTION:Ages: All Ages\\nCost: Free\\nDates: 9/8-12/30
 LOCATION:Loyal Heights Community Center\, 2101 NW 77th St\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:83956-tue-100@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260106T153000
-DTEND;TZID=America/Los_Angeles:20260106T174500
-RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20260331T235900
+UID:92926-tue-66@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260908T140000
+DTEND;TZID=America/Los_Angeles:20260908T160000
+RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20261230T235900
 SUMMARY:Basketball @ Loyal Heights Community Center
-DESCRIPTION:Ages: All Ages\\nCost: Free\\nDates: 1/2-3/31
+DESCRIPTION:Ages: All Ages\\nCost: Free\\nDates: 9/8-12/30
 LOCATION:Loyal Heights Community Center\, 2101 NW 77th St\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:83956-wed-101@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260107T144500
-DTEND;TZID=America/Los_Angeles:20260107T174500
-RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20260331T235900
+UID:92926-wed-67@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260909T140000
+DTEND;TZID=America/Los_Angeles:20260909T160000
+RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20261230T235900
 SUMMARY:Basketball @ Loyal Heights Community Center
-DESCRIPTION:Ages: All Ages\\nCost: Free\\nDates: 1/2-3/31
+DESCRIPTION:Ages: All Ages\\nCost: Free\\nDates: 9/8-12/30
 LOCATION:Loyal Heights Community Center\, 2101 NW 77th St\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:83956-thu-102@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260108T133000
-DTEND;TZID=America/Los_Angeles:20260108T164500
-RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20260331T235900
+UID:92926-fri-68@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260911T140000
+DTEND;TZID=America/Los_Angeles:20260911T160000
+RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20261230T235900
 SUMMARY:Basketball @ Loyal Heights Community Center
-DESCRIPTION:Ages: All Ages\\nCost: Free\\nDates: 1/2-3/31
+DESCRIPTION:Ages: All Ages\\nCost: Free\\nDates: 9/8-12/30
 LOCATION:Loyal Heights Community Center\, 2101 NW 77th St\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:83956-fri-103@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260102T140000
-DTEND;TZID=America/Los_Angeles:20260102T164500
-RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260331T235900
-SUMMARY:Basketball @ Loyal Heights Community Center
-DESCRIPTION:Ages: All Ages\\nCost: Free\\nDates: 1/2-3/31
-LOCATION:Loyal Heights Community Center\, 2101 NW 77th St\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:85303-tue-104@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260106T090000
-DTEND;TZID=America/Los_Angeles:20260106T095500
-RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20260331T235900
-SUMMARY:Women's Basketball @ Loyal Heights Community Center
-DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 1/6-3/31
-LOCATION:Loyal Heights Community Center\, 2101 NW 77th St\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:83957-fri-105@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260109T090000
-DTEND;TZID=America/Los_Angeles:20260109T100000
-RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260327T235900
-SUMMARY:Women's Basketball @ Loyal Heights Community Center
-DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 1/9-3/27
-LOCATION:Loyal Heights Community Center\, 2101 NW 77th St\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:85128-mon-106@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260112T160000
-DTEND;TZID=America/Los_Angeles:20260112T170000
-RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20260302T235900
-SUMMARY:Lil Hot Shots Basketball @ Loyal Heights Community Center
-DESCRIPTION:Ages: 6-7\\nCost: $121\\nDates: 1/12-3/2
-LOCATION:Loyal Heights Community Center\, 2101 NW 77th St\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:87631-mon-107@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260406T140000
-DTEND;TZID=America/Los_Angeles:20260406T163000
-RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20260626T235900
-SUMMARY:Basketball for Adults/Youth @ Loyal Heights Community Center
-DESCRIPTION:Ages: All Ages\\nCost: Free\\nDates: 4/3-6/26
-LOCATION:Loyal Heights Community Center\, 2101 NW 77th St\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:87631-fri-108@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260403T140000
-DTEND;TZID=America/Los_Angeles:20260403T163000
-RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260626T235900
-SUMMARY:Basketball for Adults/Youth @ Loyal Heights Community Center
-DESCRIPTION:Ages: All Ages\\nCost: Free\\nDates: 4/3-6/26
-LOCATION:Loyal Heights Community Center\, 2101 NW 77th St\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:87167-tue-109@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260407T090000
-DTEND;TZID=America/Los_Angeles:20260407T100000
-RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20260626T235900
-SUMMARY:Women's Basketball @ Loyal Heights Community Center
-DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 4/3-6/26
-LOCATION:Loyal Heights Community Center\, 2101 NW 77th St\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:87167-fri-110@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260403T090000
-DTEND;TZID=America/Los_Angeles:20260403T100000
-RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260626T235900
-SUMMARY:Women's Basketball @ Loyal Heights Community Center
-DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 4/3-6/26
-LOCATION:Loyal Heights Community Center\, 2101 NW 77th St\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:87864-tue-111@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260714T090000
-DTEND;TZID=America/Los_Angeles:20260714T100000
-RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20260904T235900
-SUMMARY:Basketball (Women's) @ Loyal Heights Community Center
-DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 7/10-9/4
-LOCATION:Loyal Heights Community Center\, 2101 NW 77th St\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:87864-fri-112@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260710T090000
-DTEND;TZID=America/Los_Angeles:20260710T100000
-RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260904T235900
-SUMMARY:Basketball (Women's) @ Loyal Heights Community Center
-DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 7/10-9/4
-LOCATION:Loyal Heights Community Center\, 2101 NW 77th St\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:91511-tue-113@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260707T140000
-DTEND;TZID=America/Los_Angeles:20260707T170000
-RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20260828T235900
-SUMMARY:Basketball (Adults/Youth) @ Loyal Heights Community Center
-DESCRIPTION:Ages: All Ages\\nCost: Free\\nDates: 7/7-8/28
-LOCATION:Loyal Heights Community Center\, 2101 NW 77th St\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:91511-wed-114@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260708T140000
-DTEND;TZID=America/Los_Angeles:20260708T170000
-RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20260828T235900
-SUMMARY:Basketball (Adults/Youth) @ Loyal Heights Community Center
-DESCRIPTION:Ages: All Ages\\nCost: Free\\nDates: 7/7-8/28
-LOCATION:Loyal Heights Community Center\, 2101 NW 77th St\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:91511-fri-115@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260710T140000
-DTEND;TZID=America/Los_Angeles:20260710T170000
-RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260828T235900
-SUMMARY:Basketball (Adults/Youth) @ Loyal Heights Community Center
-DESCRIPTION:Ages: All Ages\\nCost: Free\\nDates: 7/7-8/28
-LOCATION:Loyal Heights Community Center\, 2101 NW 77th St\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:85311-fri-116@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260109T173000
-DTEND;TZID=America/Los_Angeles:20260109T181500
-RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260206T235900
-SUMMARY:Junior Hoopers @ Yesler Community Center
-DESCRIPTION:Ages: 6-7\\nCost: $40\\nDates: 1/9-2/6
+UID:94254-mon-69@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260907T160000
+DTEND;TZID=America/Los_Angeles:20260907T180000
+RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20260930T235900
+SUMMARY:Drills and Skills @ Yesler Community Center
+DESCRIPTION:Ages: 10-17\\nCost: $61\\nDates: 9/1-9/30
 LOCATION:Yesler Community Center\, 917  E Yesler Way\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:85787-fri-117@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260213T173000
-DTEND;TZID=America/Los_Angeles:20260213T181500
-RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260306T235900
-SUMMARY:Junior Hoopers @ Yesler Community Center
-DESCRIPTION:Ages: 6-7\\nCost: $40\\nDates: 2/13-3/6
+UID:94254-tue-70@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260901T160000
+DTEND;TZID=America/Los_Angeles:20260901T180000
+RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20260930T235900
+SUMMARY:Drills and Skills @ Yesler Community Center
+DESCRIPTION:Ages: 10-17\\nCost: $61\\nDates: 9/1-9/30
 LOCATION:Yesler Community Center\, 917  E Yesler Way\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:85312-fri-118@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260109T163000
-DTEND;TZID=America/Los_Angeles:20260109T171500
-RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260206T235900
-SUMMARY:Little Hoopers @ Yesler Community Center
-DESCRIPTION:Ages: 3-5\\nCost: $40\\nDates: 1/9-2/6
+UID:94254-wed-71@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260902T160000
+DTEND;TZID=America/Los_Angeles:20260902T180000
+RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20260930T235900
+SUMMARY:Drills and Skills @ Yesler Community Center
+DESCRIPTION:Ages: 10-17\\nCost: $61\\nDates: 9/1-9/30
 LOCATION:Yesler Community Center\, 917  E Yesler Way\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:85313-fri-119@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260213T163000
-DTEND;TZID=America/Los_Angeles:20260213T171500
-RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260306T235900
-SUMMARY:Little Hoopers @ Yesler Community Center
-DESCRIPTION:Ages: 3-5\\nCost: $40\\nDates: 2/13-3/6
+UID:94254-thu-72@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260903T160000
+DTEND;TZID=America/Los_Angeles:20260903T180000
+RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20260930T235900
+SUMMARY:Drills and Skills @ Yesler Community Center
+DESCRIPTION:Ages: 10-17\\nCost: $61\\nDates: 9/1-9/30
 LOCATION:Yesler Community Center\, 917  E Yesler Way\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:85310-wed-120@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260107T140000
-DTEND;TZID=America/Los_Angeles:20260107T155000
-RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20260325T235900
-SUMMARY:Open Gym - Youth @ Yesler Community Center
-DESCRIPTION:Ages: 12-18\\nCost: Free\\nDates: 1/7-3/25
+UID:94053-mon-73@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20261005T160000
+DTEND;TZID=America/Los_Angeles:20261005T180000
+RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20261029T235900
+SUMMARY:Drills and Skills @ Yesler Community Center
+DESCRIPTION:Ages: 10-17\\nCost: $61\\nDates: 10/1-10/29
 LOCATION:Yesler Community Center\, 917  E Yesler Way\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:85307-fri-121@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260102T120000
-DTEND;TZID=America/Los_Angeles:20260102T160000
-RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260327T235900
-SUMMARY:Open Gym - All Ages @ Yesler Community Center
-DESCRIPTION:Ages: All Ages\\nCost: Free\\nDates: 1/2-3/27
+UID:94053-tue-74@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20261006T160000
+DTEND;TZID=America/Los_Angeles:20261006T180000
+RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20261029T235900
+SUMMARY:Drills and Skills @ Yesler Community Center
+DESCRIPTION:Ages: 10-17\\nCost: $61\\nDates: 10/1-10/29
 LOCATION:Yesler Community Center\, 917  E Yesler Way\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:88035-wed-122@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260401T140000
-DTEND;TZID=America/Los_Angeles:20260401T155000
-RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20260617T235900
-SUMMARY:Open Gym - Youth @ Yesler Community Center
-DESCRIPTION:Ages: 12-18\\nCost: Free\\nDates: 4/1-6/17
+UID:94053-wed-75@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20261007T160000
+DTEND;TZID=America/Los_Angeles:20261007T180000
+RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20261029T235900
+SUMMARY:Drills and Skills @ Yesler Community Center
+DESCRIPTION:Ages: 10-17\\nCost: $61\\nDates: 10/1-10/29
 LOCATION:Yesler Community Center\, 917  E Yesler Way\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:88031-fri-123@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260403T120000
-DTEND;TZID=America/Los_Angeles:20260403T160000
-RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260612T235900
-SUMMARY:Open Gym - All Ages @ Yesler Community Center
-DESCRIPTION:Ages: All Ages\\nCost: Free\\nDates: 4/3-6/12
+UID:94053-thu-76@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20261001T160000
+DTEND;TZID=America/Los_Angeles:20261001T180000
+RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20261029T235900
+SUMMARY:Drills and Skills @ Yesler Community Center
+DESCRIPTION:Ages: 10-17\\nCost: $61\\nDates: 10/1-10/29
 LOCATION:Yesler Community Center\, 917  E Yesler Way\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:89819-sat-124@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260627T083000
-DTEND;TZID=America/Los_Angeles:20260627T105500
-RRULE:FREQ=WEEKLY;BYDAY=SA;UNTIL=20260905T235900
+UID:94055-mon-77@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20261102T160000
+DTEND;TZID=America/Los_Angeles:20261102T180000
+RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20261130T235900
+SUMMARY:Drills and Skills @ Yesler Community Center
+DESCRIPTION:Ages: 10-17\\nCost: $57\\nDates: 11/2-11/30
+LOCATION:Yesler Community Center\, 917  E Yesler Way\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:94055-tue-78@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20261103T160000
+DTEND;TZID=America/Los_Angeles:20261103T180000
+RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20261130T235900
+SUMMARY:Drills and Skills @ Yesler Community Center
+DESCRIPTION:Ages: 10-17\\nCost: $57\\nDates: 11/2-11/30
+LOCATION:Yesler Community Center\, 917  E Yesler Way\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:94055-wed-79@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20261104T160000
+DTEND;TZID=America/Los_Angeles:20261104T180000
+RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20261130T235900
+SUMMARY:Drills and Skills @ Yesler Community Center
+DESCRIPTION:Ages: 10-17\\nCost: $57\\nDates: 11/2-11/30
+LOCATION:Yesler Community Center\, 917  E Yesler Way\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:94055-thu-80@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20261105T160000
+DTEND;TZID=America/Los_Angeles:20261105T180000
+RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20261130T235900
+SUMMARY:Drills and Skills @ Yesler Community Center
+DESCRIPTION:Ages: 10-17\\nCost: $57\\nDates: 11/2-11/30
+LOCATION:Yesler Community Center\, 917  E Yesler Way\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:94054-mon-81@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20261207T160000
+DTEND;TZID=America/Los_Angeles:20261207T180000
+RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20261217T235900
+SUMMARY:Drills and Skills @ Yesler Community Center
+DESCRIPTION:Ages: 10-17\\nCost: $38\\nDates: 12/1-12/17
+LOCATION:Yesler Community Center\, 917  E Yesler Way\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:94054-tue-82@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20261201T160000
+DTEND;TZID=America/Los_Angeles:20261201T180000
+RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20261217T235900
+SUMMARY:Drills and Skills @ Yesler Community Center
+DESCRIPTION:Ages: 10-17\\nCost: $38\\nDates: 12/1-12/17
+LOCATION:Yesler Community Center\, 917  E Yesler Way\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:94054-wed-83@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20261202T160000
+DTEND;TZID=America/Los_Angeles:20261202T180000
+RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20261217T235900
+SUMMARY:Drills and Skills @ Yesler Community Center
+DESCRIPTION:Ages: 10-17\\nCost: $38\\nDates: 12/1-12/17
+LOCATION:Yesler Community Center\, 917  E Yesler Way\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:94054-thu-84@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20261203T160000
+DTEND;TZID=America/Los_Angeles:20261203T180000
+RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20261217T235900
+SUMMARY:Drills and Skills @ Yesler Community Center
+DESCRIPTION:Ages: 10-17\\nCost: $38\\nDates: 12/1-12/17
+LOCATION:Yesler Community Center\, 917  E Yesler Way\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:94258-sat-85@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260905T083000
+DTEND;TZID=America/Los_Angeles:20260905T105500
+RRULE:FREQ=WEEKLY;BYDAY=SA;UNTIL=20261226T235900
 SUMMARY:Adult Basketball @ Yesler Community Center
-DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 6/27-9/5
+DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 9/5-12/26
 LOCATION:Yesler Community Center\, 917  E Yesler Way\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:89716-mon-125@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260706T090000
-DTEND;TZID=America/Los_Angeles:20260706T150000
-RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20260828T235900
-SUMMARY:Drills and Skills Basketball Camp @ Yesler Community Center
-DESCRIPTION:Ages: 10-18\\nCost: $369\\nDates: 7/6-8/28
+UID:94066-wed-86@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260902T140000
+DTEND;TZID=America/Los_Angeles:20260902T155000
+RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20261230T235900
+SUMMARY:Open Gym - Youth @ Yesler Community Center
+DESCRIPTION:Ages: 12-18\\nCost: Free\\nDates: 9/2-12/30
 LOCATION:Yesler Community Center\, 917  E Yesler Way\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:89716-tue-126@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260707T090000
-DTEND;TZID=America/Los_Angeles:20260707T150000
-RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20260828T235900
-SUMMARY:Drills and Skills Basketball Camp @ Yesler Community Center
-DESCRIPTION:Ages: 10-18\\nCost: $369\\nDates: 7/6-8/28
+UID:94066-sat-87@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260905T110000
+DTEND;TZID=America/Los_Angeles:20260905T115500
+RRULE:FREQ=WEEKLY;BYDAY=SA;UNTIL=20261230T235900
+SUMMARY:Open Gym - Youth @ Yesler Community Center
+DESCRIPTION:Ages: 12-18\\nCost: Free\\nDates: 9/2-12/30
 LOCATION:Yesler Community Center\, 917  E Yesler Way\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:89716-wed-127@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260708T090000
-DTEND;TZID=America/Los_Angeles:20260708T150000
-RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20260828T235900
-SUMMARY:Drills and Skills Basketball Camp @ Yesler Community Center
-DESCRIPTION:Ages: 10-18\\nCost: $369\\nDates: 7/6-8/28
+UID:94062-fri-88@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260911T120000
+DTEND;TZID=America/Los_Angeles:20260911T160000
+RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20261218T235900
+SUMMARY:Open Gym - Adult @ Yesler Community Center
+DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 9/11-12/18
 LOCATION:Yesler Community Center\, 917  E Yesler Way\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:89716-thu-128@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260709T090000
-DTEND;TZID=America/Los_Angeles:20260709T150000
-RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20260828T235900
-SUMMARY:Drills and Skills Basketball Camp @ Yesler Community Center
-DESCRIPTION:Ages: 10-18\\nCost: $369\\nDates: 7/6-8/28
+UID:94062-fri-89@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260911T160000
+DTEND;TZID=America/Los_Angeles:20260911T184500
+RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20261218T235900
+SUMMARY:Open Gym - All Ages @ Yesler Community Center
+DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 9/11-12/18
 LOCATION:Yesler Community Center\, 917  E Yesler Way\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:89716-fri-129@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260710T090000
-DTEND;TZID=America/Los_Angeles:20260710T150000
-RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260828T235900
-SUMMARY:Drills and Skills Basketball Camp @ Yesler Community Center
-DESCRIPTION:Ages: 10-18\\nCost: $369\\nDates: 7/6-8/28
-LOCATION:Yesler Community Center\, 917  E Yesler Way\, Seattle\, WA
+UID:93275-wed-90@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260916T170000
+DTEND;TZID=America/Los_Angeles:20260916T174500
+RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20261118T235900
+SUMMARY:Little Hoopers @ Ravenna-Eckstein Community Center
+DESCRIPTION:Ages: 5-6\\nCost: $80\\nDates: 9/16-11/18
+LOCATION:Ravenna-Eckstein Community Center\, 6535 Ravenna Ave NE\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:86237-mon-130@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260105T124500
-DTEND;TZID=America/Los_Angeles:20260105T144500
-RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20260330T235900
+UID:93276-wed-91@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260916T180000
+DTEND;TZID=America/Los_Angeles:20260916T184500
+RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20261118T235900
+SUMMARY:Little Hoopers @ Ravenna-Eckstein Community Center
+DESCRIPTION:Ages: 8-11\\nCost: $80\\nDates: 9/16-11/18
+LOCATION:Ravenna-Eckstein Community Center\, 6535 Ravenna Ave NE\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:93259-mon-92@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260914T130000
+DTEND;TZID=America/Los_Angeles:20260914T170000
+RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20261214T235900
 SUMMARY:Open Gym @ Ravenna-Eckstein Community Center
-DESCRIPTION:Ages: 12 and Older\\nCost: Free\\nDates: 1/5-3/30
+DESCRIPTION:Ages: 12 and Older\\nCost: Free\\nDates: 9/14-12/14
 LOCATION:Ravenna-Eckstein Community Center\, 6535 Ravenna Ave NE\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:86237-thu-131@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260108T124500
-DTEND;TZID=America/Los_Angeles:20260108T144500
-RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20260330T235900
+UID:93259-tue-93@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260915T140000
+DTEND;TZID=America/Los_Angeles:20260915T163000
+RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20261214T235900
 SUMMARY:Open Gym @ Ravenna-Eckstein Community Center
-DESCRIPTION:Ages: 12 and Older\\nCost: Free\\nDates: 1/5-3/30
+DESCRIPTION:Ages: 12 and Older\\nCost: Free\\nDates: 9/14-12/14
 LOCATION:Ravenna-Eckstein Community Center\, 6535 Ravenna Ave NE\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:86237-wed-132@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260107T170000
-DTEND;TZID=America/Los_Angeles:20260107T193000
-RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20260330T235900
+UID:93259-thu-94@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260917T130000
+DTEND;TZID=America/Los_Angeles:20260917T153000
+RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20261214T235900
 SUMMARY:Open Gym @ Ravenna-Eckstein Community Center
-DESCRIPTION:Ages: 12 and Older\\nCost: Free\\nDates: 1/5-3/30
+DESCRIPTION:Ages: 12 and Older\\nCost: Free\\nDates: 9/14-12/14
 LOCATION:Ravenna-Eckstein Community Center\, 6535 Ravenna Ave NE\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:87391-wed-133@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260204T170000
-DTEND;TZID=America/Los_Angeles:20260204T174500
-RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20260325T235900
-SUMMARY:Basketball: Little Hoopers @ Ravenna-Eckstein Community Center
-DESCRIPTION:Ages: 5-7\\nCost: $77\\nDates: 2/4-3/25
-LOCATION:Ravenna-Eckstein Community Center\, 6535 Ravenna Ave NE\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:87392-wed-134@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260204T174500
-DTEND;TZID=America/Los_Angeles:20260204T183000
-RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20260325T235900
-SUMMARY:Basketball: Little Hoopers @ Ravenna-Eckstein Community Center
-DESCRIPTION:Ages: 5-7\\nCost: $77\\nDates: 2/4-3/25
-LOCATION:Ravenna-Eckstein Community Center\, 6535 Ravenna Ave NE\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:88321-mon-135@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260406T124500
-DTEND;TZID=America/Los_Angeles:20260406T151500
-RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20260625T235900
+UID:93259-thu-95@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260917T170000
+DTEND;TZID=America/Los_Angeles:20260917T193000
+RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20261214T235900
 SUMMARY:Open Gym @ Ravenna-Eckstein Community Center
-DESCRIPTION:Ages: 12 and Older\\nCost: Free\\nDates: 4/6-6/25
+DESCRIPTION:Ages: 12 and Older\\nCost: Free\\nDates: 9/14-12/14
 LOCATION:Ravenna-Eckstein Community Center\, 6535 Ravenna Ave NE\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:88321-tue-136@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260407T141500
-DTEND;TZID=America/Los_Angeles:20260407T164500
-RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20260625T235900
+UID:93259-fri-96@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260918T150000
+DTEND;TZID=America/Los_Angeles:20260918T180000
+RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20261214T235900
 SUMMARY:Open Gym @ Ravenna-Eckstein Community Center
-DESCRIPTION:Ages: 12 and Older\\nCost: Free\\nDates: 4/6-6/25
+DESCRIPTION:Ages: 12 and Older\\nCost: Free\\nDates: 9/14-12/14
 LOCATION:Ravenna-Eckstein Community Center\, 6535 Ravenna Ave NE\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:88321-sat-137@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260411T114500
-DTEND;TZID=America/Los_Angeles:20260411T164500
-RRULE:FREQ=WEEKLY;BYDAY=SA;UNTIL=20260625T235900
+UID:93259-sat-97@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260919T120000
+DTEND;TZID=America/Los_Angeles:20260919T163000
+RRULE:FREQ=WEEKLY;BYDAY=SA;UNTIL=20261214T235900
 SUMMARY:Open Gym @ Ravenna-Eckstein Community Center
-DESCRIPTION:Ages: 12 and Older\\nCost: Free\\nDates: 4/6-6/25
+DESCRIPTION:Ages: 12 and Older\\nCost: Free\\nDates: 9/14-12/14
 LOCATION:Ravenna-Eckstein Community Center\, 6535 Ravenna Ave NE\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:88214-fri-138@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260403T163000
-DTEND;TZID=America/Los_Angeles:20260403T171500
-RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260612T235900
-SUMMARY:Basketball: Little Hoopers @ Ravenna-Eckstein Community Center
-DESCRIPTION:Ages: 5-7\\nCost: $86\\nDates: 4/3-6/12
-LOCATION:Ravenna-Eckstein Community Center\, 6535 Ravenna Ave NE\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:88215-fri-139@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260403T173000
-DTEND;TZID=America/Los_Angeles:20260403T181500
-RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260612T235900
-SUMMARY:Basketball: Little Hoopers @ Ravenna-Eckstein Community Center
-DESCRIPTION:Ages: 8-11\\nCost: $86\\nDates: 4/3-6/12
-LOCATION:Ravenna-Eckstein Community Center\, 6535 Ravenna Ave NE\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:84342-mon-140@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260112T140000
-DTEND;TZID=America/Los_Angeles:20260112T153000
-RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20260331T235900
-SUMMARY:Basketball - Adult @ Magnuson Community Center
-DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 1/6-3/31
+UID:92670-thu-98@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260910T173000
+DTEND;TZID=America/Los_Angeles:20260910T181500
+RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20261015T235900
+SUMMARY:Little Dribblers @ Magnuson Community Center
+DESCRIPTION:Ages: 5-7\\nCost: $60\\nDates: 9/10-10/15
 LOCATION:Magnuson Community Center\, 7110 62nd Ave NE\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:84342-tue-141@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260106T140000
-DTEND;TZID=America/Los_Angeles:20260106T153000
-RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20260331T235900
-SUMMARY:Basketball - Adult @ Magnuson Community Center
-DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 1/6-3/31
+UID:93925-thu-99@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20261022T173000
+DTEND;TZID=America/Los_Angeles:20261022T181500
+RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20261119T235900
+SUMMARY:Little Dribblers @ Magnuson Community Center
+DESCRIPTION:Ages: 5-7\\nCost: $60\\nDates: 10/22-11/19
 LOCATION:Magnuson Community Center\, 7110 62nd Ave NE\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:84342-wed-142@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260107T140000
-DTEND;TZID=America/Los_Angeles:20260107T153000
-RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20260331T235900
-SUMMARY:Basketball - Adult @ Magnuson Community Center
-DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 1/6-3/31
+UID:92671-thu-100@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260910T183000
+DTEND;TZID=America/Los_Angeles:20260910T191500
+RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20261015T235900
+SUMMARY:Little Hoopers @ Magnuson Community Center
+DESCRIPTION:Ages: 8-11\\nCost: $60\\nDates: 9/10-10/15
 LOCATION:Magnuson Community Center\, 7110 62nd Ave NE\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:84342-thu-143@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260108T140000
-DTEND;TZID=America/Los_Angeles:20260108T153000
-RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20260331T235900
-SUMMARY:Basketball - Adult @ Magnuson Community Center
-DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 1/6-3/31
+UID:93926-thu-101@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20261022T183000
+DTEND;TZID=America/Los_Angeles:20261022T191500
+RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20261119T235900
+SUMMARY:Little Hoopers @ Magnuson Community Center
+DESCRIPTION:Ages: 8-11\\nCost: $60\\nDates: 10/22-11/19
 LOCATION:Magnuson Community Center\, 7110 62nd Ave NE\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:84342-fri-144@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260109T140000
-DTEND;TZID=America/Los_Angeles:20260109T153000
-RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260331T235900
+UID:92656-mon-102@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260914T140000
+DTEND;TZID=America/Los_Angeles:20260914T153000
+RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20261229T235900
 SUMMARY:Basketball - Adult @ Magnuson Community Center
-DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 1/6-3/31
+DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 9/8-12/29
 LOCATION:Magnuson Community Center\, 7110 62nd Ave NE\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:86764-mon-145@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260330T140000
-DTEND;TZID=America/Los_Angeles:20260330T153000
-RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20260618T235900
+UID:92656-tue-103@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260908T140000
+DTEND;TZID=America/Los_Angeles:20260908T153000
+RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20261229T235900
 SUMMARY:Basketball - Adult @ Magnuson Community Center
-DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 3/30-6/18
+DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 9/8-12/29
 LOCATION:Magnuson Community Center\, 7110 62nd Ave NE\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:86764-tue-146@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260331T140000
-DTEND;TZID=America/Los_Angeles:20260331T153000
-RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20260618T235900
+UID:92656-fri-104@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260911T140000
+DTEND;TZID=America/Los_Angeles:20260911T153000
+RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20261229T235900
 SUMMARY:Basketball - Adult @ Magnuson Community Center
-DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 3/30-6/18
+DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 9/8-12/29
 LOCATION:Magnuson Community Center\, 7110 62nd Ave NE\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:86764-wed-147@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260401T140000
-DTEND;TZID=America/Los_Angeles:20260401T153000
-RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20260618T235900
+UID:92656-wed-105@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260909T120000
+DTEND;TZID=America/Los_Angeles:20260909T151500
+RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20261229T235900
 SUMMARY:Basketball - Adult @ Magnuson Community Center
-DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 3/30-6/18
+DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 9/8-12/29
 LOCATION:Magnuson Community Center\, 7110 62nd Ave NE\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:86764-fri-148@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260403T140000
-DTEND;TZID=America/Los_Angeles:20260403T153000
-RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260618T235900
-SUMMARY:Basketball - Adult @ Magnuson Community Center
-DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 3/30-6/18
-LOCATION:Magnuson Community Center\, 7110 62nd Ave NE\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:86766-mon-149@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260406T154500
-DTEND;TZID=America/Los_Angeles:20260406T171500
-RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20260618T235900
+UID:92663-mon-106@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260914T154500
+DTEND;TZID=America/Los_Angeles:20260914T171500
+RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20261228T235900
 SUMMARY:Basketball - Teen @ Magnuson Community Center
-DESCRIPTION:Ages: 12-17\\nCost: Free\\nDates: 4/6-6/18
+DESCRIPTION:Ages: 12-17\\nCost: Free\\nDates: 9/14-12/28
 LOCATION:Magnuson Community Center\, 7110 62nd Ave NE\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:86766-tue-150@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260407T154500
-DTEND;TZID=America/Los_Angeles:20260407T171500
-RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20260618T235900
+UID:92663-tue-107@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260915T154500
+DTEND;TZID=America/Los_Angeles:20260915T171500
+RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20261228T235900
 SUMMARY:Basketball - Teen @ Magnuson Community Center
-DESCRIPTION:Ages: 12-17\\nCost: Free\\nDates: 4/6-6/18
+DESCRIPTION:Ages: 12-17\\nCost: Free\\nDates: 9/14-12/28
 LOCATION:Magnuson Community Center\, 7110 62nd Ave NE\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:86766-wed-151@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260408T154500
-DTEND;TZID=America/Los_Angeles:20260408T171500
-RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20260618T235900
+UID:92663-wed-108@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260916T153000
+DTEND;TZID=America/Los_Angeles:20260916T174500
+RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20261228T235900
 SUMMARY:Basketball - Teen @ Magnuson Community Center
-DESCRIPTION:Ages: 12-17\\nCost: Free\\nDates: 4/6-6/18
+DESCRIPTION:Ages: 12-17\\nCost: Free\\nDates: 9/14-12/28
 LOCATION:Magnuson Community Center\, 7110 62nd Ave NE\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:86766-thu-152@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260409T154500
-DTEND;TZID=America/Los_Angeles:20260409T171500
-RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20260618T235900
+UID:92663-thu-109@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260917T154500
+DTEND;TZID=America/Los_Angeles:20260917T171500
+RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20261228T235900
 SUMMARY:Basketball - Teen @ Magnuson Community Center
-DESCRIPTION:Ages: 12-17\\nCost: Free\\nDates: 4/6-6/18
+DESCRIPTION:Ages: 12-17\\nCost: Free\\nDates: 9/14-12/28
 LOCATION:Magnuson Community Center\, 7110 62nd Ave NE\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:86766-fri-153@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260410T154500
-DTEND;TZID=America/Los_Angeles:20260410T171500
-RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260618T235900
+UID:92663-fri-110@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260918T154500
+DTEND;TZID=America/Los_Angeles:20260918T194500
+RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20261228T235900
 SUMMARY:Basketball - Teen @ Magnuson Community Center
-DESCRIPTION:Ages: 12-17\\nCost: Free\\nDates: 4/6-6/18
+DESCRIPTION:Ages: 12-17\\nCost: Free\\nDates: 9/14-12/28
 LOCATION:Magnuson Community Center\, 7110 62nd Ave NE\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:90060-mon-154@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260706T161500
-DTEND;TZID=America/Los_Angeles:20260706T181500
-RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20260904T235900
-SUMMARY:Teen Basketball @ Magnuson Community Center
-DESCRIPTION:Ages: 12-17\\nCost: Free\\nDates: 7/6-9/4
+UID:92658-sat-111@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260919T123000
+DTEND;TZID=America/Los_Angeles:20260919T141500
+RRULE:FREQ=WEEKLY;BYDAY=SA;UNTIL=20261226T235900
+SUMMARY:Family Open Gym @ Magnuson Community Center
+DESCRIPTION:Ages: All Ages\\nCost: Free\\nDates: 9/19-12/26
 LOCATION:Magnuson Community Center\, 7110 62nd Ave NE\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:90060-tue-155@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260707T161500
-DTEND;TZID=America/Los_Angeles:20260707T181500
-RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20260904T235900
-SUMMARY:Teen Basketball @ Magnuson Community Center
-DESCRIPTION:Ages: 12-17\\nCost: Free\\nDates: 7/6-9/4
+UID:92658-tue-112@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260922T171500
+DTEND;TZID=America/Los_Angeles:20260922T181500
+RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20261226T235900
+SUMMARY:Family Open Gym @ Magnuson Community Center
+DESCRIPTION:Ages: All Ages\\nCost: Free\\nDates: 9/19-12/26
 LOCATION:Magnuson Community Center\, 7110 62nd Ave NE\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:90060-wed-156@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260708T161500
-DTEND;TZID=America/Los_Angeles:20260708T181500
-RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20260904T235900
-SUMMARY:Teen Basketball @ Magnuson Community Center
-DESCRIPTION:Ages: 12-17\\nCost: Free\\nDates: 7/6-9/4
-LOCATION:Magnuson Community Center\, 7110 62nd Ave NE\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:90060-thu-157@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260709T161500
-DTEND;TZID=America/Los_Angeles:20260709T181500
-RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20260904T235900
-SUMMARY:Teen Basketball @ Magnuson Community Center
-DESCRIPTION:Ages: 12-17\\nCost: Free\\nDates: 7/6-9/4
-LOCATION:Magnuson Community Center\, 7110 62nd Ave NE\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:90060-fri-158@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260710T161500
-DTEND;TZID=America/Los_Angeles:20260710T181500
-RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260904T235900
-SUMMARY:Teen Basketball @ Magnuson Community Center
-DESCRIPTION:Ages: 12-17\\nCost: Free\\nDates: 7/6-9/4
-LOCATION:Magnuson Community Center\, 7110 62nd Ave NE\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:89557-mon-159@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260406T153000
-DTEND;TZID=America/Los_Angeles:20260406T173000
-RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20260612T235900
-SUMMARY:Basketball @ Hiawatha Community Center
-DESCRIPTION:Ages: 10 and Older\\nCost: Free\\nDates: 4/6-6/12
+UID:93522-tue-113@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260915T121500
+DTEND;TZID=America/Los_Angeles:20260915T130000
+RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20261006T235900
+SUMMARY:Little Hoopers @ Hiawatha Community Center
+DESCRIPTION:Ages: 3-5\\nCost: $85\\nDates: 9/15-10/6
 LOCATION:Hiawatha Community Center\, 2700 California Ave SW\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:89557-tue-160@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260407T153000
-DTEND;TZID=America/Los_Angeles:20260407T173000
-RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20260612T235900
-SUMMARY:Basketball @ Hiawatha Community Center
-DESCRIPTION:Ages: 10 and Older\\nCost: Free\\nDates: 4/6-6/12
+UID:94934-tue-114@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20261013T121500
+DTEND;TZID=America/Los_Angeles:20261013T130000
+RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20261103T235900
+SUMMARY:Little Hoopers @ Hiawatha Community Center
+DESCRIPTION:Ages: 3-5\\nCost: $85\\nDates: 10/13-11/3
 LOCATION:Hiawatha Community Center\, 2700 California Ave SW\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:89557-wed-161@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260408T153000
-DTEND;TZID=America/Los_Angeles:20260408T173000
-RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20260612T235900
-SUMMARY:Basketball @ Hiawatha Community Center
-DESCRIPTION:Ages: 10 and Older\\nCost: Free\\nDates: 4/6-6/12
+UID:94935-tue-115@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20261110T121500
+DTEND;TZID=America/Los_Angeles:20261110T130000
+RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20261208T235900
+SUMMARY:Little Hoopers @ Hiawatha Community Center
+DESCRIPTION:Ages: 3-5\\nCost: $85\\nDates: 11/10-12/8
 LOCATION:Hiawatha Community Center\, 2700 California Ave SW\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:89557-thu-162@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260409T153000
-DTEND;TZID=America/Los_Angeles:20260409T173000
-RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20260612T235900
-SUMMARY:Basketball @ Hiawatha Community Center
-DESCRIPTION:Ages: 10 and Older\\nCost: Free\\nDates: 4/6-6/12
+UID:93508-mon-116@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260914T130000
+DTEND;TZID=America/Los_Angeles:20260914T150000
+RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20261210T235900
+SUMMARY:Basketball - Adult @ Hiawatha Community Center
+DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 9/8-12/10
 LOCATION:Hiawatha Community Center\, 2700 California Ave SW\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:89557-fri-163@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260410T153000
-DTEND;TZID=America/Los_Angeles:20260410T173000
-RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260612T235900
-SUMMARY:Basketball @ Hiawatha Community Center
-DESCRIPTION:Ages: 10 and Older\\nCost: Free\\nDates: 4/6-6/12
+UID:93508-tue-117@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260908T130000
+DTEND;TZID=America/Los_Angeles:20260908T150000
+RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20261210T235900
+SUMMARY:Basketball - Adult @ Hiawatha Community Center
+DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 9/8-12/10
 LOCATION:Hiawatha Community Center\, 2700 California Ave SW\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:93054-mon-164@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260622T163000
-DTEND;TZID=America/Los_Angeles:20260622T180000
-RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20260828T235900
-SUMMARY:Youth Basketball @ Hiawatha Community Center
-DESCRIPTION:Ages: 18 and Under\\nCost: Free\\nDates: 6/22-8/28
+UID:93508-wed-118@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260909T130000
+DTEND;TZID=America/Los_Angeles:20260909T150000
+RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20261210T235900
+SUMMARY:Basketball - Adult @ Hiawatha Community Center
+DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 9/8-12/10
 LOCATION:Hiawatha Community Center\, 2700 California Ave SW\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:93054-tue-165@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260623T163000
-DTEND;TZID=America/Los_Angeles:20260623T180000
-RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20260828T235900
-SUMMARY:Youth Basketball @ Hiawatha Community Center
-DESCRIPTION:Ages: 18 and Under\\nCost: Free\\nDates: 6/22-8/28
+UID:93508-thu-119@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260910T130000
+DTEND;TZID=America/Los_Angeles:20260910T150000
+RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20261210T235900
+SUMMARY:Basketball - Adult @ Hiawatha Community Center
+DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 9/8-12/10
 LOCATION:Hiawatha Community Center\, 2700 California Ave SW\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:93054-thu-166@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260625T163000
-DTEND;TZID=America/Los_Angeles:20260625T180000
-RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20260828T235900
-SUMMARY:Youth Basketball @ Hiawatha Community Center
-DESCRIPTION:Ages: 18 and Under\\nCost: Free\\nDates: 6/22-8/28
+UID:93508-fri-120@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260911T173000
+DTEND;TZID=America/Los_Angeles:20260911T200000
+RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20261210T235900
+SUMMARY:Basketball - Adult @ Hiawatha Community Center
+DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 9/8-12/10
 LOCATION:Hiawatha Community Center\, 2700 California Ave SW\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:93054-fri-167@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260626T163000
-DTEND;TZID=America/Los_Angeles:20260626T180000
-RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260828T235900
-SUMMARY:Youth Basketball @ Hiawatha Community Center
-DESCRIPTION:Ages: 18 and Under\\nCost: Free\\nDates: 6/22-8/28
+UID:93510-mon-121@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260914T153000
+DTEND;TZID=America/Los_Angeles:20260914T173000
+RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20261211T235900
+SUMMARY:Basketball - Youth @ Hiawatha Community Center
+DESCRIPTION:Ages: 17 and Under\\nCost: Free\\nDates: 9/8-12/11
 LOCATION:Hiawatha Community Center\, 2700 California Ave SW\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:85080-mon-168@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260105T181500
-DTEND;TZID=America/Los_Angeles:20260105T204500
-RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20260330T235900
+UID:93510-tue-122@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260908T153000
+DTEND;TZID=America/Los_Angeles:20260908T173000
+RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20261211T235900
+SUMMARY:Basketball - Youth @ Hiawatha Community Center
+DESCRIPTION:Ages: 17 and Under\\nCost: Free\\nDates: 9/8-12/11
+LOCATION:Hiawatha Community Center\, 2700 California Ave SW\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:93510-thu-123@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260910T153000
+DTEND;TZID=America/Los_Angeles:20260910T173000
+RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20261211T235900
+SUMMARY:Basketball - Youth @ Hiawatha Community Center
+DESCRIPTION:Ages: 17 and Under\\nCost: Free\\nDates: 9/8-12/11
+LOCATION:Hiawatha Community Center\, 2700 California Ave SW\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:93510-fri-124@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260911T153000
+DTEND;TZID=America/Los_Angeles:20260911T173000
+RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20261211T235900
+SUMMARY:Basketball - Youth @ Hiawatha Community Center
+DESCRIPTION:Ages: 17 and Under\\nCost: Free\\nDates: 9/8-12/11
+LOCATION:Hiawatha Community Center\, 2700 California Ave SW\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:93915-mon-125@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260914T181500
+DTEND;TZID=America/Los_Angeles:20260914T204500
+RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20261228T235900
 SUMMARY:Basketball @ Ballard Community Center
-DESCRIPTION:Ages: 15 and Older\\nCost: Free\\nDates: 1/5-3/30
+DESCRIPTION:Ages: 15 and Older\\nCost: Free\\nDates: 9/14-12/28
 LOCATION:Ballard Community Center\, 6020 - 28th Ave NW\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:85091-sun-169@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260104T130000
-DTEND;TZID=America/Los_Angeles:20260104T144500
-RRULE:FREQ=WEEKLY;BYDAY=SU;UNTIL=20260329T235900
+UID:93918-sun-126@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260906T130000
+DTEND;TZID=America/Los_Angeles:20260906T144500
+RRULE:FREQ=WEEKLY;BYDAY=SU;UNTIL=20261227T235900
 SUMMARY:Youth Open Gym @ Ballard Community Center
-DESCRIPTION:Ages: 12-16\\nCost: Free\\nDates: 1/4-3/29
+DESCRIPTION:Ages: 12-17\\nCost: Free\\nDates: 9/6-12/27
 LOCATION:Ballard Community Center\, 6020 - 28th Ave NW\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:87657-mon-170@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260406T181500
-DTEND;TZID=America/Los_Angeles:20260406T204500
-RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20260615T235900
-SUMMARY:Basketball @ Ballard Community Center
-DESCRIPTION:Ages: 15 and Older\\nCost: Free\\nDates: 4/6-6/15
-LOCATION:Ballard Community Center\, 6020 - 28th Ave NW\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:91038-mon-171@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260622T171500
-DTEND;TZID=America/Los_Angeles:20260622T194500
-RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20260824T235900
-SUMMARY:Basketball @ Ballard Community Center
-DESCRIPTION:Ages: 16 and Older\\nCost: Free\\nDates: 6/22-8/24
-LOCATION:Ballard Community Center\, 6020 - 28th Ave NW\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:86416-wed-172@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260107T180000
-DTEND;TZID=America/Los_Angeles:20260107T200000
-RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20260325T235900
+UID:93698-wed-127@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260909T170000
+DTEND;TZID=America/Los_Angeles:20260909T200000
+RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20261125T235900
 SUMMARY:Basketball - Adult @ Montlake Community Center
-DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 1/7-3/25
+DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 9/9-11/25
 LOCATION:Montlake Community Center\, 1618 E Calhoun St\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:86417-wed-173@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260107T160000
-DTEND;TZID=America/Los_Angeles:20260107T180000
-RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20260325T235900
-SUMMARY:Basketball - Youth @ Montlake Community Center
-DESCRIPTION:Ages: 13 and Older\\nCost: Free\\nDates: 1/7-3/25
-LOCATION:Montlake Community Center\, 1618 E Calhoun St\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:85551-mon-174@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260105T143000
-DTEND;TZID=America/Los_Angeles:20260105T160000
-RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20260330T235900
-SUMMARY:Open Gym @ Montlake Community Center
-DESCRIPTION:Ages: All Ages\\nCost: Free\\nDates: 1/5-3/30
-LOCATION:Montlake Community Center\, 1618 E Calhoun St\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:85551-tue-175@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260106T143000
-DTEND;TZID=America/Los_Angeles:20260106T160000
-RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20260330T235900
-SUMMARY:Open Gym @ Montlake Community Center
-DESCRIPTION:Ages: All Ages\\nCost: Free\\nDates: 1/5-3/30
-LOCATION:Montlake Community Center\, 1618 E Calhoun St\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:88174-wed-176@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260401T170000
-DTEND;TZID=America/Los_Angeles:20260401T200000
-RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20260617T235900
+UID:93698-thu-128@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260910T133000
+DTEND;TZID=America/Los_Angeles:20260910T170000
+RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20261125T235900
 SUMMARY:Basketball - Adult @ Montlake Community Center
-DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 4/1-6/17
+DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 9/9-11/25
 LOCATION:Montlake Community Center\, 1618 E Calhoun St\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:88174-thu-177@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260402T133000
-DTEND;TZID=America/Los_Angeles:20260402T170000
-RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20260617T235900
-SUMMARY:Basketball - Adult @ Montlake Community Center
-DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 4/1-6/17
-LOCATION:Montlake Community Center\, 1618 E Calhoun St\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:88473-wed-178@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260401T133000
-DTEND;TZID=America/Los_Angeles:20260401T170000
-RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20260617T235900
+UID:93708-fri-129@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260911T143000
+DTEND;TZID=America/Los_Angeles:20260911T173000
+RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20261120T235900
 SUMMARY:Basketball - Youth @ Montlake Community Center
-DESCRIPTION:Ages: 13-17\\nCost: Free\\nDates: 4/1-6/17
+DESCRIPTION:Ages: 11-17\\nCost: Free\\nDates: 9/11-11/20
 LOCATION:Montlake Community Center\, 1618 E Calhoun St\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:88473-fri-179@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260403T143000
-DTEND;TZID=America/Los_Angeles:20260403T173000
-RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260617T235900
-SUMMARY:Basketball - Youth @ Montlake Community Center
-DESCRIPTION:Ages: 13-17\\nCost: Free\\nDates: 4/1-6/17
+UID:94653-mon-130@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260907T143000
+DTEND;TZID=America/Los_Angeles:20260907T173000
+RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20261130T235900
+SUMMARY:Open Gym - Family @ Montlake Community Center
+DESCRIPTION:Ages: All Ages\\nCost: Free\\nDates: 9/7-11/30
 LOCATION:Montlake Community Center\, 1618 E Calhoun St\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:88314-sat-180@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260404T133000
-DTEND;TZID=America/Los_Angeles:20260404T150000
-RRULE:FREQ=WEEKLY;BYDAY=SA;UNTIL=20260620T235900
-SUMMARY:Family Open Gym @ Montlake Community Center
-DESCRIPTION:Ages: All Ages\\nCost: Free\\nDates: 4/4-6/20
+UID:94653-sat-131@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260912T133000
+DTEND;TZID=America/Los_Angeles:20260912T150000
+RRULE:FREQ=WEEKLY;BYDAY=SA;UNTIL=20261130T235900
+SUMMARY:Open Gym - Family @ Montlake Community Center
+DESCRIPTION:Ages: All Ages\\nCost: Free\\nDates: 9/7-11/30
 LOCATION:Montlake Community Center\, 1618 E Calhoun St\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:91549-mon-181@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260629T123000
-DTEND;TZID=America/Los_Angeles:20260629T143000
-RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20260831T235900
-SUMMARY:Basketball (Adult) @ Montlake Community Center
-DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 6/29-8/31
+UID:93709-wed-132@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260909T133000
+DTEND;TZID=America/Los_Angeles:20260909T170000
+RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20261125T235900
+SUMMARY:Open Gym - Youth @ Montlake Community Center
+DESCRIPTION:Ages: 11-17\\nCost: Free\\nDates: 9/9-11/25
 LOCATION:Montlake Community Center\, 1618 E Calhoun St\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:91551-tue-182@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260630T143000
-DTEND;TZID=America/Los_Angeles:20260630T163000
-RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20260825T235900
-SUMMARY:Basketball (Adult) @ Montlake Community Center
-DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 6/30-8/25
-LOCATION:Montlake Community Center\, 1618 E Calhoun St\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:91552-thu-183@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260702T123000
-DTEND;TZID=America/Los_Angeles:20260702T143000
-RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20260827T235900
-SUMMARY:Basketball (Adult) @ Montlake Community Center
-DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 7/2-8/27
-LOCATION:Montlake Community Center\, 1618 E Calhoun St\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:91554-fri-184@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260710T143000
-DTEND;TZID=America/Los_Angeles:20260710T163000
-RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260828T235900
-SUMMARY:Basketball (Youth) @ Montlake Community Center
-DESCRIPTION:Ages: 13-17\\nCost: Free\\nDates: 7/10-8/28
-LOCATION:Montlake Community Center\, 1618 E Calhoun St\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:84427-mon-185@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260105T110000
-DTEND;TZID=America/Los_Angeles:20260105T133000
-RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20260330T235900
+UID:93751-mon-133@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260907T110000
+DTEND;TZID=America/Los_Angeles:20260907T133000
+RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20261230T235900
 SUMMARY:Basketball @ International District Community Center
-DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 1/2-3/30
+DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 9/2-12/30
 LOCATION:International District Community Center\, 718 8th Ave S\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:84427-wed-186@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260107T110000
-DTEND;TZID=America/Los_Angeles:20260107T133000
-RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20260330T235900
+UID:93751-wed-134@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260902T110000
+DTEND;TZID=America/Los_Angeles:20260902T133000
+RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20261230T235900
 SUMMARY:Basketball @ International District Community Center
-DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 1/2-3/30
+DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 9/2-12/30
 LOCATION:International District Community Center\, 718 8th Ave S\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:84427-fri-187@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260102T110000
-DTEND;TZID=America/Los_Angeles:20260102T133000
-RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260330T235900
+UID:93751-fri-135@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260904T110000
+DTEND;TZID=America/Los_Angeles:20260904T133000
+RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20261230T235900
 SUMMARY:Basketball @ International District Community Center
-DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 1/2-3/30
+DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 9/2-12/30
 LOCATION:International District Community Center\, 718 8th Ave S\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:84433-sat-188@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260103T150000
-DTEND;TZID=America/Los_Angeles:20260103T170000
-RRULE:FREQ=WEEKLY;BYDAY=SA;UNTIL=20260328T235900
-SUMMARY:Open Gym - Family @ International District Community Center
-DESCRIPTION:Ages: All Ages\\nCost: Free\\nDates: 1/3-3/28
+UID:93945-mon-136@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260914T133000
+DTEND;TZID=America/Los_Angeles:20260914T174500
+RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20261228T235900
+SUMMARY:Open Gym - All Ages @ International District Community Center
+DESCRIPTION:Ages: All Ages\\nCost: Free\\nDates: 9/14-12/28
 LOCATION:International District Community Center\, 718 8th Ave S\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:84438-mon-189@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260105T140000
-DTEND;TZID=America/Los_Angeles:20260105T174500
-RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20260330T235900
-SUMMARY:Open Gym - Family @ International District Community Center
-DESCRIPTION:Ages: All Ages\\nCost: Free\\nDates: 1/5-3/30
+UID:93945-sat-137@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260919T150000
+DTEND;TZID=America/Los_Angeles:20260919T170000
+RRULE:FREQ=WEEKLY;BYDAY=SA;UNTIL=20261228T235900
+SUMMARY:Open Gym - All Ages @ International District Community Center
+DESCRIPTION:Ages: All Ages\\nCost: Free\\nDates: 9/14-12/28
 LOCATION:International District Community Center\, 718 8th Ave S\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:84439-wed-190@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260107T140000
-DTEND;TZID=America/Los_Angeles:20260107T174500
-RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20260327T235900
+UID:93761-wed-138@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260902T133000
+DTEND;TZID=America/Los_Angeles:20260902T174500
+RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20261230T235900
 SUMMARY:Open Gym - Youth @ International District Community Center
-DESCRIPTION:Ages: 11-17\\nCost: Free\\nDates: 1/7-3/27
+DESCRIPTION:Ages: 10-17\\nCost: Free\\nDates: 9/2-12/30
 LOCATION:International District Community Center\, 718 8th Ave S\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:84439-fri-191@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260109T140000
-DTEND;TZID=America/Los_Angeles:20260109T174500
-RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260327T235900
+UID:93761-fri-139@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260904T133000
+DTEND;TZID=America/Los_Angeles:20260904T174500
+RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20261230T235900
 SUMMARY:Open Gym - Youth @ International District Community Center
-DESCRIPTION:Ages: 11-17\\nCost: Free\\nDates: 1/7-3/27
+DESCRIPTION:Ages: 10-17\\nCost: Free\\nDates: 9/2-12/30
 LOCATION:International District Community Center\, 718 8th Ave S\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:87896-thu-192@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260402T150000
-DTEND;TZID=America/Los_Angeles:20260402T174500
-RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20260625T235900
-SUMMARY:Basketball - Open @ International District Community Center
-DESCRIPTION:Ages: 5 and Older\\nCost: Free\\nDates: 4/2-6/25
-LOCATION:International District Community Center\, 718 8th Ave S\, Seattle\, WA
+UID:93538-thu-140@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260910T161500
+DTEND;TZID=America/Los_Angeles:20260910T170000
+RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20261022T235900
+SUMMARY:Little Hoopers @ Green Lake Community Center
+DESCRIPTION:Ages: 5-6\\nCost: $75\\nDates: 9/10-10/22
+LOCATION:Green Lake Community Center\, 7201 E Green Lake Dr N\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:87889-mon-193@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260406T113000
-DTEND;TZID=America/Los_Angeles:20260406T133000
-RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20260629T235900
-SUMMARY:Basketball - Adult @ International District Community Center
-DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 4/1-6/29
-LOCATION:International District Community Center\, 718 8th Ave S\, Seattle\, WA
+UID:93539-thu-141@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20261029T161500
+DTEND;TZID=America/Los_Angeles:20261029T170000
+RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20261217T235900
+SUMMARY:Little Hoopers @ Green Lake Community Center
+DESCRIPTION:Ages: 5-6\\nCost: $75\\nDates: 10/29-12/17
+LOCATION:Green Lake Community Center\, 7201 E Green Lake Dr N\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:87889-wed-194@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260401T113000
-DTEND;TZID=America/Los_Angeles:20260401T133000
-RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20260629T235900
-SUMMARY:Basketball - Adult @ International District Community Center
-DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 4/1-6/29
-LOCATION:International District Community Center\, 718 8th Ave S\, Seattle\, WA
+UID:93540-thu-142@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260910T171500
+DTEND;TZID=America/Los_Angeles:20260910T180000
+RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20261022T235900
+SUMMARY:Little Hoopers @ Green Lake Community Center
+DESCRIPTION:Ages: 7-11\\nCost: $75\\nDates: 9/10-10/22
+LOCATION:Green Lake Community Center\, 7201 E Green Lake Dr N\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:87889-fri-195@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260403T113000
-DTEND;TZID=America/Los_Angeles:20260403T133000
-RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260629T235900
-SUMMARY:Basketball - Adult @ International District Community Center
-DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 4/1-6/29
-LOCATION:International District Community Center\, 718 8th Ave S\, Seattle\, WA
+UID:93541-thu-143@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20261029T171500
+DTEND;TZID=America/Los_Angeles:20261029T180000
+RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20261217T235900
+SUMMARY:Little Hoopers @ Green Lake Community Center
+DESCRIPTION:Ages: 7-11\\nCost: $75\\nDates: 10/29-12/17
+LOCATION:Green Lake Community Center\, 7201 E Green Lake Dr N\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:89873-mon-196@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260706T110000
-DTEND;TZID=America/Los_Angeles:20260706T133000
-RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20260828T235900
-SUMMARY:Basketball (Adult) @ International District Community Center
-DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 7/1-8/28
-LOCATION:International District Community Center\, 718 8th Ave S\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:89873-wed-197@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260701T110000
-DTEND;TZID=America/Los_Angeles:20260701T133000
-RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20260828T235900
-SUMMARY:Basketball (Adult) @ International District Community Center
-DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 7/1-8/28
-LOCATION:International District Community Center\, 718 8th Ave S\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:89873-fri-198@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260703T110000
-DTEND;TZID=America/Los_Angeles:20260703T133000
-RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260828T235900
-SUMMARY:Basketball (Adult) @ International District Community Center
-DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 7/1-8/28
-LOCATION:International District Community Center\, 718 8th Ave S\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:90870-thu-199@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260702T150000
-DTEND;TZID=America/Los_Angeles:20260702T174500
-RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20260827T235900
-SUMMARY:Basketball (Open) @ International District Community Center
-DESCRIPTION:Ages: 5 and Older\\nCost: Free\\nDates: 7/2-8/27
-LOCATION:International District Community Center\, 718 8th Ave S\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:85488-mon-200@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260105T121500
-DTEND;TZID=America/Los_Angeles:20260105T143000
-RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20260330T235900
+UID:93544-mon-144@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260914T121500
+DTEND;TZID=America/Los_Angeles:20260914T151500
+RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20261228T235900
 SUMMARY:Basketball @ Green Lake Community Center
-DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 1/2-3/30
+DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 9/14-12/28
 LOCATION:Green Lake Community Center\, 7201 E Green Lake Dr N\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:85488-wed-201@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260107T133000
-DTEND;TZID=America/Los_Angeles:20260107T143000
-RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20260330T235900
+UID:93544-tue-145@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260915T144500
+DTEND;TZID=America/Los_Angeles:20260915T154500
+RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20261228T235900
 SUMMARY:Basketball @ Green Lake Community Center
-DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 1/2-3/30
+DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 9/14-12/28
 LOCATION:Green Lake Community Center\, 7201 E Green Lake Dr N\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:85488-fri-202@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260102T100000
-DTEND;TZID=America/Los_Angeles:20260102T131500
-RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260330T235900
+UID:93544-wed-146@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260916T133000
+DTEND;TZID=America/Los_Angeles:20260916T143000
+RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20261228T235900
 SUMMARY:Basketball @ Green Lake Community Center
-DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 1/2-3/30
+DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 9/14-12/28
 LOCATION:Green Lake Community Center\, 7201 E Green Lake Dr N\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:86751-tue-203@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260106T161500
-DTEND;TZID=America/Los_Angeles:20260106T170000
-RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20260210T235900
-SUMMARY:Basketball: Little Dribblers @ Green Lake Community Center
-DESCRIPTION:Ages: 5-7\\nCost: $75\\nDates: 1/6-2/10
-LOCATION:Green Lake Community Center\, 7201 E Green Lake Dr N\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:86750-tue-204@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260217T161500
-DTEND;TZID=America/Los_Angeles:20260217T170000
-RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20260317T235900
-SUMMARY:Basketball: Little Dribblers @ Green Lake Community Center
-DESCRIPTION:Ages: 5-7\\nCost: $65\\nDates: 2/17-3/17
-LOCATION:Green Lake Community Center\, 7201 E Green Lake Dr N\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:87778-mon-205@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260406T120000
-DTEND;TZID=America/Los_Angeles:20260406T153000
-RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20260615T235900
+UID:93544-thu-147@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260917T150000
+DTEND;TZID=America/Los_Angeles:20260917T160000
+RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20261228T235900
 SUMMARY:Basketball @ Green Lake Community Center
-DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 4/6-6/15
+DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 9/14-12/28
 LOCATION:Green Lake Community Center\, 7201 E Green Lake Dr N\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:87778-wed-206@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260408T133000
-DTEND;TZID=America/Los_Angeles:20260408T141500
-RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20260615T235900
+UID:93544-fri-148@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260918T123000
+DTEND;TZID=America/Los_Angeles:20260918T141500
+RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20261228T235900
 SUMMARY:Basketball @ Green Lake Community Center
-DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 4/6-6/15
+DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 9/14-12/28
 LOCATION:Green Lake Community Center\, 7201 E Green Lake Dr N\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:87778-fri-207@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260410T123000
-DTEND;TZID=America/Los_Angeles:20260410T141500
-RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260615T235900
+UID:93544-sat-149@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260919T151500
+DTEND;TZID=America/Los_Angeles:20260919T164500
+RRULE:FREQ=WEEKLY;BYDAY=SA;UNTIL=20261228T235900
 SUMMARY:Basketball @ Green Lake Community Center
-DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 4/6-6/15
+DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 9/14-12/28
 LOCATION:Green Lake Community Center\, 7201 E Green Lake Dr N\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:87778-sat-208@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260411T151500
-DTEND;TZID=America/Los_Angeles:20260411T164500
-RRULE:FREQ=WEEKLY;BYDAY=SA;UNTIL=20260615T235900
-SUMMARY:Basketball @ Green Lake Community Center
-DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 4/6-6/15
-LOCATION:Green Lake Community Center\, 7201 E Green Lake Dr N\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:87784-mon-209@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260406T154500
-DTEND;TZID=America/Los_Angeles:20260406T173000
-RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20260615T235900
+UID:93551-mon-150@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260914T154500
+DTEND;TZID=America/Los_Angeles:20260914T164500
+RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20261214T235900
 SUMMARY:Teen Open Gym @ Green Lake Community Center
-DESCRIPTION:Ages: 11-18\\nCost: Free\\nDates: 4/6-6/15
+DESCRIPTION:Ages: 12-18\\nCost: Free\\nDates: 9/14-12/14
 LOCATION:Green Lake Community Center\, 7201 E Green Lake Dr N\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:87784-tue-210@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260407T154500
-DTEND;TZID=America/Los_Angeles:20260407T174500
-RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20260615T235900
+UID:93551-tue-151@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260915T160000
+DTEND;TZID=America/Los_Angeles:20260915T174500
+RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20261214T235900
 SUMMARY:Teen Open Gym @ Green Lake Community Center
-DESCRIPTION:Ages: 11-18\\nCost: Free\\nDates: 4/6-6/15
+DESCRIPTION:Ages: 12-18\\nCost: Free\\nDates: 9/14-12/14
 LOCATION:Green Lake Community Center\, 7201 E Green Lake Dr N\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:87784-wed-211@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260408T143000
-DTEND;TZID=America/Los_Angeles:20260408T154500
-RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20260615T235900
+UID:93551-wed-152@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260916T144500
+DTEND;TZID=America/Los_Angeles:20260916T154500
+RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20261214T235900
 SUMMARY:Teen Open Gym @ Green Lake Community Center
-DESCRIPTION:Ages: 11-18\\nCost: Free\\nDates: 4/6-6/15
+DESCRIPTION:Ages: 12-18\\nCost: Free\\nDates: 9/14-12/14
 LOCATION:Green Lake Community Center\, 7201 E Green Lake Dr N\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:87784-wed-212@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260408T170000
-DTEND;TZID=America/Los_Angeles:20260408T184500
-RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20260615T235900
-SUMMARY:Teen Open Gym @ Green Lake Community Center
-DESCRIPTION:Ages: 11-18\\nCost: Free\\nDates: 4/6-6/15
-LOCATION:Green Lake Community Center\, 7201 E Green Lake Dr N\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:87782-fri-213@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260403T180000
-DTEND;TZID=America/Los_Angeles:20260403T210000
-RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260612T235900
-SUMMARY:Friday Teen Night: Swim and Gym Time @ Green Lake Community Center
-DESCRIPTION:Ages: 11-18\\nCost: Free\\nDates: 4/3-6/12
-LOCATION:Green Lake Community Center\, 7201 E Green Lake Dr N\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:87815-thu-214@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260409T161500
-DTEND;TZID=America/Los_Angeles:20260409T170000
-RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20260512T235900
-SUMMARY:Basketball: Little Hoopers @ Green Lake Community Center
-DESCRIPTION:Ages: 5-7\\nCost: $95\\nDates: 4/7-5/12
-LOCATION:Green Lake Community Center\, 7201 E Green Lake Dr N\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:87817-thu-215@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260409T171500
-DTEND;TZID=America/Los_Angeles:20260409T180000
-RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20260512T235900
-SUMMARY:Basketball: Little Hoopers @ Green Lake Community Center
-DESCRIPTION:Ages: 8-12\\nCost: $95\\nDates: 4/7-5/12
-LOCATION:Green Lake Community Center\, 7201 E Green Lake Dr N\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:91475-sat-216@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260627T151500
-DTEND;TZID=America/Los_Angeles:20260627T164500
-RRULE:FREQ=WEEKLY;BYDAY=SA;UNTIL=20260815T235900
-SUMMARY:Basketball @ Green Lake Community Center
-DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 6/27-8/15
-LOCATION:Green Lake Community Center\, 7201 E Green Lake Dr N\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:84747-mon-217@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260105T160000
-DTEND;TZID=America/Los_Angeles:20260105T181500
-RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20260129T235900
-SUMMARY:Drills and Skills @ Van Asselt Community Center
-DESCRIPTION:Ages: 10-17\\nCost: $63\\nDates: 1/5-1/29
-LOCATION:Van Asselt Community Center\, 2820 S Myrtle St\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:84747-tue-218@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260106T160000
-DTEND;TZID=America/Los_Angeles:20260106T181500
-RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20260129T235900
-SUMMARY:Drills and Skills @ Van Asselt Community Center
-DESCRIPTION:Ages: 10-17\\nCost: $63\\nDates: 1/5-1/29
-LOCATION:Van Asselt Community Center\, 2820 S Myrtle St\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:84747-wed-219@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260107T160000
-DTEND;TZID=America/Los_Angeles:20260107T181500
-RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20260129T235900
-SUMMARY:Drills and Skills @ Van Asselt Community Center
-DESCRIPTION:Ages: 10-17\\nCost: $63\\nDates: 1/5-1/29
-LOCATION:Van Asselt Community Center\, 2820 S Myrtle St\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:84747-thu-220@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260108T160000
-DTEND;TZID=America/Los_Angeles:20260108T181500
-RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20260129T235900
-SUMMARY:Drills and Skills @ Van Asselt Community Center
-DESCRIPTION:Ages: 10-17\\nCost: $63\\nDates: 1/5-1/29
-LOCATION:Van Asselt Community Center\, 2820 S Myrtle St\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:84748-mon-221@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260202T160000
-DTEND;TZID=America/Los_Angeles:20260202T181500
-RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20260226T235900
-SUMMARY:Drills and Skills @ Van Asselt Community Center
-DESCRIPTION:Ages: 10-17\\nCost: $63\\nDates: 2/2-2/26
-LOCATION:Van Asselt Community Center\, 2820 S Myrtle St\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:84748-tue-222@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260203T160000
-DTEND;TZID=America/Los_Angeles:20260203T181500
-RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20260226T235900
-SUMMARY:Drills and Skills @ Van Asselt Community Center
-DESCRIPTION:Ages: 10-17\\nCost: $63\\nDates: 2/2-2/26
-LOCATION:Van Asselt Community Center\, 2820 S Myrtle St\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:84748-wed-223@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260204T160000
-DTEND;TZID=America/Los_Angeles:20260204T181500
-RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20260226T235900
-SUMMARY:Drills and Skills @ Van Asselt Community Center
-DESCRIPTION:Ages: 10-17\\nCost: $63\\nDates: 2/2-2/26
-LOCATION:Van Asselt Community Center\, 2820 S Myrtle St\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:84748-thu-224@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260205T160000
-DTEND;TZID=America/Los_Angeles:20260205T181500
-RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20260226T235900
-SUMMARY:Drills and Skills @ Van Asselt Community Center
-DESCRIPTION:Ages: 10-17\\nCost: $63\\nDates: 2/2-2/26
-LOCATION:Van Asselt Community Center\, 2820 S Myrtle St\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:84749-mon-225@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260302T160000
-DTEND;TZID=America/Los_Angeles:20260302T181500
-RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20260331T235900
-SUMMARY:Drills and Skills @ Van Asselt Community Center
-DESCRIPTION:Ages: 10-17\\nCost: $63\\nDates: 3/2-3/31
-LOCATION:Van Asselt Community Center\, 2820 S Myrtle St\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:84749-tue-226@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260303T160000
-DTEND;TZID=America/Los_Angeles:20260303T181500
-RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20260331T235900
-SUMMARY:Drills and Skills @ Van Asselt Community Center
-DESCRIPTION:Ages: 10-17\\nCost: $63\\nDates: 3/2-3/31
-LOCATION:Van Asselt Community Center\, 2820 S Myrtle St\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:84749-wed-227@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260304T160000
-DTEND;TZID=America/Los_Angeles:20260304T181500
-RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20260331T235900
-SUMMARY:Drills and Skills @ Van Asselt Community Center
-DESCRIPTION:Ages: 10-17\\nCost: $63\\nDates: 3/2-3/31
-LOCATION:Van Asselt Community Center\, 2820 S Myrtle St\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:84749-thu-228@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260305T160000
-DTEND;TZID=America/Los_Angeles:20260305T181500
-RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20260331T235900
-SUMMARY:Drills and Skills @ Van Asselt Community Center
-DESCRIPTION:Ages: 10-17\\nCost: $63\\nDates: 3/2-3/31
-LOCATION:Van Asselt Community Center\, 2820 S Myrtle St\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:86162-fri-229@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260102T160000
-DTEND;TZID=America/Los_Angeles:20260102T170000
-RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260306T235900
-SUMMARY:Hoop It Up W/3 @ Van Asselt Community Center
-DESCRIPTION:Ages: 10-18\\nCost: Free\\nDates: 1/2-3/6
-LOCATION:Van Asselt Community Center\, 2820 S Myrtle St\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:84742-fri-230@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260109T170000
-DTEND;TZID=America/Los_Angeles:20260109T180000
-RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260213T235900
-SUMMARY:Junior Hoopers @ Van Asselt Community Center
-DESCRIPTION:Ages: 6-7\\nCost: $70\\nDates: 1/9-2/13
-LOCATION:Van Asselt Community Center\, 2820 S Myrtle St\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:84743-fri-231@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260220T170000
-DTEND;TZID=America/Los_Angeles:20260220T180000
-RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260403T235900
-SUMMARY:Junior Hoopers @ Van Asselt Community Center
-DESCRIPTION:Ages: 6-7\\nCost: $70\\nDates: 2/20-4/3
-LOCATION:Van Asselt Community Center\, 2820 S Myrtle St\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:84740-fri-232@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260109T160000
-DTEND;TZID=America/Los_Angeles:20260109T164500
-RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260213T235900
-SUMMARY:Little Hoopers @ Van Asselt Community Center
-DESCRIPTION:Ages: 3-5\\nCost: $70\\nDates: 1/9-2/13
-LOCATION:Van Asselt Community Center\, 2820 S Myrtle St\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:84741-fri-233@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260220T160000
-DTEND;TZID=America/Los_Angeles:20260220T164500
-RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260403T235900
-SUMMARY:Little Hoopers @ Van Asselt Community Center
-DESCRIPTION:Ages: 3-5\\nCost: $70\\nDates: 2/20-4/3
-LOCATION:Van Asselt Community Center\, 2820 S Myrtle St\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:88729-mon-234@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260406T144500
-DTEND;TZID=America/Los_Angeles:20260406T154500
-RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20260618T235900
-SUMMARY:Youth Basketball @ Van Asselt Community Center
-DESCRIPTION:Ages: 11-17\\nCost: Free\\nDates: 4/1-6/18
-LOCATION:Van Asselt Community Center\, 2820 S Myrtle St\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:88729-tue-235@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260407T144500
-DTEND;TZID=America/Los_Angeles:20260407T154500
-RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20260618T235900
-SUMMARY:Youth Basketball @ Van Asselt Community Center
-DESCRIPTION:Ages: 11-17\\nCost: Free\\nDates: 4/1-6/18
-LOCATION:Van Asselt Community Center\, 2820 S Myrtle St\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:88729-wed-236@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260401T144500
-DTEND;TZID=America/Los_Angeles:20260401T154500
-RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20260618T235900
-SUMMARY:Youth Basketball @ Van Asselt Community Center
-DESCRIPTION:Ages: 11-17\\nCost: Free\\nDates: 4/1-6/18
-LOCATION:Van Asselt Community Center\, 2820 S Myrtle St\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:88729-thu-237@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260402T144500
-DTEND;TZID=America/Los_Angeles:20260402T154500
-RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20260618T235900
-SUMMARY:Youth Basketball @ Van Asselt Community Center
-DESCRIPTION:Ages: 11-17\\nCost: Free\\nDates: 4/1-6/18
-LOCATION:Van Asselt Community Center\, 2820 S Myrtle St\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:90614-mon-238@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260629T173000
-DTEND;TZID=America/Los_Angeles:20260629T190000
-RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20260804T235900
+UID:93337-thu-153@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260910T180000
+DTEND;TZID=America/Los_Angeles:20260910T190000
+RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20261229T235900
 SUMMARY:B-Ball and Talk @ Van Asselt Community Center
-DESCRIPTION:Ages: 10-17\\nCost: Free\\nDates: 6/23-8/4
+DESCRIPTION:Ages: 10-17\\nCost: Free\\nDates: 9/8-12/29
 LOCATION:Van Asselt Community Center\, 2820 S Myrtle St\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:90614-tue-239@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260623T173000
-DTEND;TZID=America/Los_Angeles:20260623T190000
-RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20260804T235900
-SUMMARY:B-Ball and Talk @ Van Asselt Community Center
-DESCRIPTION:Ages: 10-17\\nCost: Free\\nDates: 6/23-8/4
+UID:93687-mon-154@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260914T144500
+DTEND;TZID=America/Los_Angeles:20260914T154500
+RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20261231T235900
+SUMMARY:Basketball - Youth @ Van Asselt Community Center
+DESCRIPTION:Ages: 11-17\\nCost: Free\\nDates: 9/8-12/31
 LOCATION:Van Asselt Community Center\, 2820 S Myrtle St\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:90614-wed-240@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260624T173000
-DTEND;TZID=America/Los_Angeles:20260624T190000
-RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20260804T235900
-SUMMARY:B-Ball and Talk @ Van Asselt Community Center
-DESCRIPTION:Ages: 10-17\\nCost: Free\\nDates: 6/23-8/4
+UID:93687-tue-155@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260908T144500
+DTEND;TZID=America/Los_Angeles:20260908T154500
+RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20261231T235900
+SUMMARY:Basketball - Youth @ Van Asselt Community Center
+DESCRIPTION:Ages: 11-17\\nCost: Free\\nDates: 9/8-12/31
 LOCATION:Van Asselt Community Center\, 2820 S Myrtle St\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:90614-thu-241@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260625T173000
-DTEND;TZID=America/Los_Angeles:20260625T190000
-RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20260804T235900
-SUMMARY:B-Ball and Talk @ Van Asselt Community Center
-DESCRIPTION:Ages: 10-17\\nCost: Free\\nDates: 6/23-8/4
+UID:93687-wed-156@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260909T144500
+DTEND;TZID=America/Los_Angeles:20260909T154500
+RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20261231T235900
+SUMMARY:Basketball - Youth @ Van Asselt Community Center
+DESCRIPTION:Ages: 11-17\\nCost: Free\\nDates: 9/8-12/31
 LOCATION:Van Asselt Community Center\, 2820 S Myrtle St\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:91920-tue-242@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260707T180000
-DTEND;TZID=America/Los_Angeles:20260707T200000
-RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20260825T235900
-SUMMARY:Basketball @ Van Asselt Community Center
-DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 7/7-8/25
+UID:93687-thu-157@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260910T144500
+DTEND;TZID=America/Los_Angeles:20260910T154500
+RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20261231T235900
+SUMMARY:Basketball - Youth @ Van Asselt Community Center
+DESCRIPTION:Ages: 11-17\\nCost: Free\\nDates: 9/8-12/31
 LOCATION:Van Asselt Community Center\, 2820 S Myrtle St\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:91922-thu-243@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260709T180000
-DTEND;TZID=America/Los_Angeles:20260709T200000
-RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20260827T235900
-SUMMARY:Basketball @ Van Asselt Community Center
-DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 7/9-8/27
+UID:93346-mon-158@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260914T160000
+DTEND;TZID=America/Los_Angeles:20260914T181500
+RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20260930T235900
+SUMMARY:Drills and Skills @ Van Asselt Community Center
+DESCRIPTION:Ages: 10-17\\nCost: $57\\nDates: 9/9-9/30
 LOCATION:Van Asselt Community Center\, 2820 S Myrtle St\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:90746-mon-244@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260622T173000
-DTEND;TZID=America/Los_Angeles:20260622T183000
-RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20260727T235900
-SUMMARY:Junior Hoopers @ Rainier Beach Community Center
-DESCRIPTION:Ages: 6-7\\nCost: $50\\nDates: 6/22-7/27
-LOCATION:Rainier Beach Community Center\, 8825 Rainier Ave S\, Seattle\, WA
+UID:93346-tue-159@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260915T160000
+DTEND;TZID=America/Los_Angeles:20260915T181500
+RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20260930T235900
+SUMMARY:Drills and Skills @ Van Asselt Community Center
+DESCRIPTION:Ages: 10-17\\nCost: $57\\nDates: 9/9-9/30
+LOCATION:Van Asselt Community Center\, 2820 S Myrtle St\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:90747-mon-245@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260803T173000
-DTEND;TZID=America/Los_Angeles:20260803T183000
-RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20260831T235900
-SUMMARY:Junior Hoopers @ Rainier Beach Community Center
-DESCRIPTION:Ages: 6-7\\nCost: $40\\nDates: 8/3-8/31
-LOCATION:Rainier Beach Community Center\, 8825 Rainier Ave S\, Seattle\, WA
+UID:93346-wed-160@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260909T160000
+DTEND;TZID=America/Los_Angeles:20260909T181500
+RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20260930T235900
+SUMMARY:Drills and Skills @ Van Asselt Community Center
+DESCRIPTION:Ages: 10-17\\nCost: $57\\nDates: 9/9-9/30
+LOCATION:Van Asselt Community Center\, 2820 S Myrtle St\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:90749-mon-246@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260622T163000
-DTEND;TZID=America/Los_Angeles:20260622T171500
-RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20260727T235900
+UID:93346-thu-161@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260910T160000
+DTEND;TZID=America/Los_Angeles:20260910T181500
+RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20260930T235900
+SUMMARY:Drills and Skills @ Van Asselt Community Center
+DESCRIPTION:Ages: 10-17\\nCost: $57\\nDates: 9/9-9/30
+LOCATION:Van Asselt Community Center\, 2820 S Myrtle St\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:93354-wed-162@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20261014T170000
+DTEND;TZID=America/Los_Angeles:20261014T180000
+RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20261029T235900
+SUMMARY:Drills and Skills @ Van Asselt Community Center
+DESCRIPTION:Ages: 10-17\\nCost: $46\\nDates: 10/8-10/29
+LOCATION:Van Asselt Community Center\, 2820 S Myrtle St\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:93354-thu-163@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20261008T170000
+DTEND;TZID=America/Los_Angeles:20261008T180000
+RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20261029T235900
+SUMMARY:Drills and Skills @ Van Asselt Community Center
+DESCRIPTION:Ages: 10-17\\nCost: $46\\nDates: 10/8-10/29
+LOCATION:Van Asselt Community Center\, 2820 S Myrtle St\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:93354-fri-164@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20261009T170000
+DTEND;TZID=America/Los_Angeles:20261009T180000
+RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20261029T235900
+SUMMARY:Drills and Skills @ Van Asselt Community Center
+DESCRIPTION:Ages: 10-17\\nCost: $46\\nDates: 10/8-10/29
+LOCATION:Van Asselt Community Center\, 2820 S Myrtle St\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:93355-mon-165@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20261109T170000
+DTEND;TZID=America/Los_Angeles:20261109T180000
+RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20261124T235900
+SUMMARY:Drills and Skills @ Van Asselt Community Center
+DESCRIPTION:Ages: 10-17\\nCost: $57\\nDates: 11/3-11/24
+LOCATION:Van Asselt Community Center\, 2820 S Myrtle St\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:93355-tue-166@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20261103T170000
+DTEND;TZID=America/Los_Angeles:20261103T180000
+RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20261124T235900
+SUMMARY:Drills and Skills @ Van Asselt Community Center
+DESCRIPTION:Ages: 10-17\\nCost: $57\\nDates: 11/3-11/24
+LOCATION:Van Asselt Community Center\, 2820 S Myrtle St\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:93355-wed-167@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20261104T170000
+DTEND;TZID=America/Los_Angeles:20261104T180000
+RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20261124T235900
+SUMMARY:Drills and Skills @ Van Asselt Community Center
+DESCRIPTION:Ages: 10-17\\nCost: $57\\nDates: 11/3-11/24
+LOCATION:Van Asselt Community Center\, 2820 S Myrtle St\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:93356-mon-168@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20261207T160000
+DTEND;TZID=America/Los_Angeles:20261207T164500
+RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20261228T235900
+SUMMARY:Drills and Skills @ Van Asselt Community Center
+DESCRIPTION:Ages: 10-17\\nCost: $57\\nDates: 12/1-12/28
+LOCATION:Van Asselt Community Center\, 2820 S Myrtle St\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:93356-tue-169@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20261201T160000
+DTEND;TZID=America/Los_Angeles:20261201T164500
+RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20261228T235900
+SUMMARY:Drills and Skills @ Van Asselt Community Center
+DESCRIPTION:Ages: 10-17\\nCost: $57\\nDates: 12/1-12/28
+LOCATION:Van Asselt Community Center\, 2820 S Myrtle St\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:93356-wed-170@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20261202T160000
+DTEND;TZID=America/Los_Angeles:20261202T164500
+RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20261228T235900
+SUMMARY:Drills and Skills @ Van Asselt Community Center
+DESCRIPTION:Ages: 10-17\\nCost: $57\\nDates: 12/1-12/28
+LOCATION:Van Asselt Community Center\, 2820 S Myrtle St\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:91925-mon-171@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260914T163000
+DTEND;TZID=America/Los_Angeles:20260914T171500
+RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20261109T235900
 SUMMARY:Little Hoopers @ Rainier Beach Community Center
-DESCRIPTION:Ages: 3-5\\nCost: $50\\nDates: 6/22-7/27
+DESCRIPTION:Ages: 3-5\\nCost: $67\\nDates: 9/14-11/9
 LOCATION:Rainier Beach Community Center\, 8825 Rainier Ave S\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:90748-mon-247@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260803T163000
-DTEND;TZID=America/Los_Angeles:20260803T171500
-RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20260831T235900
-SUMMARY:Little Hoopers @ Rainier Beach Community Center
-DESCRIPTION:Ages: 3-5\\nCost: $40\\nDates: 8/3-8/31
+UID:91927-mon-172@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260914T173000
+DTEND;TZID=America/Los_Angeles:20260914T183000
+RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20261109T235900
+SUMMARY:Junior Hoopers @ Rainier Beach Community Center
+DESCRIPTION:Ages: 6-7\\nCost: $67\\nDates: 9/14-11/9
 LOCATION:Rainier Beach Community Center\, 8825 Rainier Ave S\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:SP-BB-tue-248@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260106T183000
-DTEND;TZID=America/Los_Angeles:20260106T203000
-RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20260331T235900
-SUMMARY:Adult Basketball @ South Park Community Center
-DESCRIPTION:Ages: 14 and Over\\nCost: Free\\nDates: 1/6-3/31
+UID:92716-tue-173@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260915T180000
+DTEND;TZID=America/Los_Angeles:20260915T200000
+RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20261217T235900
+SUMMARY:Basketball @ South Park Community Center
+DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 9/15-12/17
 LOCATION:South Park Community Center\, 8319  8th Ave S\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:SP-BB-thu-249@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260108T183000
-DTEND;TZID=America/Los_Angeles:20260108T203000
-RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20260331T235900
-SUMMARY:Adult Basketball @ South Park Community Center
-DESCRIPTION:Ages: 14 and Over\\nCost: Free\\nDates: 1/6-3/31
+UID:92716-thu-174@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260917T180000
+DTEND;TZID=America/Los_Angeles:20260917T200000
+RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20261217T235900
+SUMMARY:Basketball @ South Park Community Center
+DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 9/15-12/17
 LOCATION:South Park Community Center\, 8319  8th Ave S\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:90636-tue-250@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260623T164500
-DTEND;TZID=America/Los_Angeles:20260623T184500
-RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20260827T235900
-SUMMARY:Adult Basketball @ South Park Community Center
-DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 6/23-8/27
+UID:92718-mon-175@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260914T143000
+DTEND;TZID=America/Los_Angeles:20260914T163000
+RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20261218T235900
+SUMMARY:Teen Open Gym @ South Park Community Center
+DESCRIPTION:Ages: 11-16\\nCost: Free\\nDates: 9/14-12/18
 LOCATION:South Park Community Center\, 8319  8th Ave S\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:90636-thu-251@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260625T164500
-DTEND;TZID=America/Los_Angeles:20260625T184500
-RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20260827T235900
-SUMMARY:Adult Basketball @ South Park Community Center
-DESCRIPTION:Ages: 18 and Older\\nCost: Free\\nDates: 6/23-8/27
+UID:92718-tue-176@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260915T143000
+DTEND;TZID=America/Los_Angeles:20260915T163000
+RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20261218T235900
+SUMMARY:Teen Open Gym @ South Park Community Center
+DESCRIPTION:Ages: 11-16\\nCost: Free\\nDates: 9/14-12/18
 LOCATION:South Park Community Center\, 8319  8th Ave S\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:84405-tue-252@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260106T171500
-DTEND;TZID=America/Los_Angeles:20260106T180000
-RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20260210T235900
+UID:92718-wed-177@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260916T143000
+DTEND;TZID=America/Los_Angeles:20260916T163000
+RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20261218T235900
+SUMMARY:Teen Open Gym @ South Park Community Center
+DESCRIPTION:Ages: 11-16\\nCost: Free\\nDates: 9/14-12/18
+LOCATION:South Park Community Center\, 8319  8th Ave S\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:92718-thu-178@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260917T143000
+DTEND;TZID=America/Los_Angeles:20260917T163000
+RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20261218T235900
+SUMMARY:Teen Open Gym @ South Park Community Center
+DESCRIPTION:Ages: 11-16\\nCost: Free\\nDates: 9/14-12/18
+LOCATION:South Park Community Center\, 8319  8th Ave S\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:92718-fri-179@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260918T143000
+DTEND;TZID=America/Los_Angeles:20260918T163000
+RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20261218T235900
+SUMMARY:Teen Open Gym @ South Park Community Center
+DESCRIPTION:Ages: 11-16\\nCost: Free\\nDates: 9/14-12/18
+LOCATION:South Park Community Center\, 8319  8th Ave S\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:95384-mon-180@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260921T173000
+DTEND;TZID=America/Los_Angeles:20260921T183000
+RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20261102T235900
+SUMMARY:Little Hoopers @ South Park Community Center
+DESCRIPTION:Ages: 3-5\\nCost: $49\\nDates: 9/21-11/2
+LOCATION:South Park Community Center\, 8319  8th Ave S\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:95417-mon-181@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20261109T173000
+DTEND;TZID=America/Los_Angeles:20261109T183000
+RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20261214T235900
+SUMMARY:Little Hoopers @ South Park Community Center
+DESCRIPTION:Ages: 3-5\\nCost: $49\\nDates: 11/9-12/14
+LOCATION:South Park Community Center\, 8319  8th Ave S\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:95385-mon-182@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260921T183000
+DTEND;TZID=America/Los_Angeles:20260921T193000
+RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20261102T235900
+SUMMARY:Little Hoopers @ South Park Community Center
+DESCRIPTION:Ages: 6-8\\nCost: $49\\nDates: 9/21-11/2
+LOCATION:South Park Community Center\, 8319  8th Ave S\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:95418-mon-183@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20261109T183000
+DTEND;TZID=America/Los_Angeles:20261109T193000
+RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20261214T235900
+SUMMARY:Little Hoopers @ South Park Community Center
+DESCRIPTION:Ages: 6-8\\nCost: $49\\nDates: 11/9-12/14
+LOCATION:South Park Community Center\, 8319  8th Ave S\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:94167-tue-184@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260908T171500
+DTEND;TZID=America/Los_Angeles:20260908T180000
+RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20261020T235900
 SUMMARY:Little Hoopers B-Ball @ Bitter Lake Community Center
-DESCRIPTION:Ages: 5-7\\nCost: $66\\nDates: 1/6-2/10
+DESCRIPTION:Ages: 5-7\\nCost: $77\\nDates: 9/8-10/20
 LOCATION:Bitter Lake Community Center\, 13035 Linden Ave N\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:84406-tue-253@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260224T171500
-DTEND;TZID=America/Los_Angeles:20260224T180000
-RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20260331T235900
+UID:94168-tue-185@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20261103T171500
+DTEND;TZID=America/Los_Angeles:20261103T180000
+RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20261201T235900
 SUMMARY:Little Hoopers B-Ball @ Bitter Lake Community Center
-DESCRIPTION:Ages: 5-7\\nCost: $66\\nDates: 2/24-3/31
+DESCRIPTION:Ages: 5-7\\nCost: $55\\nDates: 11/3-12/1
 LOCATION:Bitter Lake Community Center\, 13035 Linden Ave N\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:86097-sun-254@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260111T110000
-DTEND;TZID=America/Los_Angeles:20260111T114500
-RRULE:FREQ=WEEKLY;BYDAY=SU;UNTIL=20260329T235900
-SUMMARY:Little Hoopers Scrimmage @ Bitter Lake Community Center
-DESCRIPTION:Ages: 6-7\\nCost: $80\\nDates: 1/11-3/29
+UID:94169-tue-186@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260908T181500
+DTEND;TZID=America/Los_Angeles:20260908T190000
+RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20261020T235900
+SUMMARY:Little Hoopers B-Ball @ Bitter Lake Community Center
+DESCRIPTION:Ages: 8-10\\nCost: $77\\nDates: 9/8-10/20
 LOCATION:Bitter Lake Community Center\, 13035 Linden Ave N\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:84397-mon-255@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260105T140000
-DTEND;TZID=America/Los_Angeles:20260105T170000
-RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20260331T235900
+UID:94170-tue-187@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20261103T181500
+DTEND;TZID=America/Los_Angeles:20261103T190000
+RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20261201T235900
+SUMMARY:Little Hoopers B-Ball @ Bitter Lake Community Center
+DESCRIPTION:Ages: 8-10\\nCost: $55\\nDates: 11/3-12/1
+LOCATION:Bitter Lake Community Center\, 13035 Linden Ave N\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:94159-mon-188@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260907T140000
+DTEND;TZID=America/Los_Angeles:20260907T170000
+RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20261231T235900
 SUMMARY:Open Gym @ Bitter Lake Community Center
-DESCRIPTION:Ages: 5 and Older\\nCost: Free\\nDates: 1/2-3/31
+DESCRIPTION:Ages: 5 and Older\\nCost: Free\\nDates: 9/1-12/31
 LOCATION:Bitter Lake Community Center\, 13035 Linden Ave N\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:84397-tue-256@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260106T140000
-DTEND;TZID=America/Los_Angeles:20260106T170000
-RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20260331T235900
+UID:94159-tue-189@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260901T140000
+DTEND;TZID=America/Los_Angeles:20260901T170000
+RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20261231T235900
 SUMMARY:Open Gym @ Bitter Lake Community Center
-DESCRIPTION:Ages: 5 and Older\\nCost: Free\\nDates: 1/2-3/31
+DESCRIPTION:Ages: 5 and Older\\nCost: Free\\nDates: 9/1-12/31
 LOCATION:Bitter Lake Community Center\, 13035 Linden Ave N\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:84397-wed-257@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260107T140000
-DTEND;TZID=America/Los_Angeles:20260107T170000
-RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20260331T235900
+UID:94159-wed-190@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260902T140000
+DTEND;TZID=America/Los_Angeles:20260902T170000
+RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20261231T235900
 SUMMARY:Open Gym @ Bitter Lake Community Center
-DESCRIPTION:Ages: 5 and Older\\nCost: Free\\nDates: 1/2-3/31
+DESCRIPTION:Ages: 5 and Older\\nCost: Free\\nDates: 9/1-12/31
 LOCATION:Bitter Lake Community Center\, 13035 Linden Ave N\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:84397-thu-258@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260108T140000
-DTEND;TZID=America/Los_Angeles:20260108T170000
-RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20260331T235900
+UID:94159-thu-191@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260903T140000
+DTEND;TZID=America/Los_Angeles:20260903T170000
+RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20261231T235900
 SUMMARY:Open Gym @ Bitter Lake Community Center
-DESCRIPTION:Ages: 5 and Older\\nCost: Free\\nDates: 1/2-3/31
+DESCRIPTION:Ages: 5 and Older\\nCost: Free\\nDates: 9/1-12/31
 LOCATION:Bitter Lake Community Center\, 13035 Linden Ave N\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:84397-fri-259@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260102T140000
-DTEND;TZID=America/Los_Angeles:20260102T170000
-RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260331T235900
+UID:94159-fri-192@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260904T140000
+DTEND;TZID=America/Los_Angeles:20260904T170000
+RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20261231T235900
 SUMMARY:Open Gym @ Bitter Lake Community Center
-DESCRIPTION:Ages: 5 and Older\\nCost: Free\\nDates: 1/2-3/31
+DESCRIPTION:Ages: 5 and Older\\nCost: Free\\nDates: 9/1-12/31
 LOCATION:Bitter Lake Community Center\, 13035 Linden Ave N\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:88478-mon-260@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260406T140000
-DTEND;TZID=America/Los_Angeles:20260406T170000
-RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20260620T235900
+UID:94159-sun-193@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260906T124500
+DTEND;TZID=America/Los_Angeles:20260906T144500
+RRULE:FREQ=WEEKLY;BYDAY=SU;UNTIL=20261231T235900
 SUMMARY:Open Gym @ Bitter Lake Community Center
-DESCRIPTION:Ages: 5 and Older\\nCost: Free\\nDates: 4/1-6/20
+DESCRIPTION:Ages: 5 and Older\\nCost: Free\\nDates: 9/1-12/31
 LOCATION:Bitter Lake Community Center\, 13035 Linden Ave N\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:88478-tue-261@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260407T140000
-DTEND;TZID=America/Los_Angeles:20260407T170000
-RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20260620T235900
-SUMMARY:Open Gym @ Bitter Lake Community Center
-DESCRIPTION:Ages: 5 and Older\\nCost: Free\\nDates: 4/1-6/20
-LOCATION:Bitter Lake Community Center\, 13035 Linden Ave N\, Seattle\, WA
+UID:93428-wed-194@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260909T163000
+DTEND;TZID=America/Los_Angeles:20260909T171500
+RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20261021T235900
+SUMMARY:Little Hoopers @ Rainier Community Center
+DESCRIPTION:Ages: 3-5\\nCost: $84\\nDates: 9/9-10/21
+LOCATION:Rainier Community Center\, 4600 38th Ave S\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:88478-wed-262@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260401T140000
-DTEND;TZID=America/Los_Angeles:20260401T170000
-RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20260620T235900
-SUMMARY:Open Gym @ Bitter Lake Community Center
-DESCRIPTION:Ages: 5 and Older\\nCost: Free\\nDates: 4/1-6/20
-LOCATION:Bitter Lake Community Center\, 13035 Linden Ave N\, Seattle\, WA
+UID:93429-wed-195@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20261028T163000
+DTEND;TZID=America/Los_Angeles:20261028T171500
+RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20261216T235900
+SUMMARY:Little Hoopers @ Rainier Community Center
+DESCRIPTION:Ages: 3-5\\nCost: $84\\nDates: 10/28-12/16
+LOCATION:Rainier Community Center\, 4600 38th Ave S\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:88478-thu-263@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260402T140000
-DTEND;TZID=America/Los_Angeles:20260402T170000
-RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20260620T235900
-SUMMARY:Open Gym @ Bitter Lake Community Center
-DESCRIPTION:Ages: 5 and Older\\nCost: Free\\nDates: 4/1-6/20
-LOCATION:Bitter Lake Community Center\, 13035 Linden Ave N\, Seattle\, WA
+UID:93426-wed-196@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20260909T173000
+DTEND;TZID=America/Los_Angeles:20260909T183000
+RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20261021T235900
+SUMMARY:Junior Hoopers @ Rainier Community Center
+DESCRIPTION:Ages: 6-7\\nCost: $84\\nDates: 9/9-10/21
+LOCATION:Rainier Community Center\, 4600 38th Ave S\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-UID:88478-fri-264@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260403T140000
-DTEND;TZID=America/Los_Angeles:20260403T170000
-RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260620T235900
-SUMMARY:Open Gym @ Bitter Lake Community Center
-DESCRIPTION:Ages: 5 and Older\\nCost: Free\\nDates: 4/1-6/20
-LOCATION:Bitter Lake Community Center\, 13035 Linden Ave N\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:88478-sat-265@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260404T140000
-DTEND;TZID=America/Los_Angeles:20260404T170000
-RRULE:FREQ=WEEKLY;BYDAY=SA;UNTIL=20260620T235900
-SUMMARY:Open Gym @ Bitter Lake Community Center
-DESCRIPTION:Ages: 5 and Older\\nCost: Free\\nDates: 4/1-6/20
-LOCATION:Bitter Lake Community Center\, 13035 Linden Ave N\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:88341-sun-266@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260405T124500
-DTEND;TZID=America/Los_Angeles:20260405T144500
-RRULE:FREQ=WEEKLY;BYDAY=SU;UNTIL=20260621T235900
-SUMMARY:Open Gym @ Bitter Lake Community Center
-DESCRIPTION:Ages: 5 and Older\\nCost: Free\\nDates: 4/5-6/21
-LOCATION:Bitter Lake Community Center\, 13035 Linden Ave N\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:91482-sun-267@hoopfinder
-DTSTART;TZID=America/Los_Angeles:20260628T100000
-DTEND;TZID=America/Los_Angeles:20260628T140000
-RRULE:FREQ=WEEKLY;BYDAY=SU;UNTIL=20260816T235900
-SUMMARY:Open Gym @ Bitter Lake Community Center
-DESCRIPTION:Ages: 5 and Older\\nCost: Free\\nDates: 6/28-8/16
-LOCATION:Bitter Lake Community Center\, 13035 Linden Ave N\, Seattle\, WA
+UID:93427-wed-197@hoopfinder
+DTSTART;TZID=America/Los_Angeles:20261028T173000
+DTEND;TZID=America/Los_Angeles:20261028T183000
+RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20261216T235900
+SUMMARY:Junior Hoopers @ Rainier Community Center
+DESCRIPTION:Ages: 6-7\\nCost: $84\\nDates: 10/28-12/16
+LOCATION:Rainier Community Center\, 4600 38th Ave S\, Seattle\, WA
 END:VEVENT
 END:VCALENDAR
